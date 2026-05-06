@@ -60,7 +60,9 @@ const DATA_DIR = path.join(ROOT, 'data');
 const IMAGES_DIR = path.join(DATA_DIR, 'images');
 const OUTPUT_FILE = path.join(DATA_DIR, 'daily-brief.json');
 
-const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) marteloys-inspiration-feed/1.0';
+const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15';
+const HTML_TIMEOUT_MS = 8_000;
+const HTML_MAX_BYTES = 512 * 1024; // og:image lives in <head>; cap to keep memory low
 
 async function main() {
   await fs.mkdir(IMAGES_DIR, { recursive: true });
@@ -101,23 +103,40 @@ async function main() {
   const unique = collected.filter((a) => (seen.has(a.url) ? false : (seen.add(a.url), true)));
 
   console.log(`\nProcessing images for ${unique.length} unique articles…`);
-  let imagesOk = 0;
+  let imagesFromRss = 0;
+  let imagesFromOg = 0;
   let imagesFailed = 0;
   await Promise.all(
     unique.map(async (article) => {
       const raw = article._rawImageUrl;
       delete article._rawImageUrl;
-      if (!raw) return;
-      try {
-        article.image = await processImage(raw, article.id);
-        imagesOk++;
-      } catch (err) {
-        article.image = null;
-        imagesFailed++;
+
+      if (raw) {
+        try {
+          article.image = await processImage(raw, article.id);
+          imagesFromRss++;
+          return;
+        } catch {
+          // fall through to og:image fallback
+        }
       }
+
+      try {
+        const ogUrl = await extractOgImage(article.url);
+        if (ogUrl) {
+          article.image = await processImage(ogUrl, article.id);
+          imagesFromOg++;
+          return;
+        }
+      } catch {
+        // ignore
+      }
+
+      article.image = null;
+      imagesFailed++;
     }),
   );
-  console.log(`Images: ${imagesOk} ok, ${imagesFailed} failed/skipped`);
+  console.log(`Images: ${imagesFromRss} from RSS, ${imagesFromOg} from og:image, ${imagesFailed} none`);
 
   unique.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
@@ -206,6 +225,47 @@ function extractImageUrl(item) {
   const html = item.contentEncoded ?? item.content ?? item.summary ?? '';
   const m = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
   return m?.[1] ?? null;
+}
+
+async function extractOgImage(articleUrl) {
+  if (!articleUrl) return null;
+  const controller = new AbortController();
+  const t = setTimeout(() => controller.abort(), HTML_TIMEOUT_MS);
+  try {
+    const res = await fetch(articleUrl, {
+      headers: {
+        'User-Agent': UA,
+        Accept: 'text/html,application/xhtml+xml',
+        'Accept-Language': 'en-US,en;q=0.9',
+      },
+      signal: controller.signal,
+      redirect: 'follow',
+    });
+    if (!res.ok || !res.body) return null;
+
+    // Stream up to HTML_MAX_BYTES, decode, then stop — og:image lives in <head>.
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder('utf-8', { fatal: false });
+    let html = '';
+    let bytes = 0;
+    while (bytes < HTML_MAX_BYTES) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      bytes += value.byteLength;
+      html += decoder.decode(value, { stream: true });
+      if (/<\/head>/i.test(html)) break;
+    }
+    try { await reader.cancel(); } catch {}
+
+    const m =
+      html.match(/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i) ??
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::secure_url)?["']/i) ??
+      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    if (!m) return null;
+    return new URL(m[1], articleUrl).toString();
+  } finally {
+    clearTimeout(t);
+  }
 }
 
 async function processImage(rawUrl, articleId) {
