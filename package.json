@@ -1,0 +1,13 @@
+{
+  "name": "marteloys-inspiration-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-rss.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "sharp": "^0.33.5"
+  }
+}
