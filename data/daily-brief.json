@@ -1,44 +1,14 @@
 {
-  "generatedAt": "2026-05-06T12:09:05.020Z",
-  "totalArticles": 127,
+  "generatedAt": "2026-05-06T12:48:56.944Z",
+  "totalArticles": 108,
   "byCategory": {
-    "design": 35,
-    "motion": 26,
+    "design": 32,
+    "motion": 10,
     "sport": 35,
     "ux": 12,
     "marketing": 19
   },
   "articles": [
-    {
-      "id": "30fa63e10c3e7b26",
-      "title": "Whataburger’s redesigned packaging proves the Happy Meal could be happier",
-      "url": "https://www.fastcompany.com/91536126/whataburger-kids-meal-packaging?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-06T14:30:00.000Z",
-      "excerpt": "Whataburger is rethinking the fast-food kids meal. The Texas-based burger chain just relaunched its Kids Whatameal with a new focus on an engaging packaging experience over a singular plastic toy. In ",
-      "image": "data/images/30fa63e10c3e7b26.webp"
-    },
-    {
-      "id": "c43a604f67d4da46",
-      "title": "Target’s new shopping cart is built for Stanleys and Starbucks (exclusive)",
-      "url": "https://www.fastcompany.com/91537048/target-new-shopping-cart-built-for-stanleys-and-starbucks-exclusive?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-06T14:00:00.000Z",
-      "excerpt": "It’s the three-row SUV of big-box retail. Target’s bold red shopping cart has always anchored customers inside a Target store, promising a middle-class fancy experience. For the next few years, Target",
-      "image": "data/images/c43a604f67d4da46.webp"
-    },
-    {
-      "id": "967d6ec8fed308fb",
-      "title": "Who is Peter Arnell, America’s new chief brand architect?",
-      "url": "https://www.fastcompany.com/91537196/peter-arnell-americas-new-chief-brand-architect?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-06T14:00:00.000Z",
-      "excerpt": "The Trump administration just elected designer Peter Arnell “chief brand architect” of the National Design Studio. It’s a role that could have massive ripple effects for how the American government pr",
-      "image": "data/images/967d6ec8fed308fb.webp"
-    },
     {
       "id": "c09a2ece7df60eda",
       "title": "The NBA Embraces Its Chaos Era",
@@ -47,7 +17,7 @@
       "category": "sport",
       "publishedAt": "2026-05-06T11:55:00.000Z",
       "excerpt": "The NBA is historically the most predictable of the four major U.S. sports leagues. In contrast to baseball’s and hockey’s inherent randomness and football’s single-game playoff format, the favored te",
-      "image": null
+      "image": "data/images/c09a2ece7df60eda.webp"
     },
     {
       "id": "47c791ba7e198804",
@@ -67,7 +37,7 @@
       "category": "sport",
       "publishedAt": "2026-05-06T11:00:00.000Z",
       "excerpt": "Texas Tech quarterback Brendan Sorsby has retained the Michael Jordan of sports litigators, Jeffrey Kessler of Winston & Strawn, a telling sign that “Sorsby v. NCAA” might come to fruition. Sorsby, wh",
-      "image": null
+      "image": "data/images/e907b7b2fa2efea6.webp"
     },
     {
       "id": "679ce6c6ddd47243",
@@ -80,6 +50,16 @@
       "image": "data/images/679ce6c6ddd47243.webp"
     },
     {
+      "id": "30fa63e10c3e7b26",
+      "title": "Whataburger’s redesigned packaging proves the Happy Meal could be happier",
+      "url": "https://www.fastcompany.com/91536126/whataburger-kids-meal-packaging?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-06T10:30:00.000Z",
+      "excerpt": "Whataburger is rethinking the fast-food kids meal. The Texas-based burger chain just relaunched its Kids Whatameal with a new focus on an engaging packaging experience over a singular plastic toy. In ",
+      "image": "data/images/30fa63e10c3e7b26.webp"
+    },
+    {
       "id": "8a195fbcebd6e28c",
       "title": "A simple guide to parametricism",
       "url": "https://www.dezeen.com/2026/05/06/parametricism-simple-guide/",
@@ -88,6 +68,26 @@
       "publishedAt": "2026-05-06T10:00:09.000Z",
       "excerpt": "What actually is parametricism? As part of our series on the style, we've written a quick and simple overview of the notoriously complex and contentious concept. What exactly is it? Parametricism is a",
       "image": "data/images/8a195fbcebd6e28c.webp"
+    },
+    {
+      "id": "c43a604f67d4da46",
+      "title": "Target’s new shopping cart is built for Stanleys and Starbucks (exclusive)",
+      "url": "https://www.fastcompany.com/91537048/target-new-shopping-cart-built-for-stanleys-and-starbucks-exclusive?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-06T10:00:00.000Z",
+      "excerpt": "It’s the three-row SUV of big-box retail. Target’s bold red shopping cart has always anchored customers inside a Target store, promising a middle-class fancy experience. For the next few years, Target",
+      "image": "data/images/c43a604f67d4da46.webp"
+    },
+    {
+      "id": "967d6ec8fed308fb",
+      "title": "Who is Peter Arnell, America’s new chief brand architect?",
+      "url": "https://www.fastcompany.com/91537196/peter-arnell-americas-new-chief-brand-architect?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-06T10:00:00.000Z",
+      "excerpt": "The Trump administration just elected designer Peter Arnell “chief brand architect” of the National Design Studio. It’s a role that could have massive ripple effects for how the American government pr",
+      "image": "data/images/967d6ec8fed308fb.webp"
     },
     {
       "id": "284b10990d31156d",
@@ -117,7 +117,7 @@
       "category": "ux",
       "publishedAt": "2026-05-06T09:55:45.000Z",
       "excerpt": "A look at how my portfolio came together as a technical handshake, with GSAP orchestrating everything from shader uniforms to text reveals.",
-      "image": null
+      "image": "data/images/7eb0a5744bcd88a7.webp"
     },
     {
       "id": "e64dab9dafa68d5f",
@@ -147,7 +147,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-06T08:00:00.000Z",
       "excerpt": "When WPP posted its first-quarter numbers last week, one line did all the talking.",
-      "image": null
+      "image": "data/images/ab28bef9fcf12e46.webp"
     },
     {
       "id": "180018c2bb33b345",
@@ -167,7 +167,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-06T06:59:47.000Z",
       "excerpt": "Cannes Lions has named AB InBev as its 2026 Creative Marketer of the Year.",
-      "image": null
+      "image": "data/images/9f43bbd725202ec1.webp"
     },
     {
       "id": "df4ab4f22dc1d137",
@@ -177,7 +177,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-06T06:00:00.000Z",
       "excerpt": "Inside the strategic consultancy's RootIQ product, plus how Chap uses AI at home.",
-      "image": null
+      "image": "data/images/df4ab4f22dc1d137.webp"
     },
     {
       "id": "d78cee2aa2f67b40",
@@ -187,7 +187,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-06T06:00:00.000Z",
       "excerpt": "The assistant director of ad ops makes all his meats at home on a collection of grills and smokers.",
-      "image": null
+      "image": "data/images/d78cee2aa2f67b40.webp"
     },
     {
       "id": "dfcaa40496e87e5b",
@@ -207,27 +207,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-06T04:52:56.000Z",
       "excerpt": "Jameson, MLS's official whiskey, releases campaign ahead of the World Cup.",
-      "image": null
-    },
-    {
-      "id": "7174388b4a7cb45c",
-      "title": "Warner Bros. Japan Launches ‘Looney Tunes Gokko’ Shorts",
-      "url": "https://www.animationmagazine.net/2026/05/warner-bros-japan-launches-looney-tunes-gokko-shorts/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T23:10:33.000Z",
-      "excerpt": "Following up on the popular Tom and Jerry Gokko shorts series, Warner Bros. Japan is refreshing more of classic cartoon characters from the WB library with Looney Tunes Gokko. The first cartoon debute",
-      "image": null
-    },
-    {
-      "id": "9232a331766ed73e",
-      "title": "The artist behind Emma Chamberlain’s Met Gala gown on why it took 40 hours to paint",
-      "url": "https://www.fastcompany.com/91537038/emma-chamberlain-met-gala-gown?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T22:45:00.000Z",
-      "excerpt": "When influencer, podcaster, and entrepreneur Emma Chamberlain stepped out on the carpet at the 2026 Met Gala, it was in a swirl of acrylic ink and thick, glossy paint. She looked like a painting come ",
-      "image": "data/images/9232a331766ed73e.webp"
+      "image": "data/images/5dce5d85ea04086c.webp"
     },
     {
       "id": "71b3e9b1fc610aca",
@@ -240,26 +220,6 @@
       "image": "data/images/71b3e9b1fc610aca.webp"
     },
     {
-      "id": "60d14a916cb9b4d4",
-      "title": "GOP bill adds $1 billion in security upgrades for Trump’s ballroom",
-      "url": "https://www.fastcompany.com/91537204/ballroom-congress-security-white-house-trump?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T22:30:00.000Z",
-      "excerpt": "Senate Republicans have added $1 billion in White House security upgrades to legislation that would fund immigration enforcement agencies, a proposed boost for President Donald Trump’s ballroom projec",
-      "image": "data/images/60d14a916cb9b4d4.webp"
-    },
-    {
-      "id": "4ab4cc31cf2966bf",
-      "title": "Young Animator of the Year UK 2026 Opens for Entries",
-      "url": "https://www.animationmagazine.net/2026/05/young-animator-of-the-year-uk-2026-opens-for-entries/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T22:23:55.000Z",
-      "excerpt": "The Young Animator of the Year (YAY) competition returns for 2026, opening its doors to the U.K.’s most exciting emerging animation talent. The nationwide program invites creatives aged 11-22 to showc",
-      "image": null
-    },
-    {
       "id": "f6626a04bad14eea",
       "title": "NFL Receiver Stefon Diggs Not Guilty of Strangulation, Assault Charges",
       "url": "https://www.sportico.com/law/analysis/2026/stefon-diggs-not-guilty-nfl-future-1234891961/",
@@ -267,7 +227,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T21:36:19.000Z",
       "excerpt": "A jury in Massachusetts on Tuesday found former New England Patriots wide receiver Stefon Diggs not guilty of felony strangulation or suffocation and misdemeanor assault and battery charges. The rulin",
-      "image": null
+      "image": "data/images/f6626a04bad14eea.webp"
     },
     {
       "id": "b11c47d87701fe09",
@@ -290,16 +250,6 @@
       "image": "data/images/fd0ebb399c4588a5.webp"
     },
     {
-      "id": "502e877c72dd2dce",
-      "title": "Thailand’s New Cash Rebate: A Strategic Advantage",
-      "url": "https://www.animationmagazine.net/2026/05/thailands-new-cash-rebate-a-strategic-advantage/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T20:22:42.000Z",
-      "excerpt": "The Thai government has introduced a forward-looking incentive designed specifically to attract international productions and commissioning partners. Under the Incentive Measures for Foreign Commissio",
-      "image": null
-    },
-    {
       "id": "a650bdc6c838701e",
       "title": "NFL Schedule Release Timing Remains a Mystery as Ad Upfronts Loom",
       "url": "https://www.sportico.com/business/media/2026/nfl-tv-schedule-release-advertising-upfronts-1234891916/",
@@ -307,27 +257,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T20:10:45.000Z",
       "excerpt": "In a perfect world, the NFL will release its 2026-27 schedule on or before May 11, when NBCUniversal and Fox are set to present their fall TV slates to advertisers and media buyers during their upfron",
-      "image": null
-    },
-    {
-      "id": "09f582607677bf68",
-      "title": "‘Swapped’ Soars to No. 2 on Netflix Film Chart in Just 3 Days",
-      "url": "https://www.animationmagazine.net/2026/05/swapped-soars-to-no-2-on-netflix-film-chart-in-just-3-days/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T19:47:26.000Z",
-      "excerpt": "Skydance Animation and director Nathan Greno’s body-swapping animal buddy adventure Swapped is off to a flying start, as the original 3D CG animated feature debuts at No. 2 on the Netflix English film",
-      "image": null
-    },
-    {
-      "id": "5a1fceb1cd7b78b0",
-      "title": "Alexander Goldberg Jero Offers an Update on His Animated Adaptation of ‘The Master and Margarita’",
-      "url": "https://www.animationmagazine.net/2026/05/alexander-goldberg-jero-offers-an-update-on-his-animated-adaptation-of-the-master-and-the-margarita/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T19:45:04.000Z",
-      "excerpt": "More than 20 years ago, Alexander Goldberg Jero wrote an original script based on the acclaimed modern classic The Master and Margarita. Mikhail Bulgakov’s influential novel was first written in the S",
-      "image": null
+      "image": "data/images/a650bdc6c838701e.webp"
     },
     {
       "id": "1ece90cf18c4cf04",
@@ -360,16 +290,6 @@
       "image": "data/images/e8cfed81f8f30df7.webp"
     },
     {
-      "id": "b5ed14884cbf3606",
-      "title": "Rapunzel Pays a Visit in ‘Sofia the First: Royal Magic’ Official Trailer",
-      "url": "https://www.animationmagazine.net/2026/05/rapunzel-pays-a-visit-in-sofia-the-first-royal-magic-official-trailer/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T19:02:00.000Z",
-      "excerpt": "The official trailer for Sofia the First: Royal Magic was revealed today and features a first look at Rapunzel, who makes a special appearance in the premiere episode. The new series premieres Monday,",
-      "image": null
-    },
-    {
       "id": "a17dbe6b1a968006",
       "title": "Montreal students convert Olympic Stadium roof into design objects",
       "url": "https://www.dezeen.com/2026/05/05/montreal-students-convert-olympic-stadium-roof-into-design-objects/",
@@ -378,6 +298,26 @@
       "publishedAt": "2026-05-05T19:00:57.000Z",
       "excerpt": "Students at Concordia University in Montreal, Canada, have converted the Kevlar fabric used for the infamous Montreal Olympic Stadium into furniture for an exhibition held during Montreal Design Week.",
       "image": "data/images/a17dbe6b1a968006.webp"
+    },
+    {
+      "id": "9232a331766ed73e",
+      "title": "The artist behind Emma Chamberlain’s Met Gala gown on why it took 40 hours to paint",
+      "url": "https://www.fastcompany.com/91537038/emma-chamberlain-met-gala-gown?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T18:45:00.000Z",
+      "excerpt": "When influencer, podcaster, and entrepreneur Emma Chamberlain stepped out on the carpet at the 2026 Met Gala, it was in a swirl of acrylic ink and thick, glossy paint. She looked like a painting come ",
+      "image": "data/images/9232a331766ed73e.webp"
+    },
+    {
+      "id": "60d14a916cb9b4d4",
+      "title": "GOP bill adds $1 billion in security upgrades for Trump’s ballroom",
+      "url": "https://www.fastcompany.com/91537204/ballroom-congress-security-white-house-trump?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T18:30:00.000Z",
+      "excerpt": "Senate Republicans have added $1 billion in White House security upgrades to legislation that would fund immigration enforcement agencies, a proposed boost for President Donald Trump’s ballroom projec",
+      "image": "data/images/60d14a916cb9b4d4.webp"
     },
     {
       "id": "78980d211cd57bf2",
@@ -400,26 +340,6 @@
       "image": "data/images/d0cb871ffd2e04f5.webp"
     },
     {
-      "id": "0e73d803d3cf4973",
-      "title": "Behind the scenes at the Met Gala, this Olympian discovers she’s America’s sweetheart",
-      "url": "https://www.fastcompany.com/91536911/behind-scenes-met-gala-olympian-discovers-shes-americas-sweetheart?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T18:01:00.000Z",
-      "excerpt": "Alysa Liu surveyed the glittery crowd arrayed in front of her, sipping cocktails and chatting. It was her first Met Gala, and she hesitated for a second, searching for a word to describe it. “It’s … B",
-      "image": "data/images/0e73d803d3cf4973.webp"
-    },
-    {
-      "id": "c821237ecd3c4c05",
-      "title": "New Training Program on CBC’s ‘Stevie and the Sacred Animals’ Empowers the Next Generation of Indigenous Animators",
-      "url": "https://www.animationmagazine.net/2026/05/new-training-program-on-cbcs-stevie-and-the-sacred-animals-empowers-the-next-generation-of-indigenous-animators/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T17:52:03.000Z",
-      "excerpt": "A groundbreaking training initiative is creating meaningful pathways into the animation industry for Indigenous artists from Winnipeg, anchored in the production of the recently greenlit CBC preschool",
-      "image": null
-    },
-    {
       "id": "a21eb426ba1bac34",
       "title": "OpenAI Opens ChatGPT Ads to Self-Service Platform",
       "url": "https://www.adweek.com/media/openai-opens-chatgpt-ads-to-self-service-platform/",
@@ -427,7 +347,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-05T17:09:43.000Z",
       "excerpt": "OpenAI is making it easier for advertisers to buy ads on ChatGPT with a self-service ads platform, new partners, measurement tools, and bidding options.",
-      "image": null
+      "image": "data/images/a21eb426ba1bac34.webp"
     },
     {
       "id": "af037bebfaea1413",
@@ -457,7 +377,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T16:58:20.000Z",
       "excerpt": "Sphere Entertainment’s first-quarter revenue and earnings smashed Wall Street expectations on Tuesday, powering the stock to an all-time high price north of $147 before receding, finishing the day at ",
-      "image": null
+      "image": "data/images/353daf5b6d959c66.webp"
     },
     {
       "id": "d12ba810341a7fd0",
@@ -470,16 +390,6 @@
       "image": "data/images/d12ba810341a7fd0.webp"
     },
     {
-      "id": "20d45e847a046592",
-      "title": "Luffy’s Voyage Begins in New ‘The One Piece’ Anime on Netflix in 2027",
-      "url": "https://www.animationmagazine.net/2026/05/luffys-voyage-begins-in-new-the-one-piece-anime-on-netflix-in-2027/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T16:44:04.000Z",
-      "excerpt": "Batten down the hatches and hoist the mizzenmast — The One Piece is charting a course to premiere on Netflix in February, 2027! The a brand-new anime series, produced by WIT Studio, adapts the origina",
-      "image": null
-    },
-    {
       "id": "830c50343377be96",
       "title": "Sabalenka, Gauff Suggest Grand Slam Boycott Over Prize Money Share",
       "url": "https://frontofficesports.com/aryna-sabalenka-coco-gauff-suggest-grand-slam-boycott-over-prize-money-share/",
@@ -488,26 +398,6 @@
       "publishedAt": "2026-05-05T16:39:34.000Z",
       "excerpt": "“Without us there wouldn’t be a tournament,” Sabalenka said.",
       "image": "data/images/830c50343377be96.webp"
-    },
-    {
-      "id": "75b95d73c2b9d074",
-      "title": "Bwaaah! ‘King of the Hill’ Season 15 Premiering July 20",
-      "url": "https://www.animationmagazine.net/2026/05/bwaaah-king-of-the-hill-season-15-premiering-july-20/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T16:00:06.000Z",
-      "excerpt": "Hulu has announced Season 15 of the fan-favorite adult animated series King of the Hill will premiere on Monday, July 20. All 10 episodes of the new season will drop at once on the streamer, as well a",
-      "image": null
-    },
-    {
-      "id": "56f78bb51e6ee8e4",
-      "title": "How Ruggable designed its new rug to have the charm of jute without any of the scratchiness",
-      "url": "https://www.fastcompany.com/91536197/ruggable-jute-rug-design?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T16:00:00.000Z",
-      "excerpt": "I have a very conflicted relationship with my jute rug. I love the organic, textured aesthetic that makes my dining room feel earthy and relaxed. But over time, I’ve come to resent how scratchy it fee",
-      "image": "data/images/56f78bb51e6ee8e4.webp"
     },
     {
       "id": "9d66913216c78b2f",
@@ -527,7 +417,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-05T15:59:46.000Z",
       "excerpt": "Samsung Electronics America CMO Allison Stransky on ecosystem storytelling and data-driven marketing.",
-      "image": null
+      "image": "data/images/68eb00d395aeb7da.webp"
     },
     {
       "id": "ca41a4f2fd62face",
@@ -537,7 +427,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-05T15:05:33.000Z",
       "excerpt": "The marketing exec's departure comes at a dynamic time for the automaker",
-      "image": null
+      "image": "data/images/ca41a4f2fd62face.webp"
     },
     {
       "id": "c47a2950fc2bd5f9",
@@ -550,16 +440,6 @@
       "image": "data/images/c47a2950fc2bd5f9.webp"
     },
     {
-      "id": "c65149f397de8fd2",
-      "title": "‘A lot of graphic designers don’t get credit for what they do’: Chip Kidd on building a 40-year career",
-      "url": "https://www.fastcompany.com/91536171/chip-kidd-on-building-a-40-year-career?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T15:00:00.000Z",
-      "excerpt": "Growing up, graphic designer, editor, and author Chip Kidd was about as artsy as he could be in 1970s suburban Reading, Pennsylvania. “I glommed onto comic books very early on,” he says. “I loved to d",
-      "image": "data/images/c65149f397de8fd2.webp"
-    },
-    {
       "id": "71eb57c8b6a7a05b",
       "title": "NFLPA Sues Leaf Trading Cards Over IP, Group Licensing",
       "url": "https://www.sportico.com/law/analysis/2026/nflpa-leaf-group-licensing-lawsuit-industry-implications-1234891835/",
@@ -567,7 +447,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T15:00:00.000Z",
       "excerpt": "In a new federal lawsuit, NFLPA v. Leaf Trading Cards, the NFL players union accuses Leaf Trading Cards—which publishes cards featuring players—of misappropriating players’ publicity rights as well as",
-      "image": null
+      "image": "data/images/71eb57c8b6a7a05b.webp"
     },
     {
       "id": "91b127bd1ebb3277",
@@ -578,16 +458,6 @@
       "publishedAt": "2026-05-05T14:39:08.000Z",
       "excerpt": "The star pitcher will likely be out of action for at least two months.",
       "image": "data/images/91b127bd1ebb3277.webp"
-    },
-    {
-      "id": "08629a766d52240f",
-      "title": "Step inside the gorgeous, futuristic offices of Vast, the startup designing the next-gen space station",
-      "url": "https://www.fastcompany.com/91536211/vast-hq-design?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T14:30:00.000Z",
-      "excerpt": "A tall baobab tree greets people inside the Long Beach, California, headquarters of Vast, an aerospace company that is building the space station of the future. It’s planted beneath a skylight in the ",
-      "image": "data/images/08629a766d52240f.webp"
     },
     {
       "id": "a4dca5e64ed5859f",
@@ -610,6 +480,16 @@
       "image": "data/images/2e14d56092c49a4f.webp"
     },
     {
+      "id": "0e73d803d3cf4973",
+      "title": "Behind the scenes at the Met Gala, this Olympian discovers she’s America’s sweetheart",
+      "url": "https://www.fastcompany.com/91536911/behind-scenes-met-gala-olympian-discovers-shes-americas-sweetheart?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T14:01:00.000Z",
+      "excerpt": "Alysa Liu surveyed the glittery crowd arrayed in front of her, sipping cocktails and chatting. It was her first Met Gala, and she hesitated for a second, searching for a word to describe it. “It’s … B",
+      "image": "data/images/0e73d803d3cf4973.webp"
+    },
+    {
       "id": "4df25ebb165e909a",
       "title": "What Is It Like to Run the Knicks?",
       "url": "https://frontofficesports.com/videos/18-years-as-an-nba-exec-dave-checketts-tells-all/",
@@ -620,16 +500,6 @@
       "image": "data/images/4df25ebb165e909a.webp"
     },
     {
-      "id": "9253d32dfcd510fc",
-      "title": "The humble aluminum can gets a leak-proof redesign",
-      "url": "https://www.fastcompany.com/91536124/the-humble-aluminum-can-gets-a-leak-proof-redesign?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T14:00:00.000Z",
-      "excerpt": "Every drink has its trade-offs: Plastic bottles are lightweight and leak-proof, but they come at a cost to the environment. Cans are convenient and recyclable, but are prone to spilling. A new can des",
-      "image": "data/images/9253d32dfcd510fc.webp"
-    },
-    {
       "id": "4c449582f3359c0b",
       "title": "English Soccer Club’s Crypto ‘Ownership’ Sale Goes Wrong",
       "url": "https://www.sportico.com/leagues/soccer/2026/alphafc-fan-ownership-attempt-alfreton-town-comes-up-short-1234891790/",
@@ -637,7 +507,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T14:00:00.000Z",
       "excerpt": "When William Rush founded Chicago-based startup AlphaFC two years ago, he did so hoping to create a means for fans to own their favorite soccer club. The founder built a platform on the Solana blockch",
-      "image": null
+      "image": "data/images/4c449582f3359c0b.webp"
     },
     {
       "id": "1b3d35d4aa4e3417",
@@ -647,7 +517,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-05T13:54:18.000Z",
       "excerpt": "Plus, empowering teams to act with conviction, even without perfect data.",
-      "image": null
+      "image": "data/images/1b3d35d4aa4e3417.webp"
     },
     {
       "id": "7072cfcf0f01c758",
@@ -657,7 +527,7 @@
       "category": "marketing",
       "publishedAt": "2026-05-05T13:49:58.000Z",
       "excerpt": "This is the first in a two-part series on what separates CMOs who advance from those who stall. Next week: the ROI question marketers keep fumbling, and what they must […]",
-      "image": null
+      "image": "data/images/7072cfcf0f01c758.webp"
     },
     {
       "id": "a92cf2872d0b58a3",
@@ -667,7 +537,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T13:35:14.000Z",
       "excerpt": "The NCAA and Power Five conferences filed their formal response Monday to House v. NCAA class counsel’s motion to enforce the settlement, arguing the plaintiffs are effectively trying to “rewrite” the",
-      "image": null
+      "image": "data/images/a92cf2872d0b58a3.webp"
     },
     {
       "id": "3809b66109552544",
@@ -697,7 +567,17 @@
       "category": "motion",
       "publishedAt": "2026-05-05T12:43:58.000Z",
       "excerpt": "Inside the indie crowdfunded comedy about a 113-year-old vampire and her immigrant family, plus why its creator says studios get IP all wrong.",
-      "image": null
+      "image": "data/images/d8855a20309cd908.webp"
+    },
+    {
+      "id": "56f78bb51e6ee8e4",
+      "title": "How Ruggable designed its new rug to have the charm of jute without any of the scratchiness",
+      "url": "https://www.fastcompany.com/91536197/ruggable-jute-rug-design?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T12:00:00.000Z",
+      "excerpt": "I have a very conflicted relationship with my jute rug. I love the organic, textured aesthetic that makes my dining room feel earthy and relaxed. But over time, I’ve come to resent how scratchy it fee",
+      "image": "data/images/56f78bb51e6ee8e4.webp"
     },
     {
       "id": "3a3f440cf4091e7e",
@@ -707,7 +587,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T11:59:00.000Z",
       "excerpt": "William Blair has reached an agreement to purchase boutique advisor Inner Circle Sports, a move that will give the global investment bank an immediate presence in the rapidly growing world of sports d",
-      "image": null
+      "image": "data/images/3a3f440cf4091e7e.webp"
     },
     {
       "id": "ecab8b7e2949b742",
@@ -717,7 +597,7 @@
       "category": "sport",
       "publishedAt": "2026-05-05T11:55:00.000Z",
       "excerpt": "Stockholm-based tennis tracking startup PlayReplay has raised $12 million as it expands electronic line-calling, now a fixture at elite events, to lower-level play. PlayReplay has been used in 350,000",
-      "image": null
+      "image": "data/images/ecab8b7e2949b742.webp"
     },
     {
       "id": "d6c073e9d4973f6b",
@@ -727,7 +607,7 @@
       "category": "motion",
       "publishedAt": "2026-05-05T11:52:01.000Z",
       "excerpt": "Italy's annual animation and VFX gathering will honor 15 women across directing, cinematography, production design, VFX, publicity, and education.",
-      "image": null
+      "image": "data/images/d6c073e9d4973f6b.webp"
     },
     {
       "id": "d5a55f4e0e2d4288",
@@ -757,7 +637,17 @@
       "category": "motion",
       "publishedAt": "2026-05-05T11:03:18.000Z",
       "excerpt": "Toronto Motion Meetup (aka TOMO) is a community for design, animation, motion graphics and VFX. What started as a casual meetup out of a need to build connections is now a strong community of creative",
-      "image": null
+      "image": "data/images/4bac64d5bbcbb320.webp"
+    },
+    {
+      "id": "c65149f397de8fd2",
+      "title": "‘A lot of graphic designers don’t get credit for what they do’: Chip Kidd on building a 40-year career",
+      "url": "https://www.fastcompany.com/91536171/chip-kidd-on-building-a-40-year-career?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T11:00:00.000Z",
+      "excerpt": "Growing up, graphic designer, editor, and author Chip Kidd was about as artsy as he could be in 1970s suburban Reading, Pennsylvania. “I glommed onto comic books very early on,” he says. “I loved to d",
+      "image": "data/images/c65149f397de8fd2.webp"
     },
     {
       "id": "801a252193ab3553",
@@ -777,7 +667,7 @@
       "category": "ux",
       "publishedAt": "2026-05-05T10:59:39.000Z",
       "excerpt": "How I rebuilt Claude AI’s mascot animations from scratch, frame by frame, purely in code using SVG and GSAP.",
-      "image": null
+      "image": "data/images/7e5b27a91653ec8a.webp"
     },
     {
       "id": "c62c273149a2af0e",
@@ -798,6 +688,26 @@
       "publishedAt": "2026-05-05T10:44:48.000Z",
       "excerpt": "Our parametricism series launches with a look at the Heydar Aliyev Centre in Baku, Azerbaijan. Designed by Zaha Hadid, the project was described by the architect as the \"closest thing\" to translating ",
       "image": "data/images/c21a08601cbfb60c.webp"
+    },
+    {
+      "id": "08629a766d52240f",
+      "title": "Step inside the gorgeous, futuristic offices of Vast, the startup designing the next-gen space station",
+      "url": "https://www.fastcompany.com/91536211/vast-hq-design?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T10:30:00.000Z",
+      "excerpt": "A tall baobab tree greets people inside the Long Beach, California, headquarters of Vast, an aerospace company that is building the space station of the future. It’s planted beneath a skylight in the ",
+      "image": "data/images/08629a766d52240f.webp"
+    },
+    {
+      "id": "9253d32dfcd510fc",
+      "title": "The humble aluminum can gets a leak-proof redesign",
+      "url": "https://www.fastcompany.com/91536124/the-humble-aluminum-can-gets-a-leak-proof-redesign?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-05T10:00:00.000Z",
+      "excerpt": "Every drink has its trade-offs: Plastic bottles are lightweight and leak-proof, but they come at a cost to the environment. Cans are convenient and recyclable, but are prone to spilling. A new can des",
+      "image": "data/images/9253d32dfcd510fc.webp"
     },
     {
       "id": "99a2a4838eb9821c",
@@ -868,26 +778,6 @@
       "publishedAt": "2026-05-05T05:00:51.000Z",
       "excerpt": "The unique \"rhythm and progression\" of Japanese machiya townhouses helped Brewin Design Office devise the interiors of this hotel in Kyoto designed by Kengo Kuma. The Capella Kyoto hotel was built by ",
       "image": "data/images/ca4e8f889328ead7.webp"
-    },
-    {
-      "id": "3475bea7dd481761",
-      "title": "Lucas Museum of Narrative Arts Adds ‘Star Wars in Motion’ Exhibit to Opening Lineup",
-      "url": "https://www.animationmagazine.net/2026/05/lucas-museum-of-narrative-arts-adds-star-wars-in-motion-exhibit-to-opening-lineup/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-05T00:07:08.000Z",
-      "excerpt": "In celebration of May the Fourth, the Lucas Museum of Narrative Art is unveiling more details about its inaugural Cinema exhibition, “Star Wars in Motion.” The showcase is one of more than 30 installa",
-      "image": null
-    },
-    {
-      "id": "29366b33bed61725",
-      "title": "While billionaires get ready for the Met Gala, their workers walk a different kind of runway",
-      "url": "https://www.fastcompany.com/91536318/while-billionaires-get-ready-for-the-met-gala-their-workers-walk-a-different-kind-of-runway?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T23:23:22.000Z",
-      "excerpt": "Hours before Jeff Bezos and Lauren Sánchez Bezos take their places as sponsors and honorary chairs of the Met Gala—fashion’s glittery annual fundraiser in support of the Metropolitan Museum of Art’s C",
-      "image": "data/images/29366b33bed61725.webp"
     },
     {
       "id": "1d623d506c835317",
@@ -970,34 +860,14 @@
       "image": "data/images/d76a8540e3d4d454.webp"
     },
     {
-      "id": "c99a753b82cca165",
-      "title": "Chinese humanoids are leaving American robots in the dust",
-      "url": "https://www.fastcompany.com/91534069/chinese-humanoids-are-leaving-american-robots-in-the-dust?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "id": "29366b33bed61725",
+      "title": "While billionaires get ready for the Met Gala, their workers walk a different kind of runway",
+      "url": "https://www.fastcompany.com/91536318/while-billionaires-get-ready-for-the-met-gala-their-workers-walk-a-different-kind-of-runway?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "source": "Fast Company Co.Design",
       "category": "design",
-      "publishedAt": "2026-05-04T20:00:00.000Z",
-      "excerpt": "In December 2025, the biggest battery maker in the world, CATL, started what it calls the world’s first large-scale deployment of robots in its Luoyang, China factory. Last week, the State Grid Corpor",
-      "image": "data/images/c99a753b82cca165.webp"
-    },
-    {
-      "id": "76f660f0d4f5e8cf",
-      "title": "How the French School ESMA Opens Doors to Successful Careers in Animation",
-      "url": "https://www.animationmagazine.net/2026/05/how-the-french-school-esma-opens-doors-to-successful-careers-in-animation/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-04T19:20:43.000Z",
-      "excerpt": "First established in 1993 in Montpellier in the south of France, ESMA (École Supérieure des Métiers Artistiques), is known as one of the top schools specializing in 3D animation and visual effects. As",
-      "image": null
-    },
-    {
-      "id": "f839e06c6ae270b9",
-      "title": "AI-Animated ‘Critterz’ Feature Launching Sales at Cannes",
-      "url": "https://www.animationmagazine.net/2026/05/ai-animated-critterz-feature-launching-sales-at-cannes/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-04T18:39:22.000Z",
-      "excerpt": "AGC Studios has announced it will launch worldwide sales for Critterz at the Cannes Film Market. The AI-produced animated family feature based on the short film of the same name, the film centers on “",
-      "image": null
+      "publishedAt": "2026-05-04T19:23:22.000Z",
+      "excerpt": "Hours before Jeff Bezos and Lauren Sánchez Bezos take their places as sponsors and honorary chairs of the Met Gala—fashion’s glittery annual fundraiser in support of the Metropolitan Museum of Art’s C",
+      "image": "data/images/29366b33bed61725.webp"
     },
     {
       "id": "7e7d2d74022e16af",
@@ -1018,16 +888,6 @@
       "publishedAt": "2026-05-04T18:11:35.000Z",
       "excerpt": "The embattled regional sports network operator reaches another inflection point.",
       "image": "data/images/aba91be62897d447.webp"
-    },
-    {
-      "id": "6b2dd524826fb4be",
-      "title": "Digital Domain Welcomes Emmy-Nominated VFX Supe Jelmer Boskma to Team",
-      "url": "https://www.animationmagazine.net/2026/05/digital-domain-welcomes-emmy-nominated-vfx-supe-jelmer-boskma-to-team/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-04T18:00:35.000Z",
-      "excerpt": "Global visual effects and digital production studio Digital Domain announces the appointment of award-nominated visual effects supervisor and art director Jelmer Boskma. Boskma joins Digital Domain’s ",
-      "image": null
     },
     {
       "id": "e81fbc0b7746e9cb",
@@ -1060,26 +920,6 @@
       "image": "data/images/bfbf45c05764cb34.webp"
     },
     {
-      "id": "0a926f0e48ac2887",
-      "title": "Guru Studio Brings New ‘True and the Rainbow Kingdom’ Content to YouTube for Mental Health Awareness Month",
-      "url": "https://www.animationmagazine.net/2026/05/guru-studio-brings-new-true-and-the-rainbow-kingdom-content-to-youtube-for-mental-health-awareness-month/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-04T17:25:50.000Z",
-      "excerpt": "Canadian animation shop Guru Studio is expanding its globally popular Netflix preschool series True and the Rainbow Kingdom with the launch of new, original content for the first-time designed specifi",
-      "image": null
-    },
-    {
-      "id": "935c33959e5c6062",
-      "title": "The stage is set for the 2026 Met Gala. Here’s how to watch",
-      "url": "https://www.fastcompany.com/91536028/stage-set-2026-met-gala-how-watch?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T17:25:06.000Z",
-      "excerpt": "From beyond the museum walls Monday, works of art will move and take shape as the glitterati of guests from Beyoncé, Nicole Kidman to Venus Williams will fashionably ascend the Metropolitan Museum of ",
-      "image": "data/images/935c33959e5c6062.webp"
-    },
-    {
       "id": "3873e871fe985611",
       "title": "‘Star Heist’: How A Group Of Spanish Pros Pulled Off A Star Wars Day Short In Less Than 12 Parsecs (EXCLUSIVE)",
       "url": "https://www.cartoonbrew.com/shorts/may-the-4th-star-heist-wars-short-260544.html",
@@ -1087,17 +927,7 @@
       "category": "motion",
       "publishedAt": "2026-05-04T17:11:20.000Z",
       "excerpt": "Director José Ucha and his team walk us through the break-neck production behind their stylish May the 4th animated tribute.",
-      "image": null
-    },
-    {
-      "id": "aab48cecc9a3dc66",
-      "title": "Ryuu Launches First Vertical Anime Streamer, Signs Indie Creators with 1B+ Total Views",
-      "url": "https://www.animationmagazine.net/2026/05/ryuu-launches-first-vertical-anime-streamer-signs-indie-creators-with-1b-total-views/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-04T17:06:39.000Z",
-      "excerpt": "Ryuu, billing itself as the first vertical animation streaming platform, has announced its launch alongside a growing roster of internet-born creators whose combined online following exceeds 1 billion",
-      "image": null
+      "image": "data/images/3873e871fe985611.webp"
     },
     {
       "id": "2d108ed84aa2f29f",
@@ -1120,6 +950,16 @@
       "image": "data/images/91b0c7039573d3e5.webp"
     },
     {
+      "id": "c99a753b82cca165",
+      "title": "Chinese humanoids are leaving American robots in the dust",
+      "url": "https://www.fastcompany.com/91534069/chinese-humanoids-are-leaving-american-robots-in-the-dust?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-04T16:00:00.000Z",
+      "excerpt": "In December 2025, the biggest battery maker in the world, CATL, started what it calls the world’s first large-scale deployment of robots in its Luoyang, China factory. Last week, the State Grid Corpor",
+      "image": "data/images/c99a753b82cca165.webp"
+    },
+    {
       "id": "2d4921cc28995e2f",
       "title": "Oscars Set New VFX, AI Rules For Next Year’s 99th Ceremony",
       "url": "https://www.cartoonbrew.com/awards/oscars-new-rules-vfx-ai-writing-260541.html",
@@ -1127,7 +967,7 @@
       "category": "motion",
       "publishedAt": "2026-05-04T15:56:58.000Z",
       "excerpt": "Voters must watch the VFX Bake-Off reels, animated features get a Nov. 12 deadline, and the Academy reserves the right to question AI use.",
-      "image": null
+      "image": "data/images/2d4921cc28995e2f.webp"
     },
     {
       "id": "8f0e74be00063c9c",
@@ -1157,7 +997,7 @@
       "category": "motion",
       "publishedAt": "2026-05-04T15:34:58.000Z",
       "excerpt": "After two years of development, the director realized his teen superhero story had become a Frankenstein. So he pitched cutting humans entirely.",
-      "image": null
+      "image": "data/images/10909cd767ead022.webp"
     },
     {
       "id": "c4fcb0c939bc1304",
@@ -1190,26 +1030,6 @@
       "image": "data/images/b0328921c2a15391.webp"
     },
     {
-      "id": "a487a19033b69137",
-      "title": "Green Haven: The Creators of Henson’s New Special ‘Wowsabout’ Introduce Us to Their Happy Place",
-      "url": "https://www.animationmagazine.net/2026/05/green-haven-the-creators-of-hensons-new-special-wowsabout-introduce-us-to-their-happy-place/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-04T15:00:01.000Z",
-      "excerpt": "There’s always a special kind of excitement and anticipation when a new project from the team at The Jim Henson Company debuts on TV. Next month, family audiences will be able to enjoy Wowsabout, a br",
-      "image": null
-    },
-    {
-      "id": "9fec428314e5e4fe",
-      "title": "Paul Allen’s bioscience institute gets a refreshingly playful new brand",
-      "url": "https://www.fastcompany.com/91534221/allen-institute-rebranding-neville-brody?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T15:00:00.000Z",
-      "excerpt": "To rebrand the Allen Institute, designers thought horizontally instead of vertically. The nonprofit bioscience research institute, founded by Microsoft cofounder Paul Allen to map the human brain, had",
-      "image": "data/images/9fec428314e5e4fe.webp"
-    },
-    {
       "id": "02d4ecbcfe951594",
       "title": "Inside Opal’s attempt to reduce AI’s ‘alignment tax’ for marketers",
       "url": "https://www.marketingdive.com/news/inside-opals-attempt-to-reduce-ais-alignment-tax-for-marketers/818388/",
@@ -1227,7 +1047,7 @@
       "category": "ux",
       "publishedAt": "2026-05-04T14:52:00.000Z",
       "excerpt": "This is the story of why and how we built PGKeeper, a scalable and reliable service to support Figma’s rapidly growing products and database workload.",
-      "image": null
+      "image": "data/images/83c774864b4f996a.webp"
     },
     {
       "id": "6caebfec507d6b20",
@@ -1237,17 +1057,7 @@
       "category": "motion",
       "publishedAt": "2026-05-04T14:42:10.000Z",
       "excerpt": "A Pixar alum's 2D debut, an opera adaptation, a Blender simulation comedy, and a queer virus satire. The animation heading to the Croisette next week.",
-      "image": null
-    },
-    {
-      "id": "1bc827f9c3034cee",
-      "title": "A waterfront glow-up is transforming Brooklyn’s polluted Gowanus Canal",
-      "url": "https://www.fastcompany.com/91535727/a-waterfront-glow-up-is-transforming-brooklyns-polluted-gowanus-canal?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T14:30:00.000Z",
-      "excerpt": "For a Superfund site, the Gowanus Canal is looking surprisingly nice these days. Long an industrial dumping site, the Brooklyn waterway has undergone decades of interventions to undo that damage. Now,",
-      "image": "data/images/1bc827f9c3034cee.webp"
+      "image": "data/images/6caebfec507d6b20.webp"
     },
     {
       "id": "b00849f4e677808c",
@@ -1260,16 +1070,6 @@
       "image": "data/images/b00849f4e677808c.webp"
     },
     {
-      "id": "f4257274c87e607f",
-      "title": "This website takes the cacophony of NYC’s subway and turns it into jazz music",
-      "url": "https://www.fastcompany.com/91534877/this-website-takes-the-cacophony-of-nycs-subway-and-turns-it-into-jazz-music?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T14:00:00.000Z",
-      "excerpt": "New York City is notoriously loud. Cabs honking everywhere, thousands of people flocking to the streets at all hours, and cars blasting music for all to hear. But while some of us hear only noise, oth",
-      "image": "data/images/f4257274c87e607f.webp"
-    },
-    {
       "id": "ce18f1a4937b3819",
       "title": "Omnicom credits Q1 wins to core operations, reaffirms ongoing cost cuts",
       "url": "https://www.marketingdive.com/news/omnicom-credits-q1-wins-to-core-operations-reaffirms-ongoing-cost-cuts/819157/",
@@ -1278,6 +1078,16 @@
       "publishedAt": "2026-05-04T13:54:00.000Z",
       "excerpt": "The company also touted the success of its AI-powered Omni marketing platform, which has now been scaled across the entire organization.",
       "image": "data/images/ce18f1a4937b3819.webp"
+    },
+    {
+      "id": "935c33959e5c6062",
+      "title": "The stage is set for the 2026 Met Gala. Here’s how to watch",
+      "url": "https://www.fastcompany.com/91536028/stage-set-2026-met-gala-how-watch?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-04T13:25:06.000Z",
+      "excerpt": "From beyond the museum walls Monday, works of art will move and take shape as the glitterati of guests from Beyoncé, Nicole Kidman to Venus Williams will fashionably ascend the Metropolitan Museum of ",
+      "image": "data/images/935c33959e5c6062.webp"
     }
   ]
 }
