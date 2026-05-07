@@ -2,8 +2,8 @@ name: Daily Brief
 
 on:
   schedule:
-    # 6h Montréal — EST winter (UTC-5). Update to '0 10 * * *' when DST starts in spring.
-    - cron: '0 11 * * *'
+    # 6h Montréal — EDT summer (UTC-4). Switch back to '0 11 * * *' when DST ends in fall.
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 permissions:
