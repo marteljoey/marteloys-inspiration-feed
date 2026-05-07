@@ -349,7 +349,9 @@ async function pruneOldImages(currentArticles) {
   if (pruned > 0) console.log(`Pruned ${pruned} stale image(s) older than ${IMAGE_RETENTION_DAYS}d`);
 }
 
-main().catch((err) => {
-  console.error('Fatal:', err);
-  process.exit(1);
-});
+main()
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error('Fatal:', err);
+    process.exit(1);
+  });
