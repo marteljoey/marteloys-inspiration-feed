@@ -63,6 +63,7 @@ const OUTPUT_FILE = path.join(DATA_DIR, 'daily-brief.json');
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15';
 const HTML_TIMEOUT_MS = 8_000;
 const HTML_MAX_BYTES = 512 * 1024; // og:image lives in <head>; cap to keep memory low
+const ARTICLE_TIMEOUT_MS = 30_000; // wall-clock cap per article so one stuck request can't block Promise.all
 
 async function main() {
   await fs.mkdir(IMAGES_DIR, { recursive: true });
@@ -106,37 +107,53 @@ async function main() {
   let imagesFromRss = 0;
   let imagesFromOg = 0;
   let imagesFailed = 0;
+  let imagesTimedOut = 0;
   await Promise.all(
     unique.map(async (article) => {
       const raw = article._rawImageUrl;
       delete article._rawImageUrl;
 
-      if (raw) {
+      const work = (async () => {
+        if (raw) {
+          try {
+            const img = await processImage(raw, article.id);
+            return { kind: 'rss', img };
+          } catch {}
+        }
         try {
-          article.image = await processImage(raw, article.id);
-          imagesFromRss++;
-          return;
-        } catch {
-          // fall through to og:image fallback
-        }
-      }
+          const ogUrl = await extractOgImage(article.url);
+          if (ogUrl) {
+            const img = await processImage(ogUrl, article.id);
+            return { kind: 'og', img };
+          }
+        } catch {}
+        return { kind: 'none' };
+      })();
 
-      try {
-        const ogUrl = await extractOgImage(article.url);
-        if (ogUrl) {
-          article.image = await processImage(ogUrl, article.id);
-          imagesFromOg++;
-          return;
-        }
-      } catch {
-        // ignore
-      }
+      const TIMEOUT = Symbol('timeout');
+      let timer;
+      const timeout = new Promise((resolve) => {
+        timer = setTimeout(() => resolve(TIMEOUT), ARTICLE_TIMEOUT_MS);
+      });
+      const result = await Promise.race([work, timeout]);
+      clearTimeout(timer);
 
-      article.image = null;
-      imagesFailed++;
+      if (result === TIMEOUT) {
+        article.image = null;
+        imagesTimedOut++;
+      } else if (result.kind === 'rss') {
+        article.image = result.img;
+        imagesFromRss++;
+      } else if (result.kind === 'og') {
+        article.image = result.img;
+        imagesFromOg++;
+      } else {
+        article.image = null;
+        imagesFailed++;
+      }
     }),
   );
-  console.log(`Images: ${imagesFromRss} from RSS, ${imagesFromOg} from og:image, ${imagesFailed} none`);
+  console.log(`Images: ${imagesFromRss} from RSS, ${imagesFromOg} from og:image, ${imagesFailed} none, ${imagesTimedOut} timed out`);
 
   unique.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
