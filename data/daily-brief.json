@@ -1,23 +1,603 @@
 {
-  "generatedAt": "2026-05-06T12:58:10.051Z",
-  "totalArticles": 108,
+  "generatedAt": "2026-05-07T13:00:33.862Z",
+  "totalArticles": 96,
   "byCategory": {
     "design": 32,
-    "motion": 10,
+    "motion": 9,
     "sport": 35,
-    "ux": 12,
-    "marketing": 19
+    "ux": 5,
+    "marketing": 15
   },
   "articles": [
     {
-      "id": "c09a2ece7df60eda",
-      "title": "The NBA Embraces Its Chaos Era",
-      "url": "https://www.sportico.com/leagues/basketball/2026/2026-nba-playoffs-odds-76ers-lakers-1234891951/",
+      "id": "9478d41b4155dc81",
+      "title": "Atlanta Dream Hand Over Merch Business to Monarch Subsidiary",
+      "url": "https://www.sportico.com/business/commerce/2026/monarch-subsidiary-partners-with-atlanta-dream-retail-business-1234892089/",
       "source": "Sportico",
       "category": "sport",
-      "publishedAt": "2026-05-06T11:55:00.000Z",
-      "excerpt": "The NBA is historically the most predictable of the four major U.S. sports leagues. In contrast to baseball’s and hockey’s inherent randomness and football’s single-game playoff format, the favored te",
-      "image": "data/images/c09a2ece7df60eda.webp"
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "excerpt": "The Atlanta Dream are teaming up with a subsidiary of women’s sports investment firm Monarch Collective to run their merchandise business. The company, called Monarch Commerce, took over retail operat",
+      "image": "data/images/9478d41b4155dc81.webp"
+    },
+    {
+      "id": "6e0a85ce9f142314",
+      "title": "GKIDS Acquires U.S. Rights To ‘Tekkonkinkreet,’ Plans 4K Remaster Theatrical Run",
+      "url": "https://www.cartoonbrew.com/animators/gkids-tekkonkinkreet-4k-theatrical-release-blue-ray-260660.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-07T12:32:12.000Z",
+      "excerpt": "Studio4°C's cult classic, directed by Michael Arias, returns in a new 4K remaster, with a UHD Blu-ray and digital release from GKIDS coming later this year.",
+      "image": "data/images/6e0a85ce9f142314.webp"
+    },
+    {
+      "id": "2223d6f39c7335bb",
+      "title": "Celtics Investors Mittal, Grousbeck Prep Bid for NFL’s Seattle Seahawks",
+      "url": "https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-bid-aditya-mittal-wyc-grousbeck-1234892136/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-07T12:00:33.000Z",
+      "excerpt": "Aditya Mittal, a member of one of India’s richest families and an investor in the Boston Celtics, along with former Celtics control owner Wyc Grousbeck, are preparing a bid for the NFL champion Seattl",
+      "image": "data/images/2223d6f39c7335bb.webp"
+    },
+    {
+      "id": "3f81e64837fc9999",
+      "title": "How do you design a bathroom for the godfather of the Bauhaus? Keep it simple",
+      "url": "https://www.fastcompany.com/91537825/how-do-you-design-a-bathroom-for-the-godfather-of-the-bauhaus-keep-it-simple?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-07T12:00:00.000Z",
+      "excerpt": "In November 2025, nearly 300 designers began work on their submissions for the competition of a lifetime: the opportunity to design a bathroom for one of the most famous architects of all time. The co",
+      "image": "data/images/3f81e64837fc9999.webp"
+    },
+    {
+      "id": "251001b2d020e5c1",
+      "title": "Swin Cash Defends WNBA’s 2022 Stake Sale: ‘The League Is Growing’",
+      "url": "https://frontofficesports.com/swin-cash-wnba-investment/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-07T12:00:00.000Z",
+      "excerpt": "Cash will be a studio analyst on Amazon Prime Video this year.",
+      "image": "data/images/251001b2d020e5c1.webp"
+    },
+    {
+      "id": "b481aa1204661701",
+      "title": "Amazon, LinkedIn help advertisers reach professionals via CTV ads",
+      "url": "https://www.marketingdive.com/news/amazon-linkedin-help-advertisers-reach-professionals-via-ctv-ads/819372/",
+      "source": "Marketing Dive",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T12:00:00.000Z",
+      "excerpt": "As part of a new collaboration, marketers can run the networking platform’s CTV ad campaigns using Amazon DSP.",
+      "image": "data/images/b481aa1204661701.webp"
+    },
+    {
+      "id": "34333b0ca608cb2e",
+      "title": "Rever & Drage extends smallholding in Norway with stepped barn-like volume",
+      "url": "https://www.dezeen.com/2026/05/07/smallholding-nesjestranda-rever-drage-norway-extension/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T10:30:38.000Z",
+      "excerpt": "Architecture studio Rever & Drage has expanded a cluster of rural buildings in Norway, adding a barn-like form that steps up a sloping, rocky site. Named Smallholding at Nesjestranda, the site was alr",
+      "image": "data/images/34333b0ca608cb2e.webp"
+    },
+    {
+      "id": "906034fae4b4dc5e",
+      "title": "Trump’s latest logos leave out Vice President Vance",
+      "url": "https://www.fastcompany.com/91537689/trump-latest-logos-leave-out-vice-president-vance?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-07T10:30:00.000Z",
+      "excerpt": "Since Donald Trump named then-Senator JD Vance of Ohio his running mate in July 2024, his campaign logo has included both of their last names placed within a rectangular frame. In fundraising emails s",
+      "image": "data/images/906034fae4b4dc5e.webp"
+    },
+    {
+      "id": "8d823dba6dec3e8f",
+      "title": "Inter Miami Takes Equity Stake in Beckham-Founded IM8 Parent",
+      "url": "https://www.sportico.com/business/sponsorship/2026/inter-miami-equity-stake-im8-david-beckham-1234892093/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-07T10:30:00.000Z",
+      "excerpt": "For the first time, Inter Miami is taking an equity stake in a brand partner. On Thursday, the South Florida MLS franchise is announcing a multiyear sponsorship deal with health and longevity company ",
+      "image": "data/images/8d823dba6dec3e8f.webp"
+    },
+    {
+      "id": "5f4f6ad64c44b862",
+      "title": "\"I'm not happy\" with how fast parametricism is being adopted says Patrik Schumacher",
+      "url": "https://www.dezeen.com/2026/05/07/patrik-schumacher-parametricism-interview/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T10:00:56.000Z",
+      "excerpt": "Despite it being adopted more slowly than he anticipated, Patrik Schumacher believes parametricism will still become a universal architectural style, he tells Dezeen in this interview. Almost two deca",
+      "image": "data/images/5f4f6ad64c44b862.webp"
+    },
+    {
+      "id": "4eee12a7623ced4e",
+      "title": "Shop ’til you bot: Google, OpenAI, and the race to build agentic commerce",
+      "url": "https://www.fastcompany.com/91533534/shop-til-you-bot-google-openai-and-the-race-to-build-agentic-commerce?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-07T10:00:00.000Z",
+      "excerpt": "Last September, OpenAI and Shopify made an announcement that sent ripples throughout the retail industry: They were partnering to launch Instant Checkout—a feature that would let people complete purch",
+      "image": "data/images/4eee12a7623ced4e.webp"
+    },
+    {
+      "id": "6edee154fb472d95",
+      "title": "This 3D-printed cast shapes to your arm—and makes healing a broken bone more comfortable",
+      "url": "https://www.fastcompany.com/91537195/this-3d-printed-cast-shapes-to-your-arm-and-makes-healing-a-broken-bone-more-comfortable?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-07T10:00:00.000Z",
+      "excerpt": "Breaking your arm or wrist typically comes with another layer of misery: wearing a hot, itchy cast that makes showering tedious and swimming impossible. But in Singapore, patients at some hospitals an",
+      "image": "data/images/6edee154fb472d95.webp"
+    },
+    {
+      "id": "e61dc9340531cba6",
+      "title": "Sporticast: Duke, Amazon Test the Edges of College Media Rights",
+      "url": "https://www.sportico.com/podcasts/sporticast/2026/duke-amazon-college-basketball-rights-sporticast-podcast-1234892017/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-07T09:55:00.000Z",
+      "excerpt": "On the 550th Sporticast episode, hosts Eben Novy-Williams and Jacob Feldman are joined by colleague Lev Akabas to discuss a number of current sports business topics, including the backlash to Duke’s n",
+      "image": "data/images/e61dc9340531cba6.webp"
+    },
+    {
+      "id": "5a0fe974906b8db8",
+      "title": "Canopy freestanding workstations by Gensler for KFI Studios",
+      "url": "https://www.dezeen.com/2026/05/07/canopy-workstation-gensler-kfi-studio-dezeen-showroom/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T09:30:23.000Z",
+      "excerpt": "Dezeen Showroom: architecture studio Gensler worked with US furniture brand KFI Studios to produce this sheltered workstation for modern offices. Canopy is a freestanding workstation developed by Gens",
+      "image": "data/images/5a0fe974906b8db8.webp"
+    },
+    {
+      "id": "6b53383d361d7d69",
+      "title": "Team Repair's adult STEM kit shows how to fix your phone",
+      "url": "https://www.dezeen.com/2026/05/07/repair-kit-for-grown-ups-team-repair/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T09:15:14.000Z",
+      "excerpt": "British company Team Repair has launched a STEM learning kit specifically designed for grown-ups, using a dummy object to teach people how to fix their own phones. The Repair Kit for Grown-Ups: Mobile",
+      "image": "data/images/6b53383d361d7d69.webp"
+    },
+    {
+      "id": "e6319326e5b2c118",
+      "title": "Earl of East founders reveal how to bring personality to a rental home",
+      "url": "https://www.dezeen.com/2026/05/07/earl-of-east-founders-personality-rental-home-book/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T09:00:32.000Z",
+      "excerpt": "Following the release of Home for Now: Living Well Without Staying Long, a book spotlighting interior design for rental homes, authors Paul Firmin and Niko Dafkos talk Dezeen through eight of the most",
+      "image": "data/images/e6319326e5b2c118.webp"
+    },
+    {
+      "id": "5305becc0ffea0ec",
+      "title": "Young designers show paper glasses and aluminium-foam lightbulbs in Milan",
+      "url": "https://www.dezeen.com/2026/05/07/designers-paper-glasses-aluminium-lightbulbs-shared-matter/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T08:00:06.000Z",
+      "excerpt": "Emerging designers explored sustainability and everyday designs for the Shared Matter exhibition at Milan design week, which had a focus on international collaboration. On show inside the pastel-blue ",
+      "image": "data/images/5305becc0ffea0ec.webp"
+    },
+    {
+      "id": "3336efd89ddc7e22",
+      "title": "Elisa Ossino and Malini Doshi named Dezeen Awards 2026 judges",
+      "url": "https://www.dezeen.com/2026/05/07/elisa-ossino-malini-doshi-dezeen-awards-2026-judges/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T07:00:34.000Z",
+      "excerpt": "Architect Malini Doshi, interior designer Elisa Ossino and designers Lucas Muñoz and Mario Tsai have joined the judging panel for Dezeen Awards 2026. Dezeen Awards, in partnership with Trimble, is sea",
+      "image": "data/images/3336efd89ddc7e22.webp"
+    },
+    {
+      "id": "e91292bb4de32cdc",
+      "title": "The first taste of Joy",
+      "url": "https://uxdesign.cc/the-first-taste-of-joy-02f81408ac8a?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "ux",
+      "publishedAt": "2026-05-07T05:57:29.000Z",
+      "excerpt": "How a few fries, a piece of chicken, and a beginner’s mind became my first lesson in Joyful Design. Continue reading on UX Collective »",
+      "image": "data/images/e91292bb4de32cdc.webp"
+    },
+    {
+      "id": "2a804f91c5022346",
+      "title": "Vitra and Konstantin Grcic's Scout is \"dynamic tool\" for today's work and learning environments",
+      "url": "https://www.dezeen.com/2026/05/07/vitra-konstantin-grcic-scout-office-table-system/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-07T04:00:58.000Z",
+      "excerpt": "Promotion: embracing a \"beta mindset\", Swiss furniture brand Vitra and German industrial designer Konstantin Grcic have released a new flexible table system for offices or educational settings named S",
+      "image": "data/images/2a804f91c5022346.webp"
+    },
+    {
+      "id": "e07faf0df28a826e",
+      "title": "Timothée Chalamet Builds His Dream Soccer Team in Adidas&#8217; World Cup Short",
+      "url": "https://www.adweek.com/brand-marketing/timothee-chalamet-builds-his-dream-soccer-team-in-adidas-world-cup-short/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T04:00:00.000Z",
+      "excerpt": "The 5-minute spot kicks off the shoe brand's Tier-1 sponsorship of the tournament",
+      "image": "data/images/e07faf0df28a826e.webp"
+    },
+    {
+      "id": "d427553727a63d0c",
+      "title": "20 Don’t-Miss Moments From Sportico’s Invest West",
+      "url": "https://www.sportico.com/business/finance/2026/sportico-invest-west-san-francisco-recap-1234891979/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-07T01:12:37.000Z",
+      "excerpt": "The bottom line for Sportico‘s Invest West conference on Wednesday in San Francisco: Sports has never offered up so many business opportunities. Investors, team owners, venture capitalists and even Sa",
+      "image": "data/images/d427553727a63d0c.webp"
+    },
+    {
+      "id": "ef828b64a3883e6b",
+      "title": "Hell & High Water: Frame48 Makes Impact With Lazer",
+      "url": "https://www.stashmedia.tv/hell-high-water-frame48-makes-impact-with-lazer/",
+      "source": "Stash Media",
+      "category": "motion",
+      "publishedAt": "2026-05-07T00:56:16.000Z",
+      "excerpt": "In direct contrast to the snappy elegance of their recent film for Sonos, the crew at LA 3D motion house Frame48 conjures two elemental torture tests to showcase the impact protection of Lazer's cycli",
+      "image": "data/images/ef828b64a3883e6b.webp"
+    },
+    {
+      "id": "9681dffb6236d2ef",
+      "title": "We built this. Now we own it.",
+      "url": "https://uxdesign.cc/we-built-this-now-we-own-it-1f8f1ba7c768?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "ux",
+      "publishedAt": "2026-05-06T23:00:10.000Z",
+      "excerpt": "The dark side of ‘user-friendly’ AI.There is a teenager in Florida who is no longer alive. He had spent months talking to a chatbot modelled on a Game of Thrones character. He fell in love with it. He",
+      "image": "data/images/9681dffb6236d2ef.webp"
+    },
+    {
+      "id": "5007121cdf81cef9",
+      "title": "FIFA President Defends High World Cup Prices With College Football Comparison",
+      "url": "https://frontofficesports.com/fifa-gianni-infantino-high-world-cup-ticket-prices-college-football/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T21:52:39.000Z",
+      "excerpt": "The bizarre comparison comes after fans have criticized FIFA over ticket costs.",
+      "image": "data/images/5007121cdf81cef9.webp"
+    },
+    {
+      "id": "43d98d5356b4f31a",
+      "title": "FanDuel to Give Exiting CEO Amy Howe $4.37M Severance",
+      "url": "https://www.sportico.com/business/sports-betting/2026/fanduel-amy-howe-ceo-severance-salary-1234892077/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-06T21:24:57.000Z",
+      "excerpt": "FanDuel will pay Amy Howe $4.37 million severance—more than four times her annual base pay—after she was left go as CEO on Wednesday. Howe, who has led the company since 2021, will also receive a seri",
+      "image": "data/images/43d98d5356b4f31a.webp"
+    },
+    {
+      "id": "5ff2d51914400941",
+      "title": "Kara Lawson Explains Amazon Role & New Era of Women’s Basketball",
+      "url": "https://frontofficesports.com/videos/kara-lawson-explains-amazon-role-new-era-of-womens-basketball/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T20:36:40.000Z",
+      "excerpt": "Kara Lawson might be the busiest woman in basketball.",
+      "image": "data/images/5ff2d51914400941.webp"
+    },
+    {
+      "id": "2d9cfa1016f27ca1",
+      "title": "What’s It Like Being an Independent Sports Creator in 2026?",
+      "url": "https://frontofficesports.com/videos/whats-it-like-being-an-independent-sports-creator-in-2026/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T20:30:37.000Z",
+      "excerpt": "Kofie Yeboah went independent after 8 years at Vox.",
+      "image": "data/images/2d9cfa1016f27ca1.webp"
+    },
+    {
+      "id": "d936fc855025ae84",
+      "title": "Keep It In Motion: Bill Plympton At 80",
+      "url": "https://www.cartoonbrew.com/animators/keep-it-in-motion-bill-plympton-at-80-260621.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-06T20:23:06.000Z",
+      "excerpt": "'Short, fast, cheap, and funny': inside the working method that's kept the indie icon drawing through five decades and ten features.",
+      "image": "data/images/d936fc855025ae84.webp"
+    },
+    {
+      "id": "3f7b8d5147c72d9b",
+      "title": "FanDuel CEO Pushed Out After Five Years Amid Stock Slump",
+      "url": "https://frontofficesports.com/fanduel-ceo-pushed-out-after-five-years-amid-stock-slump/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T20:16:40.000Z",
+      "excerpt": "Shares of Flutter, FanDuel’s parent company, are down more than 50% this year.",
+      "image": "data/images/3f7b8d5147c72d9b.webp"
+    },
+    {
+      "id": "53d90654d08e816c",
+      "title": "Kara Lawson Took Amazon Job to Scout WNBA Players for Team USA",
+      "url": "https://frontofficesports.com/wnba-amazon-kara-lawson-team-usa/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T20:06:19.000Z",
+      "excerpt": "Lawson will be a WNBA game analyst for Amazon Prime Video.",
+      "image": "data/images/53d90654d08e816c.webp"
+    },
+    {
+      "id": "83219f13d30e9ffc",
+      "title": "Ted Turner Captained His Own Ship—and Let the Whole World Know It",
+      "url": "https://www.sportico.com/business/media/2026/ted-turner-dies-cnn-tbs-network-atlanta-braves-hawks-1234892042/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-06T19:46:55.000Z",
+      "excerpt": "Ted Turner, the billionaire media mogul who developed the cable superstation model through which he beamed Atlanta Braves games into just about every TV household in the U.S., has died at age 87. The ",
+      "image": "data/images/83219f13d30e9ffc.webp"
+    },
+    {
+      "id": "b0680cec21ba8897",
+      "title": "Vox Media Welcomes a Bidding War",
+      "url": "https://www.adweek.com/media/vox-media-james-murchoch-bidding-war/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T19:00:00.000Z",
+      "excerpt": "James Murdoch is the latest suitor to eye the empire. What does that mean for the rest of the portfolio?",
+      "image": "data/images/b0680cec21ba8897.webp"
+    },
+    {
+      "id": "7868e90811883be7",
+      "title": "Warriors’ Lacob Says His Padres Bid Assumed No MLB Games in 2027",
+      "url": "https://www.sportico.com/business/team-sales/2026/joe-lacob-padres-bid-no-mlb-games-2027-sportico-invest-west-1234892035/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-06T18:55:17.000Z",
+      "excerpt": "Golden State Warriors co-owner Joe Lacob said his unsuccessful bid to buy the San Diego Padres assumed that the entire 2027 MLB season would likely be lost due to labor strife. Lacob’s group was one o",
+      "image": "data/images/7868e90811883be7.webp"
+    },
+    {
+      "id": "94652c2d7dd257ea",
+      "title": "Changes in architecture degree classification may \"push students out of the profession\" says AIA",
+      "url": "https://www.dezeen.com/2026/05/06/aia-architecture-degress-professional-degree/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-06T18:49:34.000Z",
+      "excerpt": "The American Institute of Architects has released a statement criticising the federal government's exclusion of architecture as a professional degree, which it says may discourage students from becomi",
+      "image": "data/images/94652c2d7dd257ea.webp"
+    },
+    {
+      "id": "ee9ba4fd791b673d",
+      "title": "Italy’s prime minister outsmarted AI abusers by posting a surprising image",
+      "url": "https://www.fastcompany.com/91537698/giorgia-meloni-outsmarted-ai-abusers-by-posting-surprising-image?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-06T18:30:00.000Z",
+      "excerpt": "Yesterday, Giorgia Meloni posted to X an AI-generated photo of herself wearing only lingerie. The Italian prime minister published the image to warn others about how easy it is to create perfectly bel",
+      "image": "data/images/ee9ba4fd791b673d.webp"
+    },
+    {
+      "id": "a0c11efac94cbff6",
+      "title": "Napheesa Collier Admits Cathy Engelbert Rant Was For CBA Leverage",
+      "url": "https://frontofficesports.com/napheesa-collier-engelbert-comments/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T18:24:27.000Z",
+      "excerpt": "The WNBA and WNBPA agreed to a new labor deal in March.",
+      "image": "data/images/a0c11efac94cbff6.webp"
+    },
+    {
+      "id": "ac2e8eeeed2f2d1e",
+      "title": "NFL Nears Referee Deal to Avoid Another ‘Fail Mary’ Disaster",
+      "url": "https://frontofficesports.com/nfl-nears-referee-deal-to-avoid-another-fail-mary-disaster/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T17:54:14.000Z",
+      "excerpt": "The public vitriol between the two sides has lessened considerably.",
+      "image": "data/images/ac2e8eeeed2f2d1e.webp"
+    },
+    {
+      "id": "050def7497b7becc",
+      "title": "Tottenham Hotspur Is Facing a Billion-Dollar Disaster",
+      "url": "https://frontofficesports.com/tottenham-hotspur-premier-league-relegation-costs/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T16:32:46.000Z",
+      "excerpt": "A seemingly improbable drop to England’s second tier is a tangible possibility.",
+      "image": "data/images/050def7497b7becc.webp"
+    },
+    {
+      "id": "d2f8204e1d788258",
+      "title": "Bar Extra forms stylish social centrepiece for Montreal Design Week",
+      "url": "https://www.dezeen.com/2026/05/06/bar-extra-zebulon-perronmontreal-design-week/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-06T16:25:40.000Z",
+      "excerpt": "Culinary studio Menu Extra and local interior design studio Atelier Zébulon Perron have created a temporary bar outfitted with a custom chandelier for festival-goers at Montreal Design Week. A collabo",
+      "image": "data/images/d2f8204e1d788258.webp"
+    },
+    {
+      "id": "70bb0e4d327dc44f",
+      "title": "Kentucky Signs Former Top 10 WNBA Draft Pick",
+      "url": "https://frontofficesports.com/kentucky-signs-ajsa-sivka-wnba-draft-pick/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T16:20:50.000Z",
+      "excerpt": "NBA draft pick James Nnaji also returned to college.",
+      "image": "data/images/70bb0e4d327dc44f.webp"
+    },
+    {
+      "id": "4ba3be488f41436c",
+      "title": "Disney Still Bullish on ESPN as Josh D’Amaro Makes His Earnings Debut",
+      "url": "https://www.sportico.com/business/media/2026/disney-bullish-espn-damaro-makes-earnings-debut-1234892014/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-06T16:11:06.000Z",
+      "excerpt": "Josh D’Amaro’s inaugural earnings call as CEO of the Walt Disney Co. was a highly regimented affair, as company officials pre-screened queries submitted by analysts in advance of Wednesday morning’s f",
+      "image": "data/images/4ba3be488f41436c.webp"
+    },
+    {
+      "id": "8b238a587a0f64f6",
+      "title": "ESPN Revenue Rises, but Disney’s Sports Profits Slip",
+      "url": "https://frontofficesports.com/espn-revenue-rises-but-disneys-sports-profits-slip/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T16:00:52.000Z",
+      "excerpt": "Disney detailed the impact of heightened sports rights fees on the company.",
+      "image": "data/images/8b238a587a0f64f6.webp"
+    },
+    {
+      "id": "31d29f3ddf94f316",
+      "title": "Nike Says ‘Ciao’ to ‘Denaro Puro’ Air Jordan 4 Trademark Claims",
+      "url": "https://www.sportico.com/law/analysis/2026/nike-pure-money-denaro-puro-trademark-lawsuit-1234891986/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-06T16:00:00.000Z",
+      "excerpt": "Nike this week convinced a judge in the Southern District of New York to dismiss claims accusing the company of unlawful trademark activities over the phrase “Denaro Puro.” “Denaro Puro” is Italian fo",
+      "image": "data/images/31d29f3ddf94f316.webp"
+    },
+    {
+      "id": "99c141d7e9fb184d",
+      "title": "Could Skip Bayless ESPN Return Mean Shannon Sharpe Is Next?",
+      "url": "https://frontofficesports.com/skip-bayless-espn-return-shannon-sharpe-next/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T15:59:46.000Z",
+      "excerpt": "A source says Sharpe’s return isn't currently under consideration.",
+      "image": "data/images/99c141d7e9fb184d.webp"
+    },
+    {
+      "id": "72e74dae6486a91c",
+      "title": "Papaya Films Signs Director Favio Vinson to Roster",
+      "url": "https://www.stashmedia.tv/papaya-films-signs-director-favio-vinson-to-roster/",
+      "source": "Stash Media",
+      "category": "motion",
+      "publishedAt": "2026-05-06T15:41:31.000Z",
+      "excerpt": "From the release: International production company Papaya Films has signed up and coming director Favio Vinson to its roster. [Watch] The post Papaya Films Signs Director Favio Vinson to Roster appear",
+      "image": "data/images/72e74dae6486a91c.webp"
+    },
+    {
+      "id": "c62297a2d606d566",
+      "title": "Floyd Mayweather Jr. Calls Off $100M Legal Fight With Business Insider",
+      "url": "https://frontofficesports.com/floyd-mayweather-jr-calls-off-100m-legal-fight-with-business-insider/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T15:39:02.000Z",
+      "excerpt": "The boxer voluntarily dismissed his lawsuit.",
+      "image": "data/images/c62297a2d606d566.webp"
+    },
+    {
+      "id": "6c2f29846f144e27",
+      "title": "U.S. Open Falls Behind Masters in Prize Money: ‘It’s Not a Race’",
+      "url": "https://frontofficesports.com/us-open-golf-masters-tournament/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T15:34:52.000Z",
+      "excerpt": "The Masters increased its purse to $22.5 million this year.",
+      "image": "data/images/6c2f29846f144e27.webp"
+    },
+    {
+      "id": "04662650a0946781",
+      "title": "This driverless Chinese mining truck is giant, agile, and shows the industrial future of AI",
+      "url": "https://www.fastcompany.com/91537133/this-driverless-chinese-mining-truck-shows-the-industrial-future-of-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "source": "Fast Company Co.Design",
+      "category": "design",
+      "publishedAt": "2026-05-06T15:22:17.000Z",
+      "excerpt": "If you thought that embodied AI was all about humanoids and robotic good boys, allow me to introduce you to the Shuanglin K7. Equipped with a Level 4 driving brain that allows it to operate with no hu",
+      "image": "data/images/04662650a0946781.webp"
+    },
+    {
+      "id": "554820aa1c50fe33",
+      "title": "Will Wade Could Follow the Illinois Blueprint at LSU",
+      "url": "https://frontofficesports.com/lsu-illinois-foreign-players/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T15:19:38.000Z",
+      "excerpt": "LSU re-hired Wade in March after firing him in 2022.",
+      "image": "data/images/554820aa1c50fe33.webp"
+    },
+    {
+      "id": "0fdb3e3509c8b244",
+      "title": "First Round of NBA Playoffs Reaches 33-Year Viewership High",
+      "url": "https://frontofficesports.com/first-round-of-nba-playoffs-reaches-33-year-viewership-high/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T15:08:40.000Z",
+      "excerpt": "Game 7 of the 76ers-Celtics series averaged 11 million viewers.",
+      "image": "data/images/0fdb3e3509c8b244.webp"
+    },
+    {
+      "id": "153ccb931c25e9a2",
+      "title": "Blinkink and Music Video Agency FreeAgent UK Announce Collaboration",
+      "url": "https://www.stashmedia.tv/blinkink-and-music-video-agency-freeagent-uk-announce-collaboration/",
+      "source": "Stash Media",
+      "category": "motion",
+      "publishedAt": "2026-05-06T15:01:21.000Z",
+      "excerpt": "From the release: Award-winning production studio Blinkink have announced that FreeAgent UK, led by Alexa Haywood, has joined to represent the studio’s music video directors across the UK. [Watch] The",
+      "image": "data/images/153ccb931c25e9a2.webp"
+    },
+    {
+      "id": "d48207cdabe18c75",
+      "title": "Arkansas Men’s Tennis Coach: ‘Disbelief’ After Team Axed",
+      "url": "https://frontofficesports.com/arkansas-mens-tennis-cuts-jay-udwadia/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T14:30:00.000Z",
+      "excerpt": "Jay Udwadia spoke with FOS about the university’s decision to axe tennis.",
+      "image": "data/images/d48207cdabe18c75.webp"
+    },
+    {
+      "id": "9a848f9d5aa59ec6",
+      "title": "Former Knicks Pres: Leagues Have Gotten Too Cozy With Sportsbooks",
+      "url": "https://frontofficesports.com/former-knicks-pres-leagues-have-gotten-too-cozy-with-sportsbooks/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T14:21:50.000Z",
+      "excerpt": "\"I’m not sure that’s a good thing, this coziness that we’ve established.”",
+      "image": "data/images/9a848f9d5aa59ec6.webp"
+    },
+    {
+      "id": "67f7cd5b0701b48e",
+      "title": "Ribbit Launches in Copenhagen With Birdie Brand Film",
+      "url": "https://www.stashmedia.tv/ribbit-launches-in-copenhagen-with-birdie-brand-film/",
+      "source": "Stash Media",
+      "category": "motion",
+      "publishedAt": "2026-05-06T13:42:16.000Z",
+      "excerpt": "New Copenhagen motion studio Ribbit just dropped us their launch project, a fresh and friendly brand film for Birdie, the Danish-designed indoor air quality monitor that uses a canary-in-a-coal-mine m",
+      "image": "data/images/67f7cd5b0701b48e.webp"
+    },
+    {
+      "id": "d5c44037fe1e292a",
+      "title": "Midge Purce on NWSL’s Rodman Rule: ‘I Hate It So Much’",
+      "url": "https://frontofficesports.com/midge-purce-hates-rodman-rule/",
+      "source": "Front Office Sports",
+      "category": "sport",
+      "publishedAt": "2026-05-06T13:30:00.000Z",
+      "excerpt": "The rule helped keep Trinity Rodman in the NWSL.",
+      "image": "data/images/d5c44037fe1e292a.webp"
+    },
+    {
+      "id": "80560afe75a8f797",
+      "title": "Ringo lighting by Joan Gaspar for Marset",
+      "url": "https://www.dezeen.com/2026/05/06/ringo-lighting-joan-gaspar-marset-dezeen-showroom/",
+      "source": "Dezeen",
+      "category": "design",
+      "publishedAt": "2026-05-06T13:00:27.000Z",
+      "excerpt": "Dezeen Showroom: designer Joan Gaspar and Spanish brand Marset created this ice block-like light from a material that the company describes as \"astonishing\". The Ringo light is made from transparent p",
+      "image": "data/images/80560afe75a8f797.webp"
+    },
+    {
+      "id": "9b675d99323d16f5",
+      "title": "Nathan Little Hand-Animated Sydney the Song Cat For Four Years, Then YouTube Demonitized It As ‘Inauthentic Content’",
+      "url": "https://www.cartoonbrew.com/shorts/nathan-little-sydney-the-song-cat-youtube-260600.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-06T13:00:17.000Z",
+      "excerpt": "The industry vet says years of original 2D work was swept into a vague system with little explanation from a truly inauthentic customer service system.",
+      "image": "data/images/9b675d99323d16f5.webp"
+    },
+    {
+      "id": "c8ae57cddd213497",
+      "title": "CNN Founder Ted Turner Dies at 87",
+      "url": "https://www.adweek.com/tvnewser/cnn-founder-ted-turner-dies-at-87/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T11:21:35.000Z",
+      "excerpt": "Turner pioneered the 24-hour news network, fundamentally changing the news industry.",
+      "image": "data/images/c8ae57cddd213497.webp"
     },
     {
       "id": "47c791ba7e198804",
@@ -26,18 +606,8 @@
       "source": "UX Collective",
       "category": "ux",
       "publishedAt": "2026-05-06T11:18:09.000Z",
-      "excerpt": "The creator’s code is dead. It’s time to replace moral outrage with something more permanent.They cooked. With your work. They scraped. With your work.I’ve been designing for over 30 years, and I’ve n",
+      "excerpt": "The creator’s code is dead. It’s time to replace moral outrage with something more permanent. Continue reading on UX Collective »",
       "image": "data/images/47c791ba7e198804.webp"
-    },
-    {
-      "id": "e907b7b2fa2efea6",
-      "title": "Sorsby Hires Kessler: Breaking Down QB’s NCAA Eligibility Push",
-      "url": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-jeffrey-kessler-nil-antitrust-betting-1234891905/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-06T11:00:00.000Z",
-      "excerpt": "Texas Tech quarterback Brendan Sorsby has retained the Michael Jordan of sports litigators, Jeffrey Kessler of Winston & Strawn, a telling sign that “Sorsby v. NCAA” might come to fruition. Sorsby, wh",
-      "image": "data/images/e907b7b2fa2efea6.webp"
     },
     {
       "id": "679ce6c6ddd47243",
@@ -58,6 +628,16 @@
       "publishedAt": "2026-05-06T10:30:00.000Z",
       "excerpt": "Whataburger is rethinking the fast-food kids meal. The Texas-based burger chain just relaunched its Kids Whatameal with a new focus on an engaging packaging experience over a singular plastic toy. In ",
       "image": "data/images/30fa63e10c3e7b26.webp"
+    },
+    {
+      "id": "6f600c08cee4b3f6",
+      "title": "New Disney CEO Reveals the AI Enhancements Coming to Disney+",
+      "url": "https://www.adweek.com/convergent-tv/disney-ceo-reveals-improvements-and-ai-coming-to-disney/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T10:05:46.000Z",
+      "excerpt": "In his first earnings call, CEO Josh D'Amaro calls Disney+ the 'digital centerpiece' of the company.",
+      "image": "data/images/6f600c08cee4b3f6.webp"
     },
     {
       "id": "8a195fbcebd6e28c",
@@ -91,7 +671,7 @@
     },
     {
       "id": "284b10990d31156d",
-      "title": "Grant Horvat Among YouTube Golf Stars Joining Wasserman’s Firm",
+      "title": "Grant Horvat Among YouTube Golf Stars Joining Wasserman’s The Team",
       "url": "https://frontofficesports.com/grant-horvat-among-youtube-golf-stars-joining-wassermans-firm/",
       "source": "Front Office Sports",
       "category": "sport",
@@ -128,6 +708,36 @@
       "publishedAt": "2026-05-06T09:55:01.000Z",
       "excerpt": "The 250-metre-tall Mohammed VI Tower designed by architecture studios Rafael de La‑Hoz and Hakim Benjelloun has opened in Morocco as the country's tallest building and the third tallest in Africa. Nam",
       "image": "data/images/e64dab9dafa68d5f.webp"
+    },
+    {
+      "id": "a1958c6f4010fd82",
+      "title": "Advertisers Spent $1 Billion on Criteo in Q1, Up 8% Year-Over-Year",
+      "url": "https://www.adweek.com/commerce/advertisers-spent-1-billion-on-criteo-in-q1-up-8-year-over-year/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T09:50:20.000Z",
+      "excerpt": "Still, Criteo's growth numbers remain plagued by two major client losses.",
+      "image": "data/images/a1958c6f4010fd82.webp"
+    },
+    {
+      "id": "fd1420eca5941f26",
+      "title": "Old Navy Appoints Michael Francis as Chief Customer Officer Amid Turnaround",
+      "url": "https://www.adweek.com/brand-marketing/old-navy-appoints-michael-francis-as-chief-customer-officer-amid-turnaround/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T09:00:00.000Z",
+      "excerpt": "Gap Inc. has brought on veteran brand executive Michael Francis as chief customer officer of Old Navy and head of marketing shared services for the group.",
+      "image": "data/images/fd1420eca5941f26.webp"
+    },
+    {
+      "id": "5eafc1ec2989cfbb",
+      "title": "Ziff Davis Buys Four Brands From Recurrent Ventures, Launches a Lifestyle Group",
+      "url": "https://www.adweek.com/media/ziff-davis-recurrent-ventures-dwell-domino-business-home-popsci/",
+      "source": "Adweek",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T09:00:00.000Z",
+      "excerpt": "The company acquired Dwell, Domino, Business of Home, and PopSci, extending a multiyear roll-up as competitors pull back from the open web.",
+      "image": "data/images/5eafc1ec2989cfbb.webp"
     },
     {
       "id": "aa4b6039382edb42",
@@ -180,16 +790,6 @@
       "image": "data/images/df4ab4f22dc1d137.webp"
     },
     {
-      "id": "d78cee2aa2f67b40",
-      "title": "Exverus by Brainlabs&#8217; Aaron Silva Is the Good Cook Behind Big Evil Barbecue",
-      "url": "https://www.adweek.com/agencies/exverus-by-brainlabs-aaron-silva-is-the-good-cook-behind-big-evil-barbecue/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-06T06:00:00.000Z",
-      "excerpt": "The assistant director of ad ops makes all his meats at home on a collection of grills and smokers.",
-      "image": "data/images/d78cee2aa2f67b40.webp"
-    },
-    {
       "id": "dfcaa40496e87e5b",
       "title": "David Chipperfield creates freestanding plywood bathtub for Agape",
       "url": "https://www.dezeen.com/2026/05/06/agape-david-chipperfield-tambre-bathtub/",
@@ -200,16 +800,6 @@
       "image": "data/images/dfcaa40496e87e5b.webp"
     },
     {
-      "id": "5dce5d85ea04086c",
-      "title": "Jameson Teams Up With J Balvin and KidSuper for Soccer&#8217;s Big Year",
-      "url": "https://www.adweek.com/creativity/jameson-teams-up-with-j-balvin-and-kidsuper-for-soccers-big-year/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-06T04:52:56.000Z",
-      "excerpt": "Jameson, MLS's official whiskey, releases campaign ahead of the World Cup.",
-      "image": "data/images/5dce5d85ea04086c.webp"
-    },
-    {
       "id": "71b3e9b1fc610aca",
       "title": "NHL First-Round Playoff Ratings Up Nearly 70%",
       "url": "https://frontofficesports.com/nhl-first-round-playoff-ratings-70-percent/",
@@ -218,16 +808,6 @@
       "publishedAt": "2026-05-05T22:42:29.000Z",
       "excerpt": "ESPN and TNT Sports each averaged 1.2 million viewers per game.",
       "image": "data/images/71b3e9b1fc610aca.webp"
-    },
-    {
-      "id": "f6626a04bad14eea",
-      "title": "NFL Receiver Stefon Diggs Not Guilty of Strangulation, Assault Charges",
-      "url": "https://www.sportico.com/law/analysis/2026/stefon-diggs-not-guilty-nfl-future-1234891961/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T21:36:19.000Z",
-      "excerpt": "A jury in Massachusetts on Tuesday found former New England Patriots wide receiver Stefon Diggs not guilty of felony strangulation or suffocation and misdemeanor assault and battery charges. The rulin",
-      "image": "data/images/f6626a04bad14eea.webp"
     },
     {
       "id": "b11c47d87701fe09",
@@ -248,16 +828,6 @@
       "publishedAt": "2026-05-05T20:48:26.000Z",
       "excerpt": "If a brand film for your own studio should be fun to work on, co-founders/directors Uri Lotan and Kobi Vogman at Studio Bump in Tel Aviv certainly met the mark in this jaunty mock stop-motion piece ca",
       "image": "data/images/fd0ebb399c4588a5.webp"
-    },
-    {
-      "id": "a650bdc6c838701e",
-      "title": "NFL Schedule Release Timing Remains a Mystery as Ad Upfronts Loom",
-      "url": "https://www.sportico.com/business/media/2026/nfl-tv-schedule-release-advertising-upfronts-1234891916/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T20:10:45.000Z",
-      "excerpt": "In a perfect world, the NFL will release its 2026-27 schedule on or before May 11, when NBCUniversal and Fox are set to present their fall TV slates to advertisers and media buyers during their upfron",
-      "image": "data/images/a650bdc6c838701e.webp"
     },
     {
       "id": "1ece90cf18c4cf04",
@@ -340,16 +910,6 @@
       "image": "data/images/d0cb871ffd2e04f5.webp"
     },
     {
-      "id": "a21eb426ba1bac34",
-      "title": "OpenAI Opens ChatGPT Ads to Self-Service Platform",
-      "url": "https://www.adweek.com/media/openai-opens-chatgpt-ads-to-self-service-platform/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-05T17:09:43.000Z",
-      "excerpt": "OpenAI is making it easier for advertisers to buy ads on ChatGPT with a self-service ads platform, new partners, measurement tools, and bidding options.",
-      "image": "data/images/a21eb426ba1bac34.webp"
-    },
-    {
       "id": "af037bebfaea1413",
       "title": "Olson Kundig installs double-decker elevators at the Seattle Space Needle",
       "url": "https://www.dezeen.com/2026/05/05/olson-kundig-otis-elevators-double-decker-elevators-space-needle/",
@@ -360,76 +920,6 @@
       "image": "data/images/af037bebfaea1413.webp"
     },
     {
-      "id": "6328ed1e3fbe2951",
-      "title": "LIV CEO Says League’s Value Lies in the Teams As Saudi Era Nears End",
-      "url": "https://frontofficesports.com/liv-ceo-says-leagues-value-lies-in-the-teams-as-saudi-era-nears-end/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T17:02:07.000Z",
-      "excerpt": "The league is looking for new investors in its 13 teams.",
-      "image": "data/images/6328ed1e3fbe2951.webp"
-    },
-    {
-      "id": "353daf5b6d959c66",
-      "title": "Sphere Beats Earnings Forecast, Stock Reaches All-Time High",
-      "url": "https://www.sportico.com/business/finance/2026/sphere-beats-earnings-forecast-high-stock-1234891889/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T16:58:20.000Z",
-      "excerpt": "Sphere Entertainment’s first-quarter revenue and earnings smashed Wall Street expectations on Tuesday, powering the stock to an all-time high price north of $147 before receding, finishing the day at ",
-      "image": "data/images/353daf5b6d959c66.webp"
-    },
-    {
-      "id": "d12ba810341a7fd0",
-      "title": "Pablo Torre’s Pulitzer Puts Kawhi Leonard Investigation Back in Spotlight",
-      "url": "https://frontofficesports.com/pablo-torre-pulitzer-kawhi-leonard-investigation-back-in-spotlight/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T16:50:46.000Z",
-      "excerpt": "The league’s investigation remains ongoing.",
-      "image": "data/images/d12ba810341a7fd0.webp"
-    },
-    {
-      "id": "830c50343377be96",
-      "title": "Sabalenka, Gauff Suggest Grand Slam Boycott Over Prize Money Share",
-      "url": "https://frontofficesports.com/aryna-sabalenka-coco-gauff-suggest-grand-slam-boycott-over-prize-money-share/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T16:39:34.000Z",
-      "excerpt": "“Without us there wouldn’t be a tournament,” Sabalenka said.",
-      "image": "data/images/830c50343377be96.webp"
-    },
-    {
-      "id": "9d66913216c78b2f",
-      "title": "Danish Legend Peter Schmeichel Joins Fox World Cup Coverage",
-      "url": "https://frontofficesports.com/danish-legend-peter-schmeichel-joins-fox-world-cup-coverage/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T16:00:00.000Z",
-      "excerpt": "Schmeichel played goalie for Denmark in four World Cups.",
-      "image": "data/images/9d66913216c78b2f.webp"
-    },
-    {
-      "id": "68eb00d395aeb7da",
-      "title": "From Devices to Daily Life: Samsung&#8217;s AI Living Push",
-      "url": "https://www.adweek.com/brand-marketing/from-devices-to-daily-life-samsungs-ai-living-push/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-05T15:59:46.000Z",
-      "excerpt": "Samsung Electronics America CMO Allison Stransky on ecosystem storytelling and data-driven marketing.",
-      "image": "data/images/68eb00d395aeb7da.webp"
-    },
-    {
-      "id": "ca41a4f2fd62face",
-      "title": "Chief Growth Officer Norm de Greve to Leave General Motors",
-      "url": "https://www.adweek.com/brand-marketing/chief-growth-officer-norm-de-greve-to-leave-general-motors/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-05T15:05:33.000Z",
-      "excerpt": "The marketing exec's departure comes at a dynamic time for the automaker",
-      "image": "data/images/ca41a4f2fd62face.webp"
-    },
-    {
       "id": "c47a2950fc2bd5f9",
       "title": "Peterson Rich Office designs Condé M Nast Galleries at The Met in time for yearly gala exhibition",
       "url": "https://www.dezeen.com/2026/05/05/peterson-rich-office-met-galleries/",
@@ -438,26 +928,6 @@
       "publishedAt": "2026-05-05T15:00:36.000Z",
       "excerpt": "Brooklyn-based architecture studio Peterson Rich Office has completed the design of five spaces at the Metropolitan Museum of Art in New York, revealing historic facades to showcase the layered histor",
       "image": "data/images/c47a2950fc2bd5f9.webp"
-    },
-    {
-      "id": "71eb57c8b6a7a05b",
-      "title": "NFLPA Sues Leaf Trading Cards Over IP, Group Licensing",
-      "url": "https://www.sportico.com/law/analysis/2026/nflpa-leaf-group-licensing-lawsuit-industry-implications-1234891835/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T15:00:00.000Z",
-      "excerpt": "In a new federal lawsuit, NFLPA v. Leaf Trading Cards, the NFL players union accuses Leaf Trading Cards—which publishes cards featuring players—of misappropriating players’ publicity rights as well as",
-      "image": "data/images/71eb57c8b6a7a05b.webp"
-    },
-    {
-      "id": "91b127bd1ebb3277",
-      "title": "Skubal’s Elbow Surgery Puts Free-Agent Record in Doubt",
-      "url": "https://frontofficesports.com/skubals-elbow-surgery-puts-free-agent-record-in-doubt/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T14:39:08.000Z",
-      "excerpt": "The star pitcher will likely be out of action for at least two months.",
-      "image": "data/images/91b127bd1ebb3277.webp"
     },
     {
       "id": "a4dca5e64ed5859f",
@@ -490,56 +960,6 @@
       "image": "data/images/0e73d803d3cf4973.webp"
     },
     {
-      "id": "4df25ebb165e909a",
-      "title": "What Is It Like to Run the Knicks?",
-      "url": "https://frontofficesports.com/videos/18-years-as-an-nba-exec-dave-checketts-tells-all/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T14:00:28.000Z",
-      "excerpt": "Dave Checketts on his time running the Knicks & Jazz, Jordan war stories, and his investment strategy across major sports leagues.",
-      "image": "data/images/4df25ebb165e909a.webp"
-    },
-    {
-      "id": "4c449582f3359c0b",
-      "title": "English Soccer Club’s Crypto ‘Ownership’ Sale Goes Wrong",
-      "url": "https://www.sportico.com/leagues/soccer/2026/alphafc-fan-ownership-attempt-alfreton-town-comes-up-short-1234891790/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T14:00:00.000Z",
-      "excerpt": "When William Rush founded Chicago-based startup AlphaFC two years ago, he did so hoping to create a means for fans to own their favorite soccer club. The founder built a platform on the Solana blockch",
-      "image": "data/images/4c449582f3359c0b.webp"
-    },
-    {
-      "id": "1b3d35d4aa4e3417",
-      "title": "Campbell’s Risa Cretella on Reinventing Iconic Brands and Winning in Commoditized Categories",
-      "url": "https://www.adweek.com/brand-marketing/campbells-risa-cretella-reinventing-iconic-brands-winning-commoditized-categories/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-05T13:54:18.000Z",
-      "excerpt": "Plus, empowering teams to act with conviction, even without perfect data.",
-      "image": "data/images/1b3d35d4aa4e3417.webp"
-    },
-    {
-      "id": "7072cfcf0f01c758",
-      "title": "5 Things CEO-Ready CMOs Know That Others Don&#8217;t",
-      "url": "https://www.adweek.com/brand-marketing/5-things-ceo-ready-cmos-know-that-others-dont/",
-      "source": "Adweek",
-      "category": "marketing",
-      "publishedAt": "2026-05-05T13:49:58.000Z",
-      "excerpt": "This is the first in a two-part series on what separates CMOs who advance from those who stall. Next week: the ROI question marketers keep fumbling, and what they must […]",
-      "image": "data/images/7072cfcf0f01c758.webp"
-    },
-    {
-      "id": "a92cf2872d0b58a3",
-      "title": "NCAA, Power Five to House Counsel: Don’t ‘End Run’ Pay-for-Play Ban",
-      "url": "https://www.sportico.com/leagues/college-sports/2026/house-v-ncaa-defendants-mmrs-settlement-1234891853/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T13:35:14.000Z",
-      "excerpt": "The NCAA and Power Five conferences filed their formal response Monday to House v. NCAA class counsel’s motion to enforce the settlement, arguing the plaintiffs are effectively trying to “rewrite” the",
-      "image": "data/images/a92cf2872d0b58a3.webp"
-    },
-    {
       "id": "3809b66109552544",
       "title": "Toyota merges four distinct campaigns in EV push",
       "url": "https://www.marketingdive.com/news/toyota-merges-four-distinct-campaigns-in-ev-push/819307/",
@@ -548,546 +968,6 @@
       "publishedAt": "2026-05-05T13:23:35.000Z",
       "excerpt": "From singing puppets to inspirational small business stories, the brand is attempting to cover as many bases as possible as EV sales increase.",
       "image": "data/images/3809b66109552544.webp"
-    },
-    {
-      "id": "4e4b03ab9780b30b",
-      "title": "Nest bed by Bolzan",
-      "url": "https://www.dezeen.com/2026/05/05/nest-bed-by-bolzan-dezeen-showroom/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T13:00:12.000Z",
-      "excerpt": "Dezeen Showroom: fine wood craftsmanship is celebrated in the Nest bed, created by Italian furniture brand Bolzan to help turn bedrooms into design-forward retreats. Designed in-house by Bolzan Lab, t",
-      "image": "data/images/4e4b03ab9780b30b.webp"
-    },
-    {
-      "id": "d8855a20309cd908",
-      "title": "‘Hopefully It’ll Outlive Me’: Emily Brundige On ‘Strawberry Vampire’ And Why She’s Done Handing Her IP To Studios",
-      "url": "https://www.cartoonbrew.com/series/emily-brundige-strawberry-vampire-260573.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-05T12:43:58.000Z",
-      "excerpt": "Inside the indie crowdfunded comedy about a 113-year-old vampire and her immigrant family, plus why its creator says studios get IP all wrong.",
-      "image": "data/images/d8855a20309cd908.webp"
-    },
-    {
-      "id": "56f78bb51e6ee8e4",
-      "title": "How Ruggable designed its new rug to have the charm of jute without any of the scratchiness",
-      "url": "https://www.fastcompany.com/91536197/ruggable-jute-rug-design?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T12:00:00.000Z",
-      "excerpt": "I have a very conflicted relationship with my jute rug. I love the organic, textured aesthetic that makes my dining room feel earthy and relaxed. But over time, I’ve come to resent how scratchy it fee",
-      "image": "data/images/56f78bb51e6ee8e4.webp"
-    },
-    {
-      "id": "3a3f440cf4091e7e",
-      "title": "William Blair to Buy Inner Circle, Bolstering Sports Dealmaking",
-      "url": "https://www.sportico.com/business/finance/2026/william-blair-inner-circle-sports-purchase-1234891802/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T11:59:00.000Z",
-      "excerpt": "William Blair has reached an agreement to purchase boutique advisor Inner Circle Sports, a move that will give the global investment bank an immediate presence in the rapidly growing world of sports d",
-      "image": "data/images/3a3f440cf4091e7e.webp"
-    },
-    {
-      "id": "ecab8b7e2949b742",
-      "title": "Tennis Line-Calling Tech Grows From Pro Play to Local Courts",
-      "url": "https://www.sportico.com/business/tech/2026/tennis-electronic-line-calling-startup-playreplay-value-1234891784/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-05T11:55:00.000Z",
-      "excerpt": "Stockholm-based tennis tracking startup PlayReplay has raised $12 million as it expands electronic line-calling, now a fixture at elite events, to lower-level play. PlayReplay has been used in 350,000",
-      "image": "data/images/ecab8b7e2949b742.webp"
-    },
-    {
-      "id": "d6c073e9d4973f6b",
-      "title": "View Conference’s New Trailblazer Award Honors 15 Women From Across The Motion Picture Industry",
-      "url": "https://www.cartoonbrew.com/awards/view-conference-trailblazer-award-2026-260567.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-05T11:52:01.000Z",
-      "excerpt": "Italy's annual animation and VFX gathering will honor 15 women across directing, cinematography, production design, VFX, publicity, and education.",
-      "image": "data/images/d6c073e9d4973f6b.webp"
-    },
-    {
-      "id": "d5a55f4e0e2d4288",
-      "title": "The psychological fine print of AI",
-      "url": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "ux",
-      "publishedAt": "2026-05-05T11:12:28.000Z",
-      "excerpt": "What happens when technology starts reshaping the minds using it? Meet the new class of cognitive biases AI is creating.We have spent decades cataloguing the ways the human mind trips itself up. Confi",
-      "image": "data/images/d5a55f4e0e2d4288.webp"
-    },
-    {
-      "id": "a740525626b568c8",
-      "title": "The trick to designing agentic AI is learning how to think like a manager",
-      "url": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "ux",
-      "publishedAt": "2026-05-05T11:12:25.000Z",
-      "excerpt": "Setting boundaries (and establishing trust) is the ask with agentic projects Continue reading on UX Collective »",
-      "image": "data/images/a740525626b568c8.webp"
-    },
-    {
-      "id": "4bac64d5bbcbb320",
-      "title": "Toronto Motion Meetup Returns May 29th With Escafandra",
-      "url": "https://www.stashmedia.tv/toronto-motion-meetup-returns-may-29th-with-escafandra/",
-      "source": "Stash Media",
-      "category": "motion",
-      "publishedAt": "2026-05-05T11:03:18.000Z",
-      "excerpt": "Toronto Motion Meetup (aka TOMO) is a community for design, animation, motion graphics and VFX. What started as a casual meetup out of a need to build connections is now a strong community of creative",
-      "image": "data/images/4bac64d5bbcbb320.webp"
-    },
-    {
-      "id": "c65149f397de8fd2",
-      "title": "‘A lot of graphic designers don’t get credit for what they do’: Chip Kidd on building a 40-year career",
-      "url": "https://www.fastcompany.com/91536171/chip-kidd-on-building-a-40-year-career?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T11:00:00.000Z",
-      "excerpt": "Growing up, graphic designer, editor, and author Chip Kidd was about as artsy as he could be in 1970s suburban Reading, Pennsylvania. “I glommed onto comic books very early on,” he says. “I loved to d",
-      "image": "data/images/c65149f397de8fd2.webp"
-    },
-    {
-      "id": "801a252193ab3553",
-      "title": "Why American Family Insurance made a reality competition series for Hulu",
-      "url": "https://www.marketingdive.com/news/why-american-family-insurance-made-a-reality-competition-series-for-hulu/819093/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "publishedAt": "2026-05-05T11:00:00.000Z",
-      "excerpt": "CMO Sherina Smith explains how “Designed To Last” taps into streaming TV behaviors and allows the brand to engage more deeply with consumers.",
-      "image": "data/images/801a252193ab3553.webp"
-    },
-    {
-      "id": "7e5b27a91653ec8a",
-      "title": "Reverse-Engineering Claude AI’s Mascot Animations with SVG and GSAP",
-      "url": "https://tympanus.net/codrops/2026/05/05/reverse-engineering-claude-ais-mascot-animations-with-svg-and-gsap/",
-      "source": "Codrops",
-      "category": "ux",
-      "publishedAt": "2026-05-05T10:59:39.000Z",
-      "excerpt": "How I rebuilt Claude AI’s mascot animations from scratch, frame by frame, purely in code using SVG and GSAP.",
-      "image": "data/images/7e5b27a91653ec8a.webp"
-    },
-    {
-      "id": "c62c273149a2af0e",
-      "title": "Parametricism is the architecture \"of neoliberalism itself\"",
-      "url": "https://www.dezeen.com/2026/05/05/parametricism-introduction-owen-hopkins/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T10:45:09.000Z",
-      "excerpt": "Parametricism has been billed by its originator as the defining architecture style of the 21st century. To kick off a new Dezeen series on the controversial and famously complex theory, Owen Hopkins p",
-      "image": "data/images/c62c273149a2af0e.webp"
-    },
-    {
-      "id": "c21a08601cbfb60c",
-      "title": "Heydar Aliyev Centre is the ultimate expression of parametricism's \"seamless fluidity\"",
-      "url": "https://www.dezeen.com/2026/05/05/heydar-aliyev-centre-zaha-hadid-parametricism-case-study/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T10:44:48.000Z",
-      "excerpt": "Our parametricism series launches with a look at the Heydar Aliyev Centre in Baku, Azerbaijan. Designed by Zaha Hadid, the project was described by the architect as the \"closest thing\" to translating ",
-      "image": "data/images/c21a08601cbfb60c.webp"
-    },
-    {
-      "id": "08629a766d52240f",
-      "title": "Step inside the gorgeous, futuristic offices of Vast, the startup designing the next-gen space station",
-      "url": "https://www.fastcompany.com/91536211/vast-hq-design?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T10:30:00.000Z",
-      "excerpt": "A tall baobab tree greets people inside the Long Beach, California, headquarters of Vast, an aerospace company that is building the space station of the future. It’s planted beneath a skylight in the ",
-      "image": "data/images/08629a766d52240f.webp"
-    },
-    {
-      "id": "9253d32dfcd510fc",
-      "title": "The humble aluminum can gets a leak-proof redesign",
-      "url": "https://www.fastcompany.com/91536124/the-humble-aluminum-can-gets-a-leak-proof-redesign?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-05T10:00:00.000Z",
-      "excerpt": "Every drink has its trade-offs: Plastic bottles are lightweight and leak-proof, but they come at a cost to the environment. Cans are convenient and recyclable, but are prone to spilling. A new can des",
-      "image": "data/images/9253d32dfcd510fc.webp"
-    },
-    {
-      "id": "99a2a4838eb9821c",
-      "title": "How Private Equity Fell in Love With Indian Cricket",
-      "url": "https://frontofficesports.com/indian-premier-league-cricket-private-equity/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-05T10:00:00.000Z",
-      "excerpt": "India’s U.S.-style cricket league has become a private-equity playground.",
-      "image": "data/images/99a2a4838eb9821c.webp"
-    },
-    {
-      "id": "538eaf16b829b82d",
-      "title": "Iris van Herpen crafts \"dissolving\" Met Gala dress from 15,000 glass bubbles",
-      "url": "https://www.dezeen.com/2026/05/05/iris-van-herpen-met-gala-dress-15000-glass-bubbles/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T09:30:52.000Z",
-      "excerpt": "Fashion designer Iris van Herpen has created a metamorphic dress covered in thousands of iridescent glass spheres that appear to gradually disintegrate for Olympian Eileen Gu, who debuted the garment ",
-      "image": "data/images/538eaf16b829b82d.webp"
-    },
-    {
-      "id": "1b2c400190059151",
-      "title": "Unfinished Lisbon shopping mall \"hulk\" turned into innovation campus",
-      "url": "https://www.dezeen.com/2026/05/05/oriente-green-campus-portugal-kpf-saraivaassociados/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T09:15:18.000Z",
-      "excerpt": "Architecture studios KPF and Saraiva+Associados have completed the Oriente Green Campus in Portugal, transforming the structure of an abandoned shopping mall into a block of workspaces punctuated by g",
-      "image": "data/images/1b2c400190059151.webp"
-    },
-    {
-      "id": "fd724354b1629872",
-      "title": "Toyo Ito picks eight favourite Andrea Branzi projects from Continuous Present exhibition",
-      "url": "https://www.dezeen.com/2026/05/05/toyo-ito-favourite-projects-andrea-branzi-continuous-present/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T08:00:08.000Z",
-      "excerpt": "Italian museum Triennale Milano has unveiled the Continuous Present exhibition in Milan, which showcases works by architect Andrea Branzi. Here, curator Toyo Ito chooses his favourite projects on show",
-      "image": "data/images/fd724354b1629872.webp"
-    },
-    {
-      "id": "e124e2f05cb1f853",
-      "title": "Rethinking The Experience Of System Tools",
-      "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
-      "source": "Smashing Magazine",
-      "category": "ux",
-      "publishedAt": "2026-05-05T08:00:00.000Z",
-      "excerpt": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experi",
-      "image": "data/images/e124e2f05cb1f853.webp"
-    },
-    {
-      "id": "bf74c8cb28b78969",
-      "title": "Gustaf Westman and Wendy Saunders revealed as Dezeen Awards 2026 judges",
-      "url": "https://www.dezeen.com/2026/05/05/gustaf-westman-and-wendy-saunders-dezeen-awards-2026-judges/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T07:00:05.000Z",
-      "excerpt": "Interior designer Wendy Saunders, designer Gustaf Westman, design director Zhou Tan and sustainable entrepreneur Ramnath Sri Ram have joined the judging panel for Dezeen Awards 2026. Dezeen Awards, in",
-      "image": "data/images/bf74c8cb28b78969.webp"
-    },
-    {
-      "id": "ca4e8f889328ead7",
-      "title": "Traditional wooden townhouses inform interiors of Kengo Kuma-designed Capella Kyoto hotel",
-      "url": "https://www.dezeen.com/2026/05/05/capella-kyoto-hotel-kengo-kuma/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-05T05:00:51.000Z",
-      "excerpt": "The unique \"rhythm and progression\" of Japanese machiya townhouses helped Brewin Design Office devise the interiors of this hotel in Kyoto designed by Kengo Kuma. The Capella Kyoto hotel was built by ",
-      "image": "data/images/ca4e8f889328ead7.webp"
-    },
-    {
-      "id": "1d623d506c835317",
-      "title": "St. Augustine and AI’s false promise",
-      "url": "https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "ux",
-      "publishedAt": "2026-05-04T23:05:20.000Z",
-      "excerpt": "An ancient diagnosis for a modern delusion.Saint Augustine of Hippo with his restless heart pierced by the light of Truth, painting by Philippe de Champaigne, 17th centuryThe current narrative around ",
-      "image": "data/images/1d623d506c835317.webp"
-    },
-    {
-      "id": "87af9903bec68ccb",
-      "title": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
-      "url": "https://uxdesign.cc/pinning-is-not-saving-saving-is-not-favoriting-favoriting-is-not-flagging-c3941c444bd5?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "ux",
-      "publishedAt": "2026-05-04T23:05:05.000Z",
-      "excerpt": "UX pattern research: Pinning, Favorites, Save for Later &amp; Urgency FlagsI forget to take the garbage out. Every Friday. Without fail. So I wrote it on the blackboard in my kitchen, not a reminder o",
-      "image": "data/images/87af9903bec68ccb.webp"
-    },
-    {
-      "id": "7a7de565e4b04137",
-      "title": "You skipped the first question. Now you’re adding AI.",
-      "url": "https://uxdesign.cc/you-skipped-the-first-question-now-youre-adding-ai-e3d70fc80e90?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "ux",
-      "publishedAt": "2026-05-04T23:04:18.000Z",
-      "excerpt": "AI didn’t create the gap. It made it impossible to ignore.Intelligence inside an inherited architecture. Generated with Gemini.Last quarter, I sat through a product planning session — five leads aroun",
-      "image": "data/images/7a7de565e4b04137.webp"
-    },
-    {
-      "id": "df940eb20ca591ff",
-      "title": "When AI decides and human signs off",
-      "url": "https://uxdesign.cc/when-ai-decides-and-human-signs-off-901e42d07ba5?source=rss----138adf9c44c---4",
-      "source": "UX Collective",
-      "category": "ux",
-      "publishedAt": "2026-05-04T23:04:02.000Z",
-      "excerpt": "The design problem most AI companies aren’t solvingThere’s a design principle underneath every high-stakes AI product: AI is the decision support. The human is the decision maker. Those are different ",
-      "image": "data/images/df940eb20ca591ff.webp"
-    },
-    {
-      "id": "901df3ad4e8f03f8",
-      "title": "Bulls Hire Hawks SVP Bryson Graham in Effort to Return to Relevance",
-      "url": "https://frontofficesports.com/chicago-bulls-hire-bryson-graham-basketball-operations-atlanta-hawks/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T22:45:14.000Z",
-      "excerpt": "Graham spent 15 years working for the Pelicans.",
-      "image": "data/images/901df3ad4e8f03f8.webp"
-    },
-    {
-      "id": "06b53771802092f9",
-      "title": "Europe’s Soccer Giants Keep Winning—and Are Cashing In",
-      "url": "https://frontofficesports.com/europes-soccer-giants-keep-winning-and-are-cashing-in/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T21:45:12.000Z",
-      "excerpt": "The Big Five leagues of European soccer are again led by financial giants.",
-      "image": "data/images/06b53771802092f9.webp"
-    },
-    {
-      "id": "d754698256d828b6",
-      "title": "WNBA Slightly Raises Technical, Flagrant Foul Fines for 2026 Season",
-      "url": "https://frontofficesports.com/wnba-raises-technical-flagrant-foul-fines-for-2026-season/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T21:06:50.000Z",
-      "excerpt": "The league will also fine players for flopping.",
-      "image": "data/images/d754698256d828b6.webp"
-    },
-    {
-      "id": "d76a8540e3d4d454",
-      "title": "Skip Bayless Is Back on First Take",
-      "url": "https://frontofficesports.com/videos/skip-bayless-is-back-on-first-take/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T20:00:42.000Z",
-      "excerpt": "Skip Bayless rejoins Stephen A. Smith on First Take in a reunion nearly 10 years in the making.",
-      "image": "data/images/d76a8540e3d4d454.webp"
-    },
-    {
-      "id": "29366b33bed61725",
-      "title": "While billionaires get ready for the Met Gala, their workers walk a different kind of runway",
-      "url": "https://www.fastcompany.com/91536318/while-billionaires-get-ready-for-the-met-gala-their-workers-walk-a-different-kind-of-runway?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T19:23:22.000Z",
-      "excerpt": "Hours before Jeff Bezos and Lauren Sánchez Bezos take their places as sponsors and honorary chairs of the Met Gala—fashion’s glittery annual fundraiser in support of the Metropolitan Museum of Art’s C",
-      "image": "data/images/29366b33bed61725.webp"
-    },
-    {
-      "id": "7e7d2d74022e16af",
-      "title": "Vrabel-Russini Jab Proves ESPN is Keeping ‘Inside the NBA’ Promise",
-      "url": "https://frontofficesports.com/vrabel-russini-jab-espn-keeping-inside-the-nba-promise/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T18:33:29.000Z",
-      "excerpt": "ESPN licenses the popular studio show from TNT Sports.",
-      "image": "data/images/7e7d2d74022e16af.webp"
-    },
-    {
-      "id": "aba91be62897d447",
-      "title": "Main Street Sports Now One Step Closer to Official Demise",
-      "url": "https://frontofficesports.com/main-street-sports-now-one-step-closer-to-official-demise/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T18:11:35.000Z",
-      "excerpt": "The embattled regional sports network operator reaches another inflection point.",
-      "image": "data/images/aba91be62897d447.webp"
-    },
-    {
-      "id": "e81fbc0b7746e9cb",
-      "title": "LGA creates light wells for metal-clad Toronto park pavilion",
-      "url": "https://www.dezeen.com/2026/05/04/lga-architectural-partners-toronto-the-belle-pavilion/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-04T18:00:28.000Z",
-      "excerpt": "Local studio LGA Architectural Partners has clad a bell-shaped pavilion in aluminium and included skylights that bring light into the centre of the structure, set in a public park in a dense residenti",
-      "image": "data/images/e81fbc0b7746e9cb.webp"
-    },
-    {
-      "id": "3050af5147fe1f27",
-      "title": "Mavericks Hire Champion Executive Masai Ujiri To Replace Nico Harrison",
-      "url": "https://frontofficesports.com/mavericks-hire-masai-ujiri-replace-nico-harrison/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T17:51:39.000Z",
-      "excerpt": "Ujiri was the general manager of the Raptors’ 2019 title team.",
-      "image": "data/images/3050af5147fe1f27.webp"
-    },
-    {
-      "id": "bfbf45c05764cb34",
-      "title": "PGA Tour’s Two-Track Future on Display in the Carolinas This Week",
-      "url": "https://frontofficesports.com/pga-tours-two-track-future-on-display-in-the-carolinas-this-week/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T17:40:02.000Z",
-      "excerpt": "Tournaments are taking place in Charlotte and Myrtle Beach, S.C.",
-      "image": "data/images/bfbf45c05764cb34.webp"
-    },
-    {
-      "id": "3873e871fe985611",
-      "title": "‘Star Heist’: How A Group Of Spanish Pros Pulled Off A Star Wars Day Short In Less Than 12 Parsecs (EXCLUSIVE)",
-      "url": "https://www.cartoonbrew.com/shorts/may-the-4th-star-heist-wars-short-260544.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-04T17:11:20.000Z",
-      "excerpt": "Director José Ucha and his team walk us through the break-neck production behind their stylish May the 4th animated tribute.",
-      "image": "data/images/3873e871fe985611.webp"
-    },
-    {
-      "id": "2d108ed84aa2f29f",
-      "title": "We Love Pitching: Chronicles of a Necessary Mess – Part 1",
-      "url": "https://www.stashmedia.tv/we-love-pitching-chronicles-of-a-necessary-mess-part-1/",
-      "source": "Stash Media",
-      "category": "motion",
-      "publishedAt": "2026-05-04T16:56:34.000Z",
-      "excerpt": "In this first installment of the We Love Pitching series on Stash, Nerdo ECD Claus Cibils introduces the many systemic problems affecting the competitive commissioning infrastructure of the design and",
-      "image": "data/images/2d108ed84aa2f29f.webp"
-    },
-    {
-      "id": "91b0c7039573d3e5",
-      "title": "Age Limits, Prop Bets: Leagues Outline Prediction-Market Concerns",
-      "url": "https://frontofficesports.com/age-limits-prop-bets-leagues-outline-prediction-market-concerns/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T16:49:11.000Z",
-      "excerpt": "Safeguarding integrity and protecting consumers were common themes.",
-      "image": "data/images/91b0c7039573d3e5.webp"
-    },
-    {
-      "id": "c99a753b82cca165",
-      "title": "Chinese humanoids are leaving American robots in the dust",
-      "url": "https://www.fastcompany.com/91534069/chinese-humanoids-are-leaving-american-robots-in-the-dust?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T16:00:00.000Z",
-      "excerpt": "In December 2025, the biggest battery maker in the world, CATL, started what it calls the world’s first large-scale deployment of robots in its Luoyang, China factory. Last week, the State Grid Corpor",
-      "image": "data/images/c99a753b82cca165.webp"
-    },
-    {
-      "id": "2d4921cc28995e2f",
-      "title": "Oscars Set New VFX, AI Rules For Next Year’s 99th Ceremony",
-      "url": "https://www.cartoonbrew.com/awards/oscars-new-rules-vfx-ai-writing-260541.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-04T15:56:58.000Z",
-      "excerpt": "Voters must watch the VFX Bake-Off reels, animated features get a Nov. 12 deadline, and the Academy reserves the right to question AI use.",
-      "image": "data/images/2d4921cc28995e2f.webp"
-    },
-    {
-      "id": "8f0e74be00063c9c",
-      "title": "LIV Turns to Investment Bank With Sports Ties As PIF Exit Looms",
-      "url": "https://frontofficesports.com/liv-turns-to-investment-bank-with-sports-ties-as-pif-exit-looms/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T15:41:58.000Z",
-      "excerpt": "The league is searching for new investors after the Saudi PIF pulled out.",
-      "image": "data/images/8f0e74be00063c9c.webp"
-    },
-    {
-      "id": "73398cb31d2db3ca",
-      "title": "Azzi Fudd Won’t Be Fined After Questioning WNBA Officiating",
-      "url": "https://frontofficesports.com/azzi-fudd-not-fined-questions-officiating/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T15:39:45.000Z",
-      "excerpt": "Fudd said she was “confused” about the WNBA’s officiating.",
-      "image": "data/images/73398cb31d2db3ca.webp"
-    },
-    {
-      "id": "10909cd767ead022",
-      "title": "Nathan Greno Told John Lasseter He Wanted To ‘Blow Up’ His Own Movie, And Built ‘Swapped’ From the Debris (EXCLUSIVE BTS)",
-      "url": "https://www.cartoonbrew.com/feature-film/nathan-greno-swapped-netflix-skydance-john-lasseter-260505.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-04T15:34:58.000Z",
-      "excerpt": "After two years of development, the director realized his teen superhero story had become a Frankenstein. So he pitched cutting humans entirely.",
-      "image": "data/images/10909cd767ead022.webp"
-    },
-    {
-      "id": "c4fcb0c939bc1304",
-      "title": "Dollar General bridges onsite, offsite retail media with new solution",
-      "url": "https://www.marketingdive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819190/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "publishedAt": "2026-05-04T15:21:00.000Z",
-      "excerpt": "Brands will be able to activate and optimize offsite and onsite inventory within The Trade Desk for the first time through an integration supported by Kevel.",
-      "image": "data/images/c4fcb0c939bc1304.webp"
-    },
-    {
-      "id": "71e19c5db74e0917",
-      "title": "Peter Arnell selected as America's first chief brand architect",
-      "url": "https://www.dezeen.com/2026/05/04/peter-arnell-americas-first-chief-brand-architect/",
-      "source": "Dezeen",
-      "category": "design",
-      "publishedAt": "2026-05-04T15:15:01.000Z",
-      "excerpt": "The US government has selected American design executive Peter Arnell to serve as the chief brand architect within the newly formed National Design Studio and shape the identity of a \"different type o",
-      "image": "data/images/71e19c5db74e0917.webp"
-    },
-    {
-      "id": "b0328921c2a15391",
-      "title": "As Parent Company Pares Back, Maple Leafs Retool Front Office",
-      "url": "https://frontofficesports.com/as-parent-company-pares-back-maple-leafs-retool-front-office/",
-      "source": "Front Office Sports",
-      "category": "sport",
-      "publishedAt": "2026-05-04T15:01:12.000Z",
-      "excerpt": "The team has not advanced to the conference finals since 2002.",
-      "image": "data/images/b0328921c2a15391.webp"
-    },
-    {
-      "id": "02d4ecbcfe951594",
-      "title": "Inside Opal’s attempt to reduce AI’s ‘alignment tax’ for marketers",
-      "url": "https://www.marketingdive.com/news/inside-opals-attempt-to-reduce-ais-alignment-tax-for-marketers/818388/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "publishedAt": "2026-05-04T15:00:00.000Z",
-      "excerpt": "The planning platform's new AI copilot, Gem, is designed to align campaign data with overall strategy and help teams understand results faster.",
-      "image": "data/images/02d4ecbcfe951594.webp"
-    },
-    {
-      "id": "83c774864b4f996a",
-      "title": "PGKeeper: Building the bouncer we needed for Postgres",
-      "url": "https://www.figma.com/blog/pgkeeper-building-the-bouncer-we-needed-for-postgres/",
-      "source": "Figma Blog",
-      "category": "ux",
-      "publishedAt": "2026-05-04T14:52:00.000Z",
-      "excerpt": "This is the story of why and how we built PGKeeper, a scalable and reliable service to support Figma’s rapidly growing products and database workload.",
-      "image": "data/images/83c774864b4f996a.webp"
-    },
-    {
-      "id": "6caebfec507d6b20",
-      "title": "(Almost) All The Animation Heading To Cannes 2026",
-      "url": "https://www.cartoonbrew.com/festivals/animated-features-shorts-cannes-2026-260514.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-04T14:42:10.000Z",
-      "excerpt": "A Pixar alum's 2D debut, an opera adaptation, a Blender simulation comedy, and a queer virus satire. The animation heading to the Croisette next week.",
-      "image": "data/images/6caebfec507d6b20.webp"
-    },
-    {
-      "id": "b00849f4e677808c",
-      "title": "DoorDash delivers memes, reality TV moms for Mother’s Day campaign",
-      "url": "https://www.marketingdive.com/news/doordash-delivers-memes-reality-tv-moms-for-mothers-day-campaign/819175/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "publishedAt": "2026-05-04T14:21:00.000Z",
-      "excerpt": "A hero spot and social content spotlight the mom group chat as part of an effort that includes deals with Ulta, Old Navy and more.",
-      "image": "data/images/b00849f4e677808c.webp"
-    },
-    {
-      "id": "ce18f1a4937b3819",
-      "title": "Omnicom credits Q1 wins to core operations, reaffirms ongoing cost cuts",
-      "url": "https://www.marketingdive.com/news/omnicom-credits-q1-wins-to-core-operations-reaffirms-ongoing-cost-cuts/819157/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "publishedAt": "2026-05-04T13:54:00.000Z",
-      "excerpt": "The company also touted the success of its AI-powered Omni marketing platform, which has now been scaled across the entire organization.",
-      "image": "data/images/ce18f1a4937b3819.webp"
-    },
-    {
-      "id": "935c33959e5c6062",
-      "title": "The stage is set for the 2026 Met Gala. Here’s how to watch",
-      "url": "https://www.fastcompany.com/91536028/stage-set-2026-met-gala-how-watch?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "source": "Fast Company Co.Design",
-      "category": "design",
-      "publishedAt": "2026-05-04T13:25:06.000Z",
-      "excerpt": "From beyond the museum walls Monday, works of art will move and take shape as the glitterati of guests from Beyoncé, Nicole Kidman to Venus Williams will fashionably ascend the Metropolitan Museum of ",
-      "image": "data/images/935c33959e5c6062.webp"
     }
   ]
 }
