@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-08T12:05:05.705Z",
-  "totalArticles": 487,
+  "generatedAt": "2026-05-08T12:08:45.984Z",
+  "totalArticles": 529,
   "byCategory": {
     "design": 81,
-    "motion": 31,
+    "motion": 53,
     "sport": 163,
     "ux": 6,
-    "marketing": 32,
+    "marketing": 52,
     "culture": 174
   },
   "articles": [
@@ -69,6 +69,16 @@
       "publishedAt": "2026-05-11T04:00:00.000Z",
       "excerpt": "Farm to Table is a cute indie game that will make you want to start a business.",
       "image": "data/images/aa01dccbee86210d.webp"
+    },
+    {
+      "id": "1193c9aabf58ce0e",
+      "title": "I booked bedrooms on 2 different overnight Amtrak trains. One key difference sets them apart.",
+      "url": "https://www.businessinsider.com/amtrak-bedrooms-superliner-vs-viewliner",
+      "source": "Business Insider",
+      "category": "culture",
+      "publishedAt": "2026-05-08T12:04:01.000Z",
+      "excerpt": "A Business Insider reporter spent a total of 83 hours in two Amtrak bedrooms. Joey Hadden/Business Insider I booked a $1,000 Amtrak bedroom for a 30-hour train ride from Miami to NYC in 2021. In Febru",
+      "image": "data/images/1193c9aabf58ce0e.webp"
     },
     {
       "id": "c3f08b5d62ac677e",
@@ -609,6 +619,16 @@
       "publishedAt": "2026-05-08T10:50:24.000Z",
       "excerpt": "EXCLUSIVE: Here is first footage of Cannes Film Festival-bound documentary Cantona, about soccer great turned actor Eric Cantona. In the clip, Cantona and legendary Manchester United manager Alex Ferg",
       "image": "data/images/4988de743f53eaa5.webp"
+    },
+    {
+      "id": "fa1fdb9bc1adec63",
+      "title": "Anime Growth Helps Offset Sony Losses From Pixomondo Shutdown, Bungie Troubles",
+      "url": "https://www.cartoonbrew.com/business/sony-earnings-crunchyroll-pixomondo-bungie-260682.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-08T10:50:15.000Z",
+      "excerpt": "Sony’s latest financial report highlights rising anime revenue as VFX restructuring and live service gaming setbacks pressure other divisions.",
+      "image": "data/images/fa1fdb9bc1adec63.webp"
     },
     {
       "id": "219d5bc836f7d704",
@@ -1351,6 +1371,16 @@
       "image": "data/images/1120b110535e173b.webp"
     },
     {
+      "id": "7ff062190f8cbbab",
+      "title": "‘Infinity Castle’ and ‘GOAT’ Buoy Sony Pictures Entertainment’s Total Sales Numbers for the Fiscal Year",
+      "url": "https://www.animationmagazine.net/2026/05/infinity-castle-and-goat-buoy-sony-pictures-entertainments-total-sales-numbers-for-the-fiscal-year/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-08T07:39:51.000Z",
+      "excerpt": "Animated titles including Demon Slayer: Kimetsu No Yaibe The Movie — Infinity Castle’s, GOAT and Chainsaw Man— The Movie: Reze Arc helped Sony Pictures Entertainment bring in $9.917 billion for the ye",
+      "image": "data/images/7ff062190f8cbbab.webp"
+    },
+    {
       "id": "1c0cf4a8ae08dee6",
       "title": "The Nine Heavens to God and Dante’s Paradiso Explained",
       "url": "https://www.thecollector.com/dante-paradiso-nine-heavens/",
@@ -1359,6 +1389,16 @@
       "publishedAt": "2026-05-08T07:04:06.000Z",
       "excerpt": "After his trek through Hell (Inferno), guided by Virgil, Dante comments, relieved: “we emerged, to see—once more—the stars.” The poet, however, will need to journey through Purgatory, where sins are c",
       "image": "data/images/1c0cf4a8ae08dee6.webp"
+    },
+    {
+      "id": "894dd1e200035409",
+      "title": "News Corp holds steady on results day, Index rises",
+      "url": "https://mumbrella.com.au/news-corp-holds-steady-on-results-day-index-rises-922756",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-08T07:03:12.000Z",
+      "excerpt": "A predominantly green day on the Unmade Index saw News Corp claw back earlier losses and end slightly up after it delivered its quarterly results. Those results had shown a business in transition, rel",
+      "image": "data/images/894dd1e200035409.webp"
     },
     {
       "id": "84f8d3c51dc040ca",
@@ -1401,14 +1441,14 @@
       "image": "data/images/98a4d0a8e59b5c07.webp"
     },
     {
-      "id": "7e3b12e33ca64686",
-      "title": "Airbnb's CEO says AI writes 60% of the company's code — and makes managers get their hands dirty",
-      "url": "https://www.businessinsider.com/airbnb-ceo-ai-write-majority-company-code-managers-hands-on-2026-5",
-      "source": "Business Insider",
-      "category": "culture",
-      "publishedAt": "2026-05-08T05:51:05.000Z",
-      "excerpt": "Brian Chesky said AI writes 60% of Airbnb's code. Gerald Matzka/Getty Images for Airbnb Airbnb's CEO Brian Chesky sees his company changing significantly with AI. He said nearly 60% of the company's c",
-      "image": "data/images/7e3b12e33ca64686.webp"
+      "id": "5f613cb11ea04932",
+      "title": "Mumbrella Publish catchup: Deep diving into Taboola’s DeeperDive",
+      "url": "https://mumbrella.com.au/mumbrella-publish-catchup-deep-diving-into-taboolas-deeperdive-922724",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-08T05:52:36.000Z",
+      "excerpt": "Session A deep dive Into DeeperDive: What we’ve learned experimenting with agentic experiences on traditional publisher websites Date 28 October 2025 | State Library of NSW On stage Kurt Gessler, seni",
+      "image": "data/images/5f613cb11ea04932.webp"
     },
     {
       "id": "fd6b553d2f6fa825",
@@ -1571,6 +1611,16 @@
       "image": "data/images/df97851414faeb75.webp"
     },
     {
+      "id": "81aec74c5d6ebfc9",
+      "title": "Allianz debuts fully generative AI campaign",
+      "url": "https://mumbrella.com.au/allianz-debuts-fully-generative-ai-campaign-922649",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-08T01:24:35.000Z",
+      "excerpt": "Allianz Australia has launched its first fully generative AI–created advertising campaign. The insurance brand tapped its creative agency Howatson and Company to develop a series of short-form video a",
+      "image": "data/images/81aec74c5d6ebfc9.webp"
+    },
+    {
       "id": "570f8a8da3a80fd6",
       "title": "Ex-49ers WR Jauan Jennings agrees to free-agent deal with Vikings",
       "url": "https://www.nytimes.com/athletic/7088706/2026/05/07/jauan-jennings-vikings-nfl-free-agency-2026/",
@@ -1589,6 +1639,56 @@
       "publishedAt": "2026-05-08T01:22:37.000Z",
       "excerpt": "Sorsby was already under investigation by the NCAA for allegedly gambling on Indiana football games in 2022.",
       "image": "data/images/57c6582251579c74.webp"
+    },
+    {
+      "id": "fefb7cdb499177c3",
+      "title": "Ali Wong takes aim at Telstra in new Vodafone commercial",
+      "url": "https://mumbrella.com.au/ali-wong-takes-aim-at-telstra-in-new-vodafone-commercial-922679",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-08T01:07:09.000Z",
+      "excerpt": "The next iteration of Vodafone’s controversial new campaign starring US comedian Ali Wong shows the comedian repeatedly saying that Vodafone is cheaper than Telstra, with the competitor’s name beeped ",
+      "image": "data/images/fefb7cdb499177c3.webp"
+    },
+    {
+      "id": "74064484249118bb",
+      "title": "Dentsu Creative steps aside as the Iconic calls pitch",
+      "url": "https://mumbrella.com.au/dentsu-creative-steps-aside-as-the-iconic-calls-pitch-922653",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-08T01:02:38.000Z",
+      "excerpt": "The Iconic has launched a creative pitch, with its four-year incumbent Dentsu Creative opting not to defend the account. The Australian and New Zealand fashion and lifestyle retailer confirmed to Mumb",
+      "image": "data/images/74064484249118bb.webp"
+    },
+    {
+      "id": "789a1c37b317bfea",
+      "title": "‘Baleful bad-boy bots’: News Corp news takes a hit as ‘woo or sue’ campaign continues",
+      "url": "https://mumbrella.com.au/baleful-bad-boy-bots-news-corp-news-takes-a-hit-as-woo-or-sue-campaign-continues-922646",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-08T00:57:07.000Z",
+      "excerpt": "News Corp’s news media division saw a 5% revenue rise, but a 55% EBITDA dive for the March quarter, with set-up costs for the California Post and a weak performance from its UK publications biting int",
+      "image": "data/images/789a1c37b317bfea.webp"
+    },
+    {
+      "id": "2bf102b50280091d",
+      "title": "Agencies push Video Futures Collective to simplify buying and unify data",
+      "url": "https://mumbrella.com.au/agencies-push-video-futures-collective-to-simplify-buying-and-unify-data-922658",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T23:51:25.000Z",
+      "excerpt": "Agencies are telling the Video Futures Collective (VFC) to fix two core problems – complexity and inconsistent data – or risk losing advertising dollars to simpler channels like social and outdoor. Mu",
+      "image": "data/images/2bf102b50280091d.webp"
+    },
+    {
+      "id": "fb415949421772a6",
+      "title": "‘Animal Farm’s’ Animation Directors Eamonn Butler & Alex Parkinson on the Challenges of Turning Orwell’s Acclaimed Fable into a CG-Animated Family Pic",
+      "url": "https://www.animationmagazine.net/2026/05/animal-farms-animation-directors-eamonn-butler-alex-parkinson-on-the-challenges-of-turning-orwells-acclaimed-fable-into-a-cg-animated-family-pic/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T23:35:17.000Z",
+      "excerpt": "When Animal Farm director Andy Serkis decided to direct a new family-friendly take on George Orwell’s novella, he relied on the brilliant team at Cinesite to bring it to animated life. We recently cha",
+      "image": "data/images/fb415949421772a6.webp"
     },
     {
       "id": "081328ff9d03fed0",
@@ -1661,6 +1761,16 @@
       "image": "data/images/68a908ea39299ba9.webp"
     },
     {
+      "id": "a465d702df8a7520",
+      "title": "Indie Animated Spy Comedy ‘Canine Royale’ Sets Avant Première at Cannes Market",
+      "url": "https://www.animationmagazine.net/2026/05/indie-animated-spy-comedy-canine-royale-sets-avant-premiere-at-cannes-market/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T22:28:10.000Z",
+      "excerpt": "A daring dog with a nose for espionage is ready to be introduced to audiences in the recently completed 3D animated feature Canine Royale, from Furrywood Studios and creator Brian Hoff (The Barkington",
+      "image": "data/images/a465d702df8a7520.webp"
+    },
+    {
       "id": "580fbda8b6f780a8",
       "title": "Straight Outta Hormuz",
       "url": "https://www.newyorker.com/cartoons/blitts-kvetchbook/straight-outta-hormuz",
@@ -1701,6 +1811,16 @@
       "image": "data/images/40f11a76e3bc74bc.webp"
     },
     {
+      "id": "8156ee7460f18070",
+      "title": "Removing the CGT discount could cripple Australian startups",
+      "url": "https://mumbrella.com.au/capital-gains-whack-spot-on-for-real-estate-crippling-for-start-ups-922618",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T21:50:48.000Z",
+      "excerpt": "Let me be upfront about two things. First: I have an obvious vested interest here. Mutinex is a venture-backed martech business I’ve built for several years at a salary well below my market rate. My f",
+      "image": "data/images/8156ee7460f18070.webp"
+    },
+    {
       "id": "6902b1e346bf52c0",
       "title": "JD Sports Says Iran War and Youth Unemployment to Hit Consumer Spending",
       "url": "https://www.businessoffashion.com/news/sports/jd-sports-says-iran-war-and-youth-unemployment-to-hit-consumer-spending/",
@@ -1729,6 +1849,16 @@
       "publishedAt": "2026-05-07T21:45:14.000Z",
       "excerpt": "The lawsuit had accused the cosmetic giant of defrauding shareholders by concealing its over-dependence on improper grey-market sales in China.",
       "image": "data/images/d7e111d373571679.webp"
+    },
+    {
+      "id": "8f40f4c8bd46a852",
+      "title": "Wesley Hawes leaves 72andSunny Sydney after 17 months",
+      "url": "https://mumbrella.com.au/wesley-hawes-leaves-72andsunny-sydney-after-just-17-months-922631",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T21:40:26.000Z",
+      "excerpt": "72andSunny Sydney chief creative officer Wesley Hawes has exited the agency after starting the job at the beginning of last year. The independent agency has replaced his creative leadership role with ",
+      "image": "data/images/8f40f4c8bd46a852.webp"
     },
     {
       "id": "6636a53161baee89",
@@ -1921,6 +2051,16 @@
       "image": "data/images/ec877fe06c970f82.webp"
     },
     {
+      "id": "82f38ca7a8ab559c",
+      "title": "Mikros Animation Unveils New Synergy Between Canada, France & India for 2026",
+      "url": "https://www.animationmagazine.net/2026/05/mikros-animation-unveils-new-synergy-between-canada-france-india-for-2026/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T19:40:15.000Z",
+      "excerpt": "Mikros Animation, the internationally recognized animation studio behind hit titles like PAW Patrol: The Mighty Movie, Orion and the Dark and Star Trek: Prodigy, is entering an ambitious new era of gr",
+      "image": "data/images/82f38ca7a8ab559c.webp"
+    },
+    {
       "id": "c6a2d3c5ea7f4204",
       "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
       "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
@@ -1981,6 +2121,16 @@
       "image": "data/images/2494f04d867c4fb5.webp"
     },
     {
+      "id": "49852d7ab169ed2f",
+      "title": "‘Another World,’ Hong Kong’s Highest-Grossing Animated Film Ever, Is Heading To The U.S. This Summer",
+      "url": "https://www.cartoonbrew.com/feature-film/gkids-another-world-theatrical-release-260674.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-07T19:16:05.000Z",
+      "excerpt": "Tommy Ng Kai Chung's debut feature follows a spirit guide who must save a young girl's soul from unleashing destruction on two worlds.",
+      "image": "data/images/49852d7ab169ed2f.webp"
+    },
+    {
       "id": "acffcfda015eb1f0",
       "title": "Atelier Carle creates \"unconventional layout\" for hemlock-clad Quebec house",
       "url": "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
@@ -2039,6 +2189,16 @@
       "publishedAt": "2026-05-07T19:00:00.000Z",
       "excerpt": "The Canes are yet to lose a single game this postseason. Can the Flyers avoid a sweep in the second round on home ice?",
       "image": "data/images/9212f911a18fc183.webp"
+    },
+    {
+      "id": "a306a99eb54915a8",
+      "title": "It’s Lights, Camera, Chaos in Final ‘Minions & Monsters’ Trailer",
+      "url": "https://www.animationmagazine.net/2026/05/its-lights-camera-chaos-in-final-minions-monsters-trailer/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T18:58:11.000Z",
+      "excerpt": "Just when you think Hollywood couldn’t get any weirder … Illumination and Universal Pictures today debuted the final trailer for Minions & Monsters, the latest installment in their blockbuster animate",
+      "image": "data/images/a306a99eb54915a8.webp"
     },
     {
       "id": "095f7db912e8123d",
@@ -2231,6 +2391,16 @@
       "image": "data/images/d4cd8da218581390.webp"
     },
     {
+      "id": "e531e64d42aaf32e",
+      "title": "‘I, Chihuahua’ Voice Cast Unmasked ahead of Cannes Market Launch",
+      "url": "https://www.animationmagazine.net/2026/05/i-chihuahua-voice-cast-unmasked-ahead-of-cannes-market-launch/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T17:47:36.000Z",
+      "excerpt": "The heroic canine luchador of I, Chihuahua is ready to lay it all on the mat this month, as newly boarded worldwide sales agent Rocket Science prepares to shop the family animated feature at the Canne",
+      "image": "data/images/e531e64d42aaf32e.webp"
+    },
+    {
       "id": "b685ca4951f428cb",
       "title": "Matthew Tkachuk, Joseph Woll highlight USA’s preliminary roster for 2026 World Championship",
       "url": "https://www.dailyfaceoff.com/news/usa-hockey-2026-iihf-world-championship-roster-full",
@@ -2319,6 +2489,16 @@
       "publishedAt": "2026-05-07T17:14:50.000Z",
       "excerpt": "Domínguez left Thursday's game after slamming into the left-field wall while making a spectacular catch.",
       "image": "data/images/e0413fb54b9dfd38.webp"
+    },
+    {
+      "id": "4e5efdb16b449ebd",
+      "title": "Hong Kong Animated Feature ‘Another World’ Debuts New Trailer & Art for NorAm Release with GKIDS",
+      "url": "https://www.animationmagazine.net/2026/05/hong-kong-animated-feature-another-world-debuts-new-trailer-art-for-noram-release-with-gkids/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T17:13:11.000Z",
+      "excerpt": "Academy-Award winning animation distributor and producer GKIDS today announced it is bringing the animated dark fairytale Another World to theaters in North America in its original Cantonese with Engl",
+      "image": "data/images/4e5efdb16b449ebd.webp"
     },
     {
       "id": "3aed12fbe60fcf1d",
@@ -2811,6 +2991,16 @@
       "image": "data/images/ace8664176aa7439.webp"
     },
     {
+      "id": "e83b54a108d93922",
+      "title": "Animation Block Party Announces 2026 Event Dates",
+      "url": "https://www.animationmagazine.net/2026/05/animation-block-party-announces-2026-event-dates/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T15:00:44.000Z",
+      "excerpt": "Following up on its busy 2025 events calendar, Brooklyn-based Animation Block Party has announced the dates for its 2026 engagements. ABP will be presenting live events in three different cities this ",
+      "image": "data/images/e83b54a108d93922.webp"
+    },
+    {
       "id": "c6b772e4be34ebdb",
       "title": "Can Luxury Skincare Save Big Beauty?",
       "url": "https://www.businessoffashion.com/briefings/beauty/can-luxury-skincare-save-big-beauty/",
@@ -2839,6 +3029,16 @@
       "publishedAt": "2026-05-07T15:00:00.000Z",
       "excerpt": "The Mondelēz-owned snack bar brand’s “Easy to Love” campaign represents its first major creative push in nearly a decade.",
       "image": "data/images/bf11006c404ebdd0.webp"
+    },
+    {
+      "id": "614ee79e5e0abc3c",
+      "title": "‘The Material In ‘KYR-U’ Is Constitutional, Civic, And Genuinely Nonpartisan’: Inside The ACLU’s New Stop-Motion Series",
+      "url": "https://www.cartoonbrew.com/series/know-your-rights-university-aclu-brandon-lake-260638.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-07T14:59:28.000Z",
+      "excerpt": "Creator Brandon Lake discusses bringing 'Know Your Rights University' to YouTube with veteran stop-motion artists and a 'Schoolhouse Rock!' spirit.",
+      "image": "data/images/614ee79e5e0abc3c.webp"
     },
     {
       "id": "f5056a1170b4c48f",
@@ -2969,6 +3169,16 @@
       "publishedAt": "2026-05-07T14:07:16.000Z",
       "excerpt": "The company has allegedly caused bowling prices to triple in some cases.",
       "image": "data/images/2521d33836742875.webp"
+    },
+    {
+      "id": "c4534fcd5fa93429",
+      "title": "Studio Ghibli Wins Spain’s Prestigious Princess of Asturias Award, An Anime First",
+      "url": "https://www.cartoonbrew.com/awards/studio-ghibli-spain-princess-of-asturias-award-260664.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-07T14:04:21.000Z",
+      "excerpt": "The iconic company follows past laureates including 'Persepolis' writer Marjane Satrapi and 'Mafalda' creator Quino, but is the first anime studio honored.",
+      "image": "data/images/c4534fcd5fa93429.webp"
     },
     {
       "id": "e3b2b1d49dfa5fab",
@@ -3119,6 +3329,26 @@
       "publishedAt": "2026-05-07T13:07:36.000Z",
       "excerpt": "United have secured Champions League football under Carrick and intend to make a call on his future at the end of the season.",
       "image": "data/images/d9d4dfa1328cdd58.webp"
+    },
+    {
+      "id": "f5dd1a83ebb981c0",
+      "title": "Netflix Animation Sets Supersized Sneak Peek Schedule for Annecy Festival",
+      "url": "https://www.animationmagazine.net/2026/05/netflix-animation-sets-supersized-sneak-peek-schedule-for-annecy-festival/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T13:00:55.000Z",
+      "excerpt": "Netflix returns to the Annecy International Animation Film Festival with a genre-spanning line-up of animated films and series featuring visionary filmmakers, as well as up-and-coming talent. This fol",
+      "image": "data/images/f5dd1a83ebb981c0.webp"
+    },
+    {
+      "id": "5fb0a20b3b48ee7f",
+      "title": "Netflix Sets Annecy 2026 Slate: ‘Ray Gunn,’ ‘Blue Eye Samuri’ S2, ‘Charlie vs. The Chocolate Factory’ First Looks",
+      "url": "https://www.cartoonbrew.com/animators/netflix-annecy-ray-gunn-ghostbusters-steps-alley-cats-260649.html",
+      "source": "Cartoon Brew",
+      "category": "motion",
+      "publishedAt": "2026-05-07T13:00:52.000Z",
+      "excerpt": "The streamer will also tease Ricky Gervais's 'Alley Cats,' the new 'The One Piece' series, upcoming feature 'Steps,' and more.",
+      "image": "data/images/5fb0a20b3b48ee7f.webp"
     },
     {
       "id": "d5977ee64cd66f56",
@@ -3661,6 +3891,16 @@
       "image": "data/images/6b283d696898ae2f.webp"
     },
     {
+      "id": "5a3356515c52ab09",
+      "title": "The Met Gala, “The Devil Wears Prada 2,” and the State of Style",
+      "url": "https://www.newyorker.com/podcast/critics-at-large/the-met-gala-the-devil-wears-prada-2-and-the-state-of-style",
+      "source": "The New Yorker",
+      "category": "culture",
+      "publishedAt": "2026-05-07T10:00:00.000Z",
+      "excerpt": "The opulent fund-raiser and the box-office hit both highlight dramatic shifts in fashion and media in recent decades. These days, who’s calling the shots?",
+      "image": "data/images/5a3356515c52ab09.webp"
+    },
+    {
       "id": "5cfc220331c02829",
       "title": "This Midterm Season, Don’t Forget Your Wine Mom",
       "url": "https://www.newyorker.com/culture/progress-report/dont-forget-your-wine-mom-this-midterm-season",
@@ -3679,16 +3919,6 @@
       "publishedAt": "2026-05-07T10:00:00.000Z",
       "excerpt": "The British government has declared antisemitism a “crisis” after a recent spate of violent attacks. But will its solutions protect Jews, or make the situation worse?",
       "image": "data/images/a897ca0a81b8f1b7.webp"
-    },
-    {
-      "id": "5a3356515c52ab09",
-      "title": "The Met Gala, “The Devil Wears Prada 2,” and the State of Style",
-      "url": "https://www.newyorker.com/podcast/critics-at-large/the-met-gala-the-devil-wears-prada-2-and-the-state-of-style",
-      "source": "The New Yorker",
-      "category": "culture",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "excerpt": "The opulent fund-raiser and the box-office hit both highlight dramatic shifts in fashion and media in recent decades. These days, who’s calling the shots?",
-      "image": "data/images/5a3356515c52ab09.webp"
     },
     {
       "id": "dcb1dcf1f5ba8be8",
@@ -3971,6 +4201,16 @@
       "image": "data/images/3336efd89ddc7e22.webp"
     },
     {
+      "id": "e06214bf80b2f236",
+      "title": "Correction: ARN ends a bad day slightly up",
+      "url": "https://mumbrella.com.au/arn-ends-a-bad-day-down-922621",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T06:48:34.000Z",
+      "excerpt": "Note: On first publication, this story reported market positions a few minutes before close, which were not in fact the correct final positions. Consequently, the numbers in the “official” graphs belo",
+      "image": "data/images/e06214bf80b2f236.webp"
+    },
+    {
       "id": "928d45407ec0f675",
       "title": "Why science has abandoned the existence of the aether",
       "url": "https://bigthink.com/starts-with-a-bang/aether-exist/",
@@ -3991,6 +4231,36 @@
       "image": "data/images/e91292bb4de32cdc.webp"
     },
     {
+      "id": "a8644ae51b936d81",
+      "title": "Mumbrella Publish catchup: Slop – a provocation",
+      "url": "https://mumbrella.com.au/mumbrella-publish-catchup-slop-a-provocation-922613",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T05:53:33.000Z",
+      "excerpt": "Session Rethinking revenue for the next era of media Date 28 October 2025 | State Library of NSW On stage Shaun Davies, founder and principal of the AI Training Company Shaun Davies goes against the g",
+      "image": "data/images/a8644ae51b936d81.webp"
+    },
+    {
+      "id": "954e6c43427545a8",
+      "title": "$250 billion in annual spending power sits outside Australia’s capital cities",
+      "url": "https://mumbrella.com.au/250-billion-in-annual-spending-power-sits-outside-australias-capital-cities-922605",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T05:32:06.000Z",
+      "excerpt": "Regional Australia has emerged as the new economic heart driving the nation’s economy, with consumer spending power of $250 billion annually and insights showing Boomtown residents now outspend their ",
+      "image": "data/images/954e6c43427545a8.webp"
+    },
+    {
+      "id": "85d1aa9c3e43b478",
+      "title": "Mumbrellacast: High-flyer Hugh Marks, Dentsu joins the merging lane, and Kyle strikes back",
+      "url": "https://mumbrella.com.au/mumbrellacast-high-flyer-hugh-marks-dentsu-joins-the-merging-lane-and-kyle-strikes-back-922598",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T05:10:43.000Z",
+      "excerpt": "Welcome to this week’s Mumbrellacast, where Tim Burrowes joins us live from the Qantas lounge but swears he isn’t compromised. The reason we mention this is because this week, it was revealed that ABC",
+      "image": "data/images/85d1aa9c3e43b478.webp"
+    },
+    {
       "id": "1cf6aaa45ab55362",
       "title": "Vimeo Promo Code: 40% Off This May 2026",
       "url": "https://www.wired.com/story/vimeo-promo-code/",
@@ -4009,6 +4279,26 @@
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
       "image": "data/images/a481c2ae74f49e1a.webp"
+    },
+    {
+      "id": "17600d65bfc020dc",
+      "title": "Womanizer Coupons: Save 15% in May",
+      "url": "https://www.wired.com/story/womanizer-coupon/",
+      "source": "WIRED",
+      "category": "culture",
+      "publishedAt": "2026-05-07T05:00:00.000Z",
+      "excerpt": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
+      "image": "data/images/17600d65bfc020dc.webp"
+    },
+    {
+      "id": "35040a8130e85407",
+      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "source": "WIRED",
+      "category": "culture",
+      "publishedAt": "2026-05-07T05:00:00.000Z",
+      "excerpt": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "image": "data/images/35040a8130e85407.webp"
     },
     {
       "id": "e1ca5cf9ef96f844",
@@ -4049,26 +4339,6 @@
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
       "image": "data/images/ff2e7a367608cabb.webp"
-    },
-    {
-      "id": "17600d65bfc020dc",
-      "title": "Womanizer Coupons: Save 15% in May",
-      "url": "https://www.wired.com/story/womanizer-coupon/",
-      "source": "WIRED",
-      "category": "culture",
-      "publishedAt": "2026-05-07T05:00:00.000Z",
-      "excerpt": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
-      "image": "data/images/17600d65bfc020dc.webp"
-    },
-    {
-      "id": "35040a8130e85407",
-      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "source": "WIRED",
-      "category": "culture",
-      "publishedAt": "2026-05-07T05:00:00.000Z",
-      "excerpt": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "image": "data/images/35040a8130e85407.webp"
     },
     {
       "id": "e5286adbc08438a0",
@@ -4121,6 +4391,56 @@
       "image": "data/images/66bb823a1134bd6c.webp"
     },
     {
+      "id": "db2b7e29a1879997",
+      "title": "Annecy Updates: ‘Classics’ Film Lineup & MIFA Pitches Unveiled",
+      "url": "https://www.animationmagazine.net/2026/05/annecy-updates-classics-film-lineup-mifa-pitches-unveiled/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-07T02:20:53.000Z",
+      "excerpt": "Organizers of the Annecy International Animation Film Festival (June 21-27) have announced the lineup of this year’s Annecy Classics program, offering a broad range of retrospectives, tributes and (re",
+      "image": "data/images/db2b7e29a1879997.webp"
+    },
+    {
+      "id": "ea84748c36d2ecdb",
+      "title": "ElevenLabs opens Sydney office",
+      "url": "https://mumbrella.com.au/elevenlabs-opens-sydney-office-922570",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T01:31:39.000Z",
+      "excerpt": "ElevenLabs has opened a new regional headquarters in Sydney and appointed Damian Naughton as General Manager for Australia and New Zealand. The company aims to expand its local operations and workforc",
+      "image": null
+    },
+    {
+      "id": "8bce4436ea55a2f1",
+      "title": "Nicholas Gray moves to head up state and regional at News Corp as Mark Reinke retires",
+      "url": "https://mumbrella.com.au/nicholas-gray-promoted-to-news-corp-australia-md-and-publisher-922538",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T01:27:11.000Z",
+      "excerpt": "News Corp managing director and publisher, state and communities, Mark Reinke will retire next month, with Nicholas Gray — managing director and publisher of The Australian and prestige titles — takin",
+      "image": "data/images/8bce4436ea55a2f1.webp"
+    },
+    {
+      "id": "3bf6c3fd125ae8ad",
+      "title": "Re-convergence: Why streamers are copying free-to-air",
+      "url": "https://mumbrella.com.au/re-convergence-why-streamers-are-copying-free-to-air-922550",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T01:12:46.000Z",
+      "excerpt": "Just over five years ago, an executive from one of the global subscription video on demand platforms came into Seven for a meet and greet. Great guy, super smart and we had a really interesting sessio",
+      "image": "data/images/3bf6c3fd125ae8ad.webp"
+    },
+    {
+      "id": "260999d1e0447582",
+      "title": "Travel Marketing Summit returns with Brand Gold Coast CEO among first speakers",
+      "url": "https://mumbrella.com.au/travel-marketing-summit-returns-with-brand-gold-coast-ceo-among-first-speakers-922531",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T01:04:38.000Z",
+      "excerpt": "Mumbrella’s Travel Marketing Summit will return to Sydney on August 27, Brand Gold Coast leader Todd Babiak announced as one of the event’s first headline speakers. Babiak’s session The Story Behind Y",
+      "image": "data/images/260999d1e0447582.webp"
+    },
+    {
       "id": "502f263a8edb2b7b",
       "title": "Kash Patel’s Strategic, Frivolous Lawsuit Against The Atlantic",
       "url": "https://www.newyorker.com/podcast/political-scene/kash-patels-strategic-frivolous-lawsuit-against-the-atlantic",
@@ -4141,6 +4461,16 @@
       "image": "data/images/ef828b64a3883e6b.webp"
     },
     {
+      "id": "eda3d51b6a8aa8d8",
+      "title": "ARN blames $26m in lost advertising on anti-Kyle campaign",
+      "url": "https://mumbrella.com.au/arn-blames-26m-in-lost-advertising-on-anti-kyle-campaign-922517",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T00:47:59.000Z",
+      "excerpt": "ARN’s chief executive officer Michael Stephenson has put a dollar amount on the amount of lost advertising its radio network has suffered due to what he dubbed “issues relating to brand safety”. The r",
+      "image": "data/images/eda3d51b6a8aa8d8.webp"
+    },
+    {
       "id": "ed6507f2f74d6be0",
       "title": "Trump Shows He’s Still Got Juice",
       "url": "https://www.theatlantic.com/ideas/2026/05/indiana-republicans-primary-midterm/687084/?utm_source=feed",
@@ -4149,6 +4479,26 @@
       "publishedAt": "2026-05-07T00:35:00.000Z",
       "excerpt": "Why don’t more Republicans defy President Trump? The president’s poll numbers are bad. The war in Iran is raising gasoline prices. The president’s family is pocketing billions. The president seems to ",
       "image": "data/images/ed6507f2f74d6be0.webp"
+    },
+    {
+      "id": "c9fbf9c32106da00",
+      "title": "Nord VPN ad booted off Australian TV for motorcyclist phone use",
+      "url": "https://mumbrella.com.au/nord-vpn-ad-booted-off-australian-tv-for-motorcyclist-phone-use-922508",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T00:32:18.000Z",
+      "excerpt": "A global advertising campaign for privacy software firm Nord VPN has been pulled from Australia’s free-to-air television after Ad Standards found it depicted unsafe motorcycle riding. The offending ad",
+      "image": "data/images/c9fbf9c32106da00.webp"
+    },
+    {
+      "id": "771f58b3e44d8c97",
+      "title": "CNN founder Ted Turner’s life, in his own words",
+      "url": "https://mumbrella.com.au/cnn-founder-ted-turners-life-in-his-own-words-922504",
+      "source": "Mumbrella",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T00:15:10.000Z",
+      "excerpt": "Ted Turner, the media mogul who founded CNN and invented the 24-hour news cycle, has died, aged 87. Mumbrella has collated key moments in his life from his autobiography — see below. In the broadcasti",
+      "image": "data/images/771f58b3e44d8c97.webp"
     },
     {
       "id": "cbb134f608b85247",
@@ -4219,6 +4569,16 @@
       "publishedAt": "2026-05-06T21:24:18.000Z",
       "excerpt": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height and bone structure.",
       "image": "data/images/130c2421ce34488e.webp"
+    },
+    {
+      "id": "2d31bc40b7f30303",
+      "title": "Wyncor & OuiDo! Partner for Original Animated Series, Distribution Division",
+      "url": "https://www.animationmagazine.net/2026/05/wyncor-ouido-partner-for-original-animated-series-distribution-division/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T21:05:40.000Z",
+      "excerpt": "Wyncor and OuiDo! Productions today announced a strategic partnership to co-develop and produce two original animated series — The Kwaaks! and BABS! — for which they are simultaneously launching a new",
+      "image": "data/images/2d31bc40b7f30303.webp"
     },
     {
       "id": "e608f006bff97194",
@@ -4341,6 +4701,16 @@
       "image": "data/images/f70f83eade86a838.webp"
     },
     {
+      "id": "62e5d6170cbe97d5",
+      "title": "GKIDS Snags NorAm Rights to ‘Tekkonkinkreet’; Remastered 20th Anniversary Event Tickets on Sale",
+      "url": "https://www.animationmagazine.net/2026/05/gkids-snags-noram-rights-to-tekkonkinkreet-remastered-20th-anniversary-event-tickets-on-sale/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T19:24:59.000Z",
+      "excerpt": "Academy Award-winning producer and distributor GKIDS announced today it has acquired all rights for North America to Tekkonkinkreet, the award-winning 2006 feature animated by Studio4°C (All You Need ",
+      "image": "data/images/62e5d6170cbe97d5.webp"
+    },
+    {
       "id": "22f0770259e74994",
       "title": "The Debrief | Why People Hate AI",
       "url": "https://www.businessoffashion.com/podcasts/technology/the-debrief-why-people-hate-ai/",
@@ -4349,6 +4719,16 @@
       "publishedAt": "2026-05-06T19:13:54.000Z",
       "excerpt": "The Debrief host Sheena Butler-Young is joined by BoF’s Marc Bain and Haley Crawford to unpack why the industry’s push for AI-led efficiency is starting to rub shoppers the wrong way.",
       "image": "data/images/22f0770259e74994.webp"
+    },
+    {
+      "id": "5710f0114c9bd327",
+      "title": "Disney XD’s ‘Dragon Striker’ Kicks Off with Official Trailer Ahead of June Debut",
+      "url": "https://www.animationmagazine.net/2026/05/disney-xds-dragon-striker-kicks-off-with-official-trailer-ahead-of-june-debut/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T19:00:53.000Z",
+      "excerpt": "The official trailer for the epic animated sports fantasy series Dragon Striker was revealed today. Blending European fantasy with Japanese animation influences, the series follows an underdog hero’s ",
+      "image": "data/images/5710f0114c9bd327.webp"
     },
     {
       "id": "94652c2d7dd257ea",
@@ -4431,6 +4811,16 @@
       "image": "data/images/186473228d3590b7.webp"
     },
     {
+      "id": "a1e54848cbfb83ad",
+      "title": "King Banana Producing ‘Yakka Do!’ for CBeebies",
+      "url": "https://www.animationmagazine.net/2026/05/king-banana-producing-yakka-do-for-cbeebies/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T18:18:00.000Z",
+      "excerpt": "Lovable chatterbox Dee from the hit TV series and YouTube brand Yakka Dee! is returning to screens with a new superhero look and two new superhero friends in the upcoming CBeebies series Yakka Do! The",
+      "image": "data/images/a1e54848cbfb83ad.webp"
+    },
+    {
       "id": "9b06d371268d2a8a",
       "title": "The Story Behind the First Soviet Atomic Bomb",
       "url": "https://www.thecollector.com/red-dawn-soviet-atomic-bomb/",
@@ -4481,6 +4871,16 @@
       "image": "data/images/a04a144b5ed16412.webp"
     },
     {
+      "id": "a3dd46b701fa7adc",
+      "title": "‘Super Why’s Comic Book Adventures’ Powers Up for October Premiere on PBS KIDS",
+      "url": "https://www.animationmagazine.net/2026/05/super-whys-comic-book-adventures-powers-up-for-october-premiere-on-pbs-kids/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T17:44:05.000Z",
+      "excerpt": "Today, PBS KIDS announced the premiere date for Super Why’s Comic Book Adventures, the animated series that builds on the legacy and success of the Emmy-nominated Super Why! series and Super Why’s Com",
+      "image": "data/images/a3dd46b701fa7adc.webp"
+    },
+    {
       "id": "6dca46fb91776875",
       "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
       "url": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
@@ -4489,6 +4889,16 @@
       "publishedAt": "2026-05-06T17:35:06.000Z",
       "excerpt": "A new NASA map shows how the sinking of Mexico City is uneven, with areas registering up to 2 centimeters per month.",
       "image": "data/images/6dca46fb91776875.webp"
+    },
+    {
+      "id": "a44795c182d3f992",
+      "title": "Cantilever Media & Architect Unwrap ‘Christmas Inc.’ Worldwide Sales at Cannes",
+      "url": "https://www.animationmagazine.net/2026/05/cantilever-media-architect-unwrap-christmas-inc-worldwide-sales-at-cannes/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T17:05:06.000Z",
+      "excerpt": "Independent U.K. production company Cantilever Media, producer of animated franchise The Amazing Maurice, and global sales and financing outfit Architect are launching Christmas Inc. to buyers worldwi",
+      "image": "data/images/a44795c182d3f992.webp"
     },
     {
       "id": "54aa85fbae815917",
@@ -4509,6 +4919,16 @@
       "publishedAt": "2026-05-06T17:00:00.000Z",
       "excerpt": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket Casts In this episode of The David Frum Show, David is joined by his wife, the writer Danielle Crittenden, to discuss her new mem",
       "image": "data/images/300c99986440b070.webp"
+    },
+    {
+      "id": "801c8245319ca9de",
+      "title": "‘Clifford the Big Red Dog’ Returns in Reimagined Animated Series on PBS KIDS",
+      "url": "https://www.animationmagazine.net/2026/05/clifford-the-big-red-dog-returns-in-reimagined-animated-series-on-pbs-kids/",
+      "source": "Animation Magazine",
+      "category": "motion",
+      "publishedAt": "2026-05-06T16:54:21.000Z",
+      "excerpt": "Today, PBS KIDS announced the production of the newest animated series for kids ages 3-5 based on the beloved Scholastic book series by Norman Bridwell, Clifford the Big Red Dog. Produced by 9 Story M",
+      "image": "data/images/801c8245319ca9de.webp"
     },
     {
       "id": "591d2508df9956c4",
