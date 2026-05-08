@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-08T11:48:13.632Z",
-  "totalArticles": 480,
+  "generatedAt": "2026-05-08T12:05:05.705Z",
+  "totalArticles": 487,
   "byCategory": {
-    "design": 69,
-    "motion": 53,
-    "sport": 160,
+    "design": 81,
+    "motion": 31,
+    "sport": 163,
     "ux": 6,
-    "marketing": 17,
-    "culture": 175
+    "marketing": 32,
+    "culture": 174
   },
   "articles": [
     {
@@ -71,6 +71,166 @@
       "image": "data/images/aa01dccbee86210d.webp"
     },
     {
+      "id": "c3f08b5d62ac677e",
+      "title": "Bournemouth investigating social media posts allegedly involving Alex Jimenez",
+      "url": "https://www.nytimes.com/athletic/7263231/2026/05/08/alex-jimenez-bournemouth-social-media/",
+      "source": "The Athletic",
+      "category": "sport",
+      "publishedAt": "2026-05-08T12:02:18.000Z",
+      "excerpt": "The Premier League club said in a statement released on Friday that Jimenez, 21, would not be in the squad to face Fulham.",
+      "image": "data/images/c3f08b5d62ac677e.webp"
+    },
+    {
+      "id": "2330eb6e3e18a985",
+      "title": "Edmonton Oilers free-agent targets: 8 names to watch in a limited market",
+      "url": "https://www.nytimes.com/athletic/7261115/2026/05/08/edmonton-oilers-free-agent-targets-alex-tuch/",
+      "source": "The Athletic",
+      "category": "sport",
+      "publishedAt": "2026-05-08T12:00:20.000Z",
+      "excerpt": "The Oilers have big holes to fill on the roster and there will be temptation to add veteran players in free agency.",
+      "image": "data/images/2330eb6e3e18a985.webp"
+    },
+    {
+      "id": "904d36120aa75caf",
+      "title": "International Insider: Ted Turner’s Legacy; Cannes Scene Setter; Prime Video India",
+      "url": "https://deadline.com/2026/05/ted-turner-legacy-cannes-deadline-international-insider-1236884123/",
+      "source": "Deadline",
+      "category": "culture",
+      "publishedAt": "2026-05-08T12:00:09.000Z",
+      "excerpt": "Welcome back to Insider City, traveller. Jesse Whittock on the keyboard today to walk you through the biggest TV and film news from around the globe. Sign up to the newsletter here. Ted Turner’s Legac",
+      "image": "data/images/904d36120aa75caf.webp"
+    },
+    {
+      "id": "1adec767c84ff18a",
+      "title": "How 8 million bars of olive oil soap are handmade at this factory in Turkey",
+      "url": "https://www.businessinsider.com/how-olive-oil-soap-is-handmade-in-turkey-2026-5",
+      "source": "Business Insider",
+      "category": "culture",
+      "publishedAt": "2026-05-08T12:00:02.000Z",
+      "excerpt": "Doktoroğlu Soaps is one of Turkey's largest producers of handmade olive oil soap, turning out nearly 8 million bars a year. Workers follow centuries-old methods using just a few simple ingredients. In",
+      "image": "data/images/1adec767c84ff18a.webp"
+    },
+    {
+      "id": "867c08771f6848cf",
+      "title": "I never questioned if I belonged in leadership. Generations of women in my family showed me I did.",
+      "url": "https://www.businessinsider.com/women-family-legacy-confidence-career-success-2026-5",
+      "source": "Business Insider",
+      "category": "culture",
+      "publishedAt": "2026-05-08T12:00:01.000Z",
+      "excerpt": "Susie Cranston says the women in her family shaped her. Courtesy of Susie Cranston Susie Cranston said she always knew women could be leaders because of her upbringing. Susie's mom is a retired CEO an",
+      "image": "data/images/867c08771f6848cf.webp"
+    },
+    {
+      "id": "eec9eeef678c67d1",
+      "title": "Can a Beauty Brand Stretch From Gen X to Z?",
+      "url": "https://www.businessoffashion.com/articles/beauty/covergirl-olay-gen-x-gen-z-beauty-brand/",
+      "source": "Business of Fashion",
+      "category": "design",
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "excerpt": "In a market of increasingly segmented shoppers, legacy labels like Olay and Covergirl are rethinking what it means to be a multigenerational beauty brand.",
+      "image": "data/images/eec9eeef678c67d1.webp"
+    },
+    {
+      "id": "21f8a21988f701df",
+      "title": "Mary Cassatt Was a Radical",
+      "url": "https://www.theatlantic.com/culture/2026/05/mary-cassatt-mothers-day/687090/?utm_source=feed",
+      "source": "The Atlantic",
+      "category": "culture",
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "excerpt": "On December 1, 1936, a group of artists stormed the New York City office of the Works Progress Administration. They were protesting budget cuts to the Federal Art Project, a New Deal program that empl",
+      "image": "data/images/21f8a21988f701df.webp"
+    },
+    {
+      "id": "9b6ee6f4345cf745",
+      "title": "Levees can no longer save New Orleans",
+      "url": "https://www.vox.com/climate/488153/new-orleans-sea-level-rise-residents-relocate",
+      "source": "Vox",
+      "category": "culture",
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "excerpt": "Residents move a boat through a flooded neighborhood after Hurricane Ida in August 2021 in Barataria, Louisiana, near New Orleans. | Brandon Bell/Getty Images This story was originally published by Th",
+      "image": "data/images/9b6ee6f4345cf745.webp"
+    },
+    {
+      "id": "a83494318eafbf32",
+      "title": "Zara Denies Infringing Jo Malone Trademark in Estée Lauder Case",
+      "url": "https://www.businessoffashion.com/news/beauty/zara-denies-infringement-jo-malone-estee-lauder/",
+      "source": "Business of Fashion",
+      "category": "design",
+      "publishedAt": "2026-05-08T11:56:31.000Z",
+      "excerpt": "The fashion retailer denied infringing Estée Lauder’s Jo Malone trademark, saying in court filings that it uses the perfumer’s name on collaboration scents in line with principles the cosmetics giant ",
+      "image": "data/images/a83494318eafbf32.webp"
+    },
+    {
+      "id": "2770145505a0b532",
+      "title": "The Hottest Job in Sports: A WNBA Front Office Role",
+      "url": "https://www.sportico.com/leagues/basketball/2026/sports-jobs-wnba-front-office-boom-1234892308/",
+      "source": "Sportico",
+      "category": "sport",
+      "publishedAt": "2026-05-08T11:55:00.000Z",
+      "excerpt": "The WNBA’s lucrative, long-term media rights are inked. The historic collective bargaining agreement between owners and players is complete. Team valuations are at an all-time high. The league enters ",
+      "image": "data/images/2770145505a0b532.webp"
+    },
+    {
+      "id": "fff8877646e1aced",
+      "title": "Check Out How Emissive Decals Can Simulate Lighting in 3D Scenes",
+      "url": "https://80.lv/articles/check-out-how-emissive-decals-can-simulate-lighting-in-3d-scenes/",
+      "source": "80 Level",
+      "category": "motion",
+      "publishedAt": "2026-05-08T11:54:00.000Z",
+      "excerpt": "passivestar also showcased another use of decals.",
+      "image": "data/images/fff8877646e1aced.webp"
+    },
+    {
+      "id": "2ac9a4c8df8eab19",
+      "title": "Apple’s education discount now requires proof that you’re a student",
+      "url": "https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us",
+      "source": "The Verge",
+      "category": "culture",
+      "publishedAt": "2026-05-08T11:53:57.000Z",
+      "excerpt": "Watch models like the Apple Watch Series 11 (pictured) are also now available at discounted education rates for the first time. | Photo by Amelia Holowaty Krales / The Verge Apple now requires proof o",
+      "image": "data/images/2ac9a4c8df8eab19.webp"
+    },
+    {
+      "id": "68a423d7d21b10d2",
+      "title": "Stylized Tree Asset Generator for Blender Can Now Create Pine Trees",
+      "url": "https://80.lv/articles/stylized-tree-asset-generator-for-blender-can-now-create-pine-trees/",
+      "source": "80 Level",
+      "category": "motion",
+      "publishedAt": "2026-05-08T11:49:00.000Z",
+      "excerpt": "Rei's tool is 25% off for a limited time.",
+      "image": "data/images/68a423d7d21b10d2.webp"
+    },
+    {
+      "id": "70c2c3eda6eaf7fa",
+      "title": "Canada international Alphonso Davies suffers hamstring injury, out 'several weeks'",
+      "url": "https://www.nytimes.com/athletic/7263205/2026/05/08/alphonso-davies-injury-canada-bayern-munich/",
+      "source": "The Athletic",
+      "category": "sport",
+      "publishedAt": "2026-05-08T11:48:51.000Z",
+      "excerpt": "The 25-year-old left-back has made just 23 appearances this season.",
+      "image": "data/images/70c2c3eda6eaf7fa.webp"
+    },
+    {
+      "id": "1fd5d89a47b41120",
+      "title": "A couple bought a 527-square-foot tiny house for $37,500 more than a decade ago. It's helped them live debt-free.",
+      "url": "https://www.businessinsider.com/couple-lives-in-tiny-house-outside-new-orleans-saves-money-2026-5",
+      "source": "Business Insider",
+      "category": "culture",
+      "publishedAt": "2026-05-08T11:48:01.000Z",
+      "excerpt": "The Rusts bought a tiny home in 2013. Jessica Rust Jessica Rust and her husband bought their home in 2013. It's only 527 square feet and cost them $37,500 to buy. DIY improvements, secondhand furnitur",
+      "image": "data/images/1fd5d89a47b41120.webp"
+    },
+    {
+      "id": "1e7bc240788b8382",
+      "title": "Lakers have only themselves to blame for being down 0-2 to the Thunder",
+      "url": "https://www.nytimes.com/athletic/7262838/2026/05/08/lakers-lose-thunder-playoffs-mistakes/",
+      "source": "The Athletic",
+      "category": "sport",
+      "publishedAt": "2026-05-08T11:45:42.000Z",
+      "excerpt": "Missed shots, turnovers and poor defense against the OKC role players have L.A. in a hole more so than any officiating issues.",
+      "image": "data/images/1e7bc240788b8382.webp"
+    },
+    {
       "id": "8e42ad41b6e381a8",
       "title": "Sarah Gadon & Tom Hughes To Lead ‘Iron Ribbon’, Story Of Notorious Paris Crime-Of-Passion Case — Cannes Market",
       "url": "https://deadline.com/2026/05/sarah-gadon-tom-hughes-iron-ribbon-paris-crime-passion-case-1236887670/",
@@ -78,7 +238,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T11:44:32.000Z",
       "excerpt": "EXCLUSVE: Sarah Gadon (Alias Grace), Tom Hughes (Victoria), Robert Kazinsky (Pacific Rim), and Tamer Hassan (Layer Cake) have been set to lead Iron Ribbon, a UK independent feature based on the true s",
-      "image": null
+      "image": "data/images/8e42ad41b6e381a8.webp"
     },
     {
       "id": "f5ecef9bb5ee3c7d",
@@ -128,7 +288,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T11:28:38.000Z",
       "excerpt": "Lovable is a Swedish company that enables users to build apps, websites, and digital products using AI prompts. Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images Lovable is offeri",
-      "image": null
+      "image": "data/images/4b18e9d122b2e155.webp"
     },
     {
       "id": "0f5dec7786a19f91",
@@ -158,7 +318,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T11:13:47.000Z",
       "excerpt": "EXCLUSIVE: Popeye The Slayer Man 2, the sequel to the public domain horror released last year, has begun filming in upstate New York with new cast additions including Daniel Baldwin (Homicide: Life on",
-      "image": null
+      "image": "data/images/5835893d91623be5.webp"
     },
     {
       "id": "840e126fc3f0131d",
@@ -198,7 +358,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T11:02:00.000Z",
       "excerpt": "Your iPhone or Android phone can work overtime as a full-on gaming console with the help of these mobile controllers. Backbone makes my favorite.",
-      "image": null
+      "image": "data/images/723f5b0ef736a82c.webp"
     },
     {
       "id": "4dcb5e266922149c",
@@ -228,7 +388,7 @@
       "category": "sport",
       "publishedAt": "2026-05-08T11:00:42.000Z",
       "excerpt": "For our next mailbag we'll select from reader suggestions, bring them to smart baseball people, and rate the possible rule changes.",
-      "image": null
+      "image": "data/images/35d698286505977e.webp"
     },
     {
       "id": "2e69dd0e1a9365dc",
@@ -318,7 +478,7 @@
       "category": "sport",
       "publishedAt": "2026-05-08T11:00:06.000Z",
       "excerpt": "Ben Dinnery of premierinjuries.com offers his Gameweek 36 advice live from 4pm to 5pm UK time",
-      "image": null
+      "image": "data/images/3a5df54eb76b522d.webp"
     },
     {
       "id": "970f867be8229698",
@@ -339,6 +499,16 @@
       "publishedAt": "2026-05-08T11:00:02.000Z",
       "excerpt": "The Cup-chasing Avalanche defenseman played his first seven seasons with the Wild, back when he had only one missing tooth and four tattoos.",
       "image": "data/images/92fa90b647b22a81.webp"
+    },
+    {
+      "id": "9e1b064562da20e8",
+      "title": "The Daily Heller: Why Contents Labels Need to Be Designed Well",
+      "url": "https://www.printmag.com/daily-heller/the-daily-heller-why-contents-labels-need-to-be-designed-well/",
+      "source": "PrintMag",
+      "category": "design",
+      "publishedAt": "2026-05-08T11:00:00.000Z",
+      "excerpt": "A tale of flatbreads and Acrylamide. The post The Daily Heller: Why Contents Labels Need to Be Designed Well appeared first on PRINT Magazine.",
+      "image": "data/images/9e1b064562da20e8.webp"
     },
     {
       "id": "df28ede13b705823",
@@ -408,7 +578,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T11:00:00.000Z",
       "excerpt": "The 2026 Edinburgh International Film Festival will open with The Incomer, the debut feature from Edinburgh-born filmmaker Louis Paxton. Focus and Universal have taken international rights on the titl",
-      "image": null
+      "image": "data/images/a4ae2c9693860e9b.webp"
     },
     {
       "id": "1d71523e15b6107b",
@@ -438,27 +608,17 @@
       "category": "culture",
       "publishedAt": "2026-05-08T10:50:24.000Z",
       "excerpt": "EXCLUSIVE: Here is first footage of Cannes Film Festival-bound documentary Cantona, about soccer great turned actor Eric Cantona. In the clip, Cantona and legendary Manchester United manager Alex Ferg",
-      "image": null
-    },
-    {
-      "id": "fa1fdb9bc1adec63",
-      "title": "Anime Growth Helps Offset Sony Losses From Pixomondo Shutdown, Bungie Troubles",
-      "url": "https://www.cartoonbrew.com/business/sony-earnings-crunchyroll-pixomondo-bungie-260682.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-08T10:50:15.000Z",
-      "excerpt": "Sony’s latest financial report highlights rising anime revenue as VFX restructuring and live service gaming setbacks pressure other divisions.",
-      "image": "data/images/fa1fdb9bc1adec63.webp"
+      "image": "data/images/4988de743f53eaa5.webp"
     },
     {
       "id": "219d5bc836f7d704",
-      "title": "Nicholas Pinnock Joins Lorna Tucker’s Feature Debut ‘Bare’",
+      "title": "Nicholas Pinnock Joins Lorna Tucker’s Feature Debut ‘Bare’ — Cannes Market",
       "url": "https://deadline.com/2026/05/nicholas-pinnock-lorna-tucker-bare-1236887651/",
       "source": "Deadline",
       "category": "culture",
       "publishedAt": "2026-05-08T10:37:46.000Z",
       "excerpt": "EXCLUSIVE: Nicholas Pinnock has signed on to join Florence Hunt, Isla Fisher, and Colin Firth in Lorna Tucker’s feature debut Bare. Bare is described as “a visceral coming-of-age survival story set on",
-      "image": null
+      "image": "data/images/219d5bc836f7d704.webp"
     },
     {
       "id": "76fb5518746a3f96",
@@ -502,7 +662,7 @@
     },
     {
       "id": "b3a251fd0dd9cbaf",
-      "title": "A better whistle won't solve the Lakers' real problems against the Thunder",
+      "title": "A better whistle won't solve Lakers' real problems against Thunder",
       "url": "https://www.nytimes.com/athletic/7262890/2026/05/08/lakers-lose-thunder-playoffs-officiating/",
       "source": "The Athletic",
       "category": "sport",
@@ -538,7 +698,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T10:30:00.000Z",
       "excerpt": "For our latest WIRED Blind Test, we sat coffee industry professionals down to rank leading do-it-all coffee machines—and the winner wasn't what anyone expected.",
-      "image": null
+      "image": "data/images/790f74ff658fc4ca.webp"
     },
     {
       "id": "c21db35308c5bdc6",
@@ -558,7 +718,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T10:16:01.000Z",
       "excerpt": "The West is interested in the weaponry and tactics Ukraine developed in part as a result of its shortages of other weaponry. Lynsey Addario/Getty Images Ukraine's allies are interested in its weaponry",
-      "image": null
+      "image": "data/images/1219aada7226e5e9.webp"
     },
     {
       "id": "51845057e2ab2626",
@@ -568,7 +728,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T10:15:00.000Z",
       "excerpt": "In an interview with WIRED ahead of her new concert film Hit Me Hard and Soft: The Tour (Live in 3D), Billie Eilish talked about whether or not future artists will be able to leverage SoundCloud the w",
-      "image": null
+      "image": "data/images/51845057e2ab2626.webp"
     },
     {
       "id": "45ade2964bf44e32",
@@ -588,7 +748,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T10:11:01.000Z",
       "excerpt": "The author's mom and mother-in-law help with her daughter twice a week. Courtesy of Riana Ang-Canning Daycare waitlists are long, and it's also expensive. My mom and mother-in-law help with childcare ",
-      "image": null
+      "image": "data/images/77e5c3c5a8522b97.webp"
     },
     {
       "id": "d8d94e3d57ca8dc1",
@@ -629,16 +789,6 @@
       "publishedAt": "2026-05-08T10:05:27.000Z",
       "excerpt": "The Rays, who own the second-best record in the American League, are 14-4 at Tropicana Field so far this season.",
       "image": "data/images/7fc09fad1ba544f4.webp"
-    },
-    {
-      "id": "3d28403b08c0568c",
-      "title": "Creating Cinematic Opening For Narrative-Driven Mystery Thriller Game In UE5",
-      "url": "https://80.lv/articles/creating-cinematic-opening-for-narrative-driven-mystery-thriller-game-in-ue5/",
-      "source": "80 Level",
-      "category": "motion",
-      "publishedAt": "2026-05-08T10:05:00.000Z",
-      "excerpt": "Francesco Furneri returned to 80 Level to discuss the evolution of Redwood, including new environments, cinematics, the main character's role, rendering, and UI design.",
-      "image": "data/images/3d28403b08c0568c.webp"
     },
     {
       "id": "b66cbb1a82fce68b",
@@ -749,26 +899,6 @@
       "publishedAt": "2026-05-08T10:00:24.000Z",
       "excerpt": "Trading for Greenard helped the Eagles address a major need.",
       "image": "data/images/7fd172c901fcdedf.webp"
-    },
-    {
-      "id": "3639920dde58654c",
-      "title": "Can MarShawn Lloyd finally stay healthy to back up Josh Jacobs? Packers mailbag",
-      "url": "https://www.nytimes.com/athletic/7261825/2026/05/08/packers-mailbag-marshawn-lloyd/",
-      "source": "The Athletic",
-      "category": "sport",
-      "publishedAt": "2026-05-08T10:00:24.000Z",
-      "excerpt": "Lloyd, a 2024 third-round pick, has played in just one game over two seasons because of a litany of injuries.",
-      "image": "data/images/3639920dde58654c.webp"
-    },
-    {
-      "id": "5d4414b6bd219d0d",
-      "title": "How to watch WEC, according to Kevin Magnussen: 'Put the barbecue on'",
-      "url": "https://www.nytimes.com/athletic/7262037/2026/05/08/wec-guide-how-to-watch-kevin-magnussen/",
-      "source": "The Athletic",
-      "category": "sport",
-      "publishedAt": "2026-05-08T10:00:22.000Z",
-      "excerpt": "We rang up an ex-F1 driver to ask how he recommends watching his new racing series",
-      "image": "data/images/5d4414b6bd219d0d.webp"
     },
     {
       "id": "2e829dc7c290a852",
@@ -898,7 +1028,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T10:00:00.000Z",
       "excerpt": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "image": null
+      "image": "data/images/3f7b1254bcde416a.webp"
     },
     {
       "id": "e10950b111844cc4",
@@ -908,7 +1038,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:47:01.000Z",
       "excerpt": "Marco Argenti is Goldman Sachs' chief information officer. Courtesy of Goldman Sachs Goldman has rolled out AI tools to its 12,000 engineers, who have adopted them in their workflows. Marco Argenti, G",
-      "image": null
+      "image": "data/images/e10950b111844cc4.webp"
     },
     {
       "id": "294ff60a46f5246b",
@@ -928,7 +1058,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:45:01.000Z",
       "excerpt": "Jennifer and Paul Tessmer-Tuck started buying real estate in 2020 to supplement their household income. Jennifer Tessmer-Tuck Jennifer and Paul Tessmer-Tuck started buying real estate in 2020 to suppl",
-      "image": null
+      "image": "data/images/4d64fab8426b70c4.webp"
     },
     {
       "id": "f0338b97a82a36a8",
@@ -938,7 +1068,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:37:01.000Z",
       "excerpt": "Target is investing about $5 billion in new stores, ongoing remodels, technology, and supply chain. Bloomberg/Getty Images Retailers such as Dollar General and Aldi plan major store expansions in the ",
-      "image": null
+      "image": "data/images/f0338b97a82a36a8.webp"
     },
     {
       "id": "6a7f87e0aa6d35d3",
@@ -948,7 +1078,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:32:00.000Z",
       "excerpt": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "image": null
+      "image": "data/images/6a7f87e0aa6d35d3.webp"
     },
     {
       "id": "0e4e6cdd75c8921d",
@@ -968,7 +1098,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:30:00.000Z",
       "excerpt": "Netflix is returning to hit Norwegian disaster series La Palma. The streamer has greenlit a mini-series sequel titled Florida for the show that is currently ranking in the top 10 of Netflix’s non-Engl",
-      "image": null
+      "image": "data/images/0ec1c6803e729104.webp"
     },
     {
       "id": "556e012303bbc1ba",
@@ -988,7 +1118,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:20:44.000Z",
       "excerpt": "RUNSTUDIO/Getty Images TTEC, a customer experience technology and services firm, is pausing 401(k) matches for US staff. The move echoes recent rollbacks of core benefits, including PTO and pensions, ",
-      "image": null
+      "image": "data/images/95958ed1a4aa6009.webp"
     },
     {
       "id": "ef2bed267997b05f",
@@ -1018,7 +1148,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:15:01.000Z",
       "excerpt": "NYC Mayor Zohran Mamdani has an ambitious list of affordability proposals. Michael M. Santiago/Getty Images NYC Mayor Zohran Mamdani has proposed free buses, a rent freeze, and universal childcare to ",
-      "image": null
+      "image": "data/images/e17bfa2ff4b24573.webp"
     },
     {
       "id": "1a43d622e5d3f21c",
@@ -1028,7 +1158,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:12:01.000Z",
       "excerpt": "Ukrainian forces are intercepting 90% of Russian drones, a top UK military officer said. Nina Liashonok/Ukrinform/NurPhoto via Getty Images Ukraine says it's intercepting roughly 90% of Russian drones",
-      "image": null
+      "image": "data/images/1a43d622e5d3f21c.webp"
     },
     {
       "id": "4dc05e156e6d581b",
@@ -1038,7 +1168,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:11:01.000Z",
       "excerpt": "Maureen McMahon says she feels content as a retiree in Canada. Courtesy of Maureen McMahon Retiree Maureen McMahon moved from the US to Canada after about 30 years. She liked taking road trips in the ",
-      "image": null
+      "image": "data/images/4dc05e156e6d581b.webp"
     },
     {
       "id": "d3e929907649842d",
@@ -1068,7 +1198,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:06:01.000Z",
       "excerpt": "Citi hosted its investor day presentation on May 7. Bloomberg/Getty Images Citi's new winning identity was on full display at Thursday's investor day. Executives were asked how they plan to change Cit",
-      "image": null
+      "image": "data/images/4d38f8c682bd3047.webp"
     },
     {
       "id": "5880625d381620e9",
@@ -1078,7 +1208,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:02:01.000Z",
       "excerpt": "Disney is leaning into AI tools like Claude under CEO Josh D'Amaro. Samuel Boivin/NurPhoto via Getty Images; Aurore Marechal/Getty Images Disney employees are embracing AI tools, with some invoking th",
-      "image": null
+      "image": "data/images/5880625d381620e9.webp"
     },
     {
       "id": "f4fb62e99fee93f7",
@@ -1098,7 +1228,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:00:01.000Z",
       "excerpt": "The North American Electric Reliability Corporation issued a rare alert, urging operators to address new risks posed by data centers connecting to the grid. Joe Raedle/Getty Images NERC oversees grid ",
-      "image": null
+      "image": "data/images/638ee7af6d98b7ea.webp"
     },
     {
       "id": "6f3547b71bea940c",
@@ -1108,7 +1238,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T09:00:00.000Z",
       "excerpt": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens.",
-      "image": null
+      "image": "data/images/6f3547b71bea940c.webp"
     },
     {
       "id": "1f2145cb21a9ad10",
@@ -1128,17 +1258,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T08:50:31.000Z",
       "excerpt": "Rebel Wilson has been described as a “fantastical liar” in the closing arguments of an explosive defamation trial over The Deb, her directorial debut. Wilson is being sued for defamation by Charlotte ",
-      "image": null
-    },
-    {
-      "id": "cb0cbd94fbae5c69",
-      "title": "Parkour Game MOTORSLICE Recoups Its Investment Within Hours of Launch",
-      "url": "https://80.lv/articles/parkour-game-motorslice-recoups-its-investment-within-hours-of-launch/",
-      "source": "80 Level",
-      "category": "motion",
-      "publishedAt": "2026-05-08T08:39:00.000Z",
-      "excerpt": "The game was created by a team of two developers.",
-      "image": "data/images/cb0cbd94fbae5c69.webp"
+      "image": "data/images/ecf96ba656602864.webp"
     },
     {
       "id": "1576262f3d667f56",
@@ -1148,7 +1268,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T08:38:36.000Z",
       "excerpt": "On the eve of the BAFTA TV Awards, Alan Cumming has blamed “bad people who weren’t doing their jobs properly” for the film awards debacle that he oversaw as host. Cumming was presenting the BAFTA Film",
-      "image": null
+      "image": "data/images/1576262f3d667f56.webp"
     },
     {
       "id": "79bf3a6a24d7aca8",
@@ -1178,7 +1298,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T08:30:00.000Z",
       "excerpt": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 2030. But getting there won’t be easy.",
-      "image": null
+      "image": "data/images/62416811752b9277.webp"
     },
     {
       "id": "eb01daa06d415839",
@@ -1188,7 +1308,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T08:06:01.000Z",
       "excerpt": "Here’s the first teaser trailer for Pacifico, the large-scale Spanish-language sci-fi title starring Gabi de Faria (Superman), Manolo Cardona (Narcos), Christopher Von Uckermann (Rebelde), Claudio Cat",
-      "image": null
+      "image": "data/images/eb01daa06d415839.webp"
     },
     {
       "id": "86c60c80c47c9b84",
@@ -1198,7 +1318,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T08:02:18.000Z",
       "excerpt": "Juliette Binoche, Francis Ford Coppola Joachim Trier, Ruben Östlund, Stellan Skarsgård, Sandra Hüller and Vicky Krieps have joined calls for the European Union “to future-proof” the bloc’s 35-year MED",
-      "image": null
+      "image": "data/images/86c60c80c47c9b84.webp"
     },
     {
       "id": "5ae33e2bd60450af",
@@ -1218,17 +1338,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T08:00:00.000Z",
       "excerpt": "EXCLUSIVE: The BBC’s biggest test since the BAFTA Film Awards has almost arrived. Sunday night’s BAFTA TV Awards come less than three months after the debacle at its sister event, when tourette’s camp",
-      "image": null
-    },
-    {
-      "id": "433e9e8b1174e63d",
-      "title": "Breaking Baz: Joan Collins Talks About Her Passion To Get ‘My Duchess’ Movie Made & Why Dancing Lessons Can Help Whirl Her Along The Red Carpet At Cannes",
-      "url": "https://deadline.com/2026/05/joan-collins-talks-about-her-passion-to-get-my-duchess-movie-made-amp-why-dancing-lessons-can-help-whirl-her-along-the-red-carpet-at-cannes-1236887243/",
-      "source": "Deadline",
-      "category": "culture",
-      "publishedAt": "2026-05-08T08:00:00.000Z",
-      "excerpt": "EXCLUSIVE: Dame Joan Collins has fire in her belly. After a career that has spanned 75 years from post-war Rank Organisation starlet to Dynasty diva, this self-described “jobbing actor” has a hunger, ",
-      "image": null
+      "image": "data/images/9351b4716d59c850.webp"
     },
     {
       "id": "1120b110535e173b",
@@ -1239,16 +1349,6 @@
       "publishedAt": "2026-05-08T07:49:06.000Z",
       "excerpt": "The school year had been due to run across every game apart from the final on July 19, but will now end six days before the first match.",
       "image": "data/images/1120b110535e173b.webp"
-    },
-    {
-      "id": "7ff062190f8cbbab",
-      "title": "‘Infinity Castle’ and ‘GOAT’ Buoy Sony Pictures Entertainment’s Total Sales Numbers for the Fiscal Year",
-      "url": "https://www.animationmagazine.net/2026/05/infinity-castle-and-goat-buoy-sony-pictures-entertainments-total-sales-numbers-for-the-fiscal-year/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-08T07:39:51.000Z",
-      "excerpt": "Animated titles including Demon Slayer: Kimetsu No Yaibe The Movie — Infinity Castle’s, GOAT and Chainsaw Man— The Movie: Reze Arc helped Sony Pictures Entertainment bring in $9.917 billion for the ye",
-      "image": null
     },
     {
       "id": "1c0cf4a8ae08dee6",
@@ -1308,7 +1408,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T05:51:05.000Z",
       "excerpt": "Brian Chesky said AI writes 60% of Airbnb's code. Gerald Matzka/Getty Images for Airbnb Airbnb's CEO Brian Chesky sees his company changing significantly with AI. He said nearly 60% of the company's c",
-      "image": null
+      "image": "data/images/7e3b12e33ca64686.webp"
     },
     {
       "id": "fd6b553d2f6fa825",
@@ -1338,7 +1438,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T05:02:40.000Z",
       "excerpt": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters",
-      "image": null
+      "image": "data/images/6efd52f44a226a09.webp"
     },
     {
       "id": "60a7ad095d693690",
@@ -1358,17 +1458,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T05:00:00.000Z",
       "excerpt": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "image": null
-    },
-    {
-      "id": "9456c8b464d61245",
-      "title": "Kris Jenner says her first divorce forced her to finally take control of her finances",
-      "url": "https://www.businessinsider.com/kris-jenner-divorce-taught-how-to-manage-money-financially-literate-2026-5",
-      "source": "Business Insider",
-      "category": "culture",
-      "publishedAt": "2026-05-08T04:48:51.000Z",
-      "excerpt": "Kris Jenner says the end of her first marriage made her realize how little she knew about managing finances. Angela Weiss / AFP Kris Jenner says her divorce from Robert Kardashian Sr. forced her to le",
-      "image": null
+      "image": "data/images/a31c5a2f13ada331.webp"
     },
     {
       "id": "cb1edff6069313e1",
@@ -1399,26 +1489,6 @@
       "publishedAt": "2026-05-08T04:26:18.000Z",
       "excerpt": "For a stretch, the Lakers turned Game 2 into a fight, but the Thunder eventually overwhelmed them with depth.",
       "image": "data/images/b4189ab7716ea0b2.webp"
-    },
-    {
-      "id": "0ed64b5dbac31ea7",
-      "title": "McDonald's CEO just shared some bad news about the K-shaped economy",
-      "url": "https://www.businessinsider.com/mcdonalds-ceo-chris-kempczinski-bad-news-k-shaped-economy-2026-5",
-      "source": "Business Insider",
-      "category": "culture",
-      "publishedAt": "2026-05-08T04:24:53.000Z",
-      "excerpt": "McDonald's CEO Chris Kempczinski said spending patterns between higher- and lower-income consumers will diverge further. Win McNamee/Getty Images McDonald's CEO Chris Kempczinski hinted that the K-sha",
-      "image": null
-    },
-    {
-      "id": "8baa7efa2ac6c61c",
-      "title": "I used AI to code a scheduling app in minutes. It was easy, but it shouldn't worry software companies.",
-      "url": "https://www.businessinsider.com/nontechnical-worker-ai-code-lovable-scheduling-app-friends-meetup-2026-5",
-      "source": "Business Insider",
-      "category": "culture",
-      "publishedAt": "2026-05-08T04:02:01.000Z",
-      "excerpt": "I wanted to make scheduling meetups fuss-free, and trying to peer in on my friends' calendar apps wasn't cutting it. Enter Herdly! Aditi Bharade My friends and I have trouble syncing our schedules for",
-      "image": null
     },
     {
       "id": "a11487bf31b3bfed",
@@ -1498,7 +1568,7 @@
       "category": "culture",
       "publishedAt": "2026-05-08T01:42:14.000Z",
       "excerpt": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "image": null
+      "image": "data/images/df97851414faeb75.webp"
     },
     {
       "id": "570f8a8da3a80fd6",
@@ -1521,16 +1591,6 @@
       "image": "data/images/57c6582251579c74.webp"
     },
     {
-      "id": "fb415949421772a6",
-      "title": "‘Animal Farm’s’ Animation Directors Eamonn Butler & Alex Parkinson on the Challenges of Turning Orwell’s Acclaimed Fable into a CG-Animated Family Pic",
-      "url": "https://www.animationmagazine.net/2026/05/animal-farms-animation-directors-eamonn-butler-alex-parkinson-on-the-challenges-of-turning-orwells-acclaimed-fable-into-a-cg-animated-family-pic/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T23:35:17.000Z",
-      "excerpt": "When Animal Farm director Andy Serkis decided to direct a new family-friendly take on George Orwell’s novella, he relied on the brilliant team at Cinesite to bring it to animated life. We recently cha",
-      "image": null
-    },
-    {
       "id": "081328ff9d03fed0",
       "title": "Karl Urban Almost Saves ‘Mortal Kombat II’ From Itself",
       "url": "https://boardroom.tv/mortal-kombat-2-review/",
@@ -1538,7 +1598,7 @@
       "category": "sport",
       "publishedAt": "2026-05-07T23:30:00.000Z",
       "excerpt": "The sequel to the latest reboot is a surprising improvement and does what the first film couldn’t. Ahead of the Mortal Kombat II screening, I had to run back the 2021 film, which was The post Karl Urb",
-      "image": null
+      "image": "data/images/081328ff9d03fed0.webp"
     },
     {
       "id": "38d6963cbd24aac5",
@@ -1599,16 +1659,6 @@
       "publishedAt": "2026-05-07T22:38:50.000Z",
       "excerpt": "The latest edition of the monthly editorial platform dedicated to African animation features ‘Beyond the Screen,’ a spotlight on festivals and schools shaping the industry, a conversation with Ali Rgu",
       "image": "data/images/68a908ea39299ba9.webp"
-    },
-    {
-      "id": "a465d702df8a7520",
-      "title": "Indie Animated Spy Comedy ‘Canine Royale’ Sets Avant Première at Cannes Market",
-      "url": "https://www.animationmagazine.net/2026/05/indie-animated-spy-comedy-canine-royale-sets-avant-premiere-at-cannes-market/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T22:28:10.000Z",
-      "excerpt": "A daring dog with a nose for espionage is ready to be introduced to audiences in the recently completed 3D animated feature Canine Royale, from Furrywood Studios and creator Brian Hoff (The Barkington",
-      "image": null
     },
     {
       "id": "580fbda8b6f780a8",
@@ -1708,7 +1758,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T21:37:20.000Z",
       "excerpt": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-      "image": null
+      "image": "data/images/eee20fca46d5ffb7.webp"
     },
     {
       "id": "76e8ed3a876f82aa",
@@ -1778,7 +1828,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T20:31:57.000Z",
       "excerpt": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-      "image": null
+      "image": "data/images/6e49f98bfd82a7e4.webp"
     },
     {
       "id": "4d258f17b94b18b6",
@@ -1871,16 +1921,6 @@
       "image": "data/images/ec877fe06c970f82.webp"
     },
     {
-      "id": "82f38ca7a8ab559c",
-      "title": "Mikros Animation Unveils New Synergy Between Canada, France & India for 2026",
-      "url": "https://www.animationmagazine.net/2026/05/mikros-animation-unveils-new-synergy-between-canada-france-india-for-2026/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T19:40:15.000Z",
-      "excerpt": "Mikros Animation, the internationally recognized animation studio behind hit titles like PAW Patrol: The Mighty Movie, Orion and the Dark and Star Trek: Prodigy, is entering an ambitious new era of gr",
-      "image": null
-    },
-    {
       "id": "c6a2d3c5ea7f4204",
       "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
       "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
@@ -1898,7 +1938,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T19:36:46.000Z",
       "excerpt": "While the outbreak aboard a cruise ship in the Atlantic is concerning, the virus isn’t easily transmitted through casual contact.",
-      "image": null
+      "image": "data/images/3668d64b58049341.webp"
     },
     {
       "id": "551380c59e398870",
@@ -1939,16 +1979,6 @@
       "publishedAt": "2026-05-07T19:17:30.000Z",
       "excerpt": "Arizona State hired Bennett on March 23, but the 63-year-old coach started feeling ill shortly after his arrival to the Phoenix area.",
       "image": "data/images/2494f04d867c4fb5.webp"
-    },
-    {
-      "id": "49852d7ab169ed2f",
-      "title": "‘Another World,’ Hong Kong’s Highest-Grossing Animated Film Ever, Is Heading To The U.S. This Summer",
-      "url": "https://www.cartoonbrew.com/feature-film/gkids-another-world-theatrical-release-260674.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-07T19:16:05.000Z",
-      "excerpt": "Tommy Ng Kai Chung's debut feature follows a spirit guide who must save a young girl's soul from unleashing destruction on two worlds.",
-      "image": "data/images/49852d7ab169ed2f.webp"
     },
     {
       "id": "acffcfda015eb1f0",
@@ -2011,16 +2041,6 @@
       "image": "data/images/9212f911a18fc183.webp"
     },
     {
-      "id": "a306a99eb54915a8",
-      "title": "It’s Lights, Camera, Chaos in Final ‘Minions & Monsters’ Trailer",
-      "url": "https://www.animationmagazine.net/2026/05/its-lights-camera-chaos-in-final-minions-monsters-trailer/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T18:58:11.000Z",
-      "excerpt": "Just when you think Hollywood couldn’t get any weirder … Illumination and Universal Pictures today debuted the final trailer for Minions & Monsters, the latest installment in their blockbuster animate",
-      "image": null
-    },
-    {
       "id": "095f7db912e8123d",
       "title": "Live Sports Streaming Ad Market Rife With Fraud, Experts Say",
       "url": "https://frontofficesports.com/live-sports-streaming-ad-market-rife-fraud/",
@@ -2078,7 +2098,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T18:29:54.000Z",
       "excerpt": "I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.",
-      "image": null
+      "image": "data/images/fd0485d48519a989.webp"
     },
     {
       "id": "bc2f95ba4e66780f",
@@ -2211,26 +2231,6 @@
       "image": "data/images/d4cd8da218581390.webp"
     },
     {
-      "id": "e531e64d42aaf32e",
-      "title": "‘I, Chihuahua’ Voice Cast Unmasked ahead of Cannes Market Launch",
-      "url": "https://www.animationmagazine.net/2026/05/i-chihuahua-voice-cast-unmasked-ahead-of-cannes-market-launch/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T17:47:36.000Z",
-      "excerpt": "The heroic canine luchador of I, Chihuahua is ready to lay it all on the mat this month, as newly boarded worldwide sales agent Rocket Science prepares to shop the family animated feature at the Canne",
-      "image": null
-    },
-    {
-      "id": "f997a4857c322467",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "category": "culture",
-      "publishedAt": "2026-05-07T17:40:50.000Z",
-      "excerpt": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "image": "data/images/f997a4857c322467.webp"
-    },
-    {
       "id": "b685ca4951f428cb",
       "title": "Matthew Tkachuk, Joseph Woll highlight USA’s preliminary roster for 2026 World Championship",
       "url": "https://www.dailyfaceoff.com/news/usa-hockey-2026-iihf-world-championship-roster-full",
@@ -2259,6 +2259,26 @@
       "publishedAt": "2026-05-07T17:30:00.000Z",
       "excerpt": "Bouchard was not one of the final three finalists for the award for best defenseman in the NHL.",
       "image": "data/images/1c9678e1dfb5da96.webp"
+    },
+    {
+      "id": "8d172026e9444fd3",
+      "title": "Why Merck expanded its heart health mission with 9 MLB teams",
+      "url": "https://www.campaignlive.com/article/why-merck-expanded-its-heart-health-mission-9-mlb-teams/1957411",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T17:26:58.000Z",
+      "excerpt": "Merck is tapping a number of baseball ambassadors to support its cardiovascular awareness push, including former World Series champion Geoff Blum.",
+      "image": "data/images/8d172026e9444fd3.webp"
+    },
+    {
+      "id": "7cbab091d02b1fad",
+      "title": "Adidas drops World Cup film starring Timothée Chalamet",
+      "url": "https://www.campaignlive.com/article/adidas-drops-world-cup-film-starring-timothee-chalamet/1957410",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T17:23:24.000Z",
+      "excerpt": "Lola USA created the film.",
+      "image": "data/images/7cbab091d02b1fad.webp"
     },
     {
       "id": "d1858bc34431c50c",
@@ -2299,16 +2319,6 @@
       "publishedAt": "2026-05-07T17:14:50.000Z",
       "excerpt": "Domínguez left Thursday's game after slamming into the left-field wall while making a spectacular catch.",
       "image": "data/images/e0413fb54b9dfd38.webp"
-    },
-    {
-      "id": "4e5efdb16b449ebd",
-      "title": "Hong Kong Animated Feature ‘Another World’ Debuts New Trailer & Art for NorAm Release with GKIDS",
-      "url": "https://www.animationmagazine.net/2026/05/hong-kong-animated-feature-another-world-debuts-new-trailer-art-for-noram-release-with-gkids/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T17:13:11.000Z",
-      "excerpt": "Academy-Award winning animation distributor and producer GKIDS today announced it is bringing the animated dark fairytale Another World to theaters in North America in its original Cantonese with Engl",
-      "image": null
     },
     {
       "id": "3aed12fbe60fcf1d",
@@ -2369,6 +2379,16 @@
       "publishedAt": "2026-05-07T16:55:08.000Z",
       "excerpt": "The Twins also gave an update on how soon prospects Emmanuel Rodriguez and Walker Jenkins can return.",
       "image": "data/images/240d922807c7d404.webp"
+    },
+    {
+      "id": "f0b4f809dd68b74c",
+      "title": "The Sports Brief: Star-studded World Cup spots from Adidas, Lay’s, Fox Sports and more",
+      "url": "https://www.campaignlive.com/article/sports-brief-star-studded-world-cup-spots-adidas-lays-fox-sports/1957409",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T16:50:56.000Z",
+      "excerpt": "The week’s league and sports marketing news.",
+      "image": "data/images/f0b4f809dd68b74c.webp"
     },
     {
       "id": "080c026928474333",
@@ -2438,7 +2458,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T16:25:48.000Z",
       "excerpt": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-      "image": null
+      "image": "data/images/c437ca1ef00637c7.webp"
     },
     {
       "id": "68d758af266ab98b",
@@ -2458,7 +2478,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T16:21:58.000Z",
       "excerpt": "Give Mom the best and save some cash in the process with these legitimate discounts on WIRED-approved gifts.",
-      "image": null
+      "image": "data/images/6e3380f428322fa0.webp"
     },
     {
       "id": "5e683a8102d2e5a7",
@@ -2478,7 +2498,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T16:21:08.000Z",
       "excerpt": "In an email viewed by WIRED, Ethan Shaotran describes Blitz Industries as “a defense company backed by big names.”",
-      "image": null
+      "image": "data/images/5eaf3ad60921a120.webp"
     },
     {
       "id": "82f581237ef8cd74",
@@ -2648,7 +2668,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T15:32:45.000Z",
       "excerpt": "Blood glucose levels can be a reliable indicator of diabetes risk. But in some populations, it's not enough to catch the disease early.",
-      "image": null
+      "image": "data/images/728bea0053502b53.webp"
     },
     {
       "id": "749c9d78215524a6",
@@ -2708,7 +2728,17 @@
       "category": "culture",
       "publishedAt": "2026-05-07T15:11:44.000Z",
       "excerpt": "A drawing that riffs on the latest news and happenings.",
-      "image": null
+      "image": "data/images/6cb8e634555639c8.webp"
+    },
+    {
+      "id": "ebba89171fdd9598",
+      "title": "Movers & Shakers: Kinetico, Mother New York, Rula and more",
+      "url": "https://www.campaignlive.com/article/movers-shakers-kinetico-mother-new-york-rula/1957392",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T15:11:26.000Z",
+      "excerpt": "This week’s agency news, people on the move and brand buzz.",
+      "image": "data/images/ebba89171fdd9598.webp"
     },
     {
       "id": "018edf4f36389af6",
@@ -2761,6 +2791,16 @@
       "image": "data/images/d926957e7e6f7409.webp"
     },
     {
+      "id": "f9998c052fc1cca1",
+      "title": "Ogilvy PR names first global chief sports and entertainment officer",
+      "url": "https://www.campaignlive.com/article/ogilvy-pr-names-first-global-chief-sports-entertainment-officer/1957269",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T15:01:00.000Z",
+      "excerpt": "Article 41 cofounder Vickie Segar will approach her new position with a talent-focused strategy, specifically with college athletes.",
+      "image": "data/images/f9998c052fc1cca1.webp"
+    },
+    {
       "id": "ace8664176aa7439",
       "title": "Chelsea performances 'nowhere near the expected standard' - Calum McFarlane",
       "url": "https://www.nytimes.com/athletic/7261049/2026/05/07/chelsea-team-news-calum-mcfarlane-performances/",
@@ -2769,16 +2809,6 @@
       "publishedAt": "2026-05-07T15:00:51.000Z",
       "excerpt": "Robert Sanchez and Jesse Derry will miss Chelsea's trip to Liverpool, while Alejandro Garnacho and Pedro Neto are also expected to be out.",
       "image": "data/images/ace8664176aa7439.webp"
-    },
-    {
-      "id": "e83b54a108d93922",
-      "title": "Animation Block Party Announces 2026 Event Dates",
-      "url": "https://www.animationmagazine.net/2026/05/animation-block-party-announces-2026-event-dates/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T15:00:44.000Z",
-      "excerpt": "Following up on its busy 2025 events calendar, Brooklyn-based Animation Block Party has announced the dates for its 2026 engagements. ABP will be presenting live events in three different cities this ",
-      "image": null
     },
     {
       "id": "c6b772e4be34ebdb",
@@ -2809,16 +2839,6 @@
       "publishedAt": "2026-05-07T15:00:00.000Z",
       "excerpt": "The Mondelēz-owned snack bar brand’s “Easy to Love” campaign represents its first major creative push in nearly a decade.",
       "image": "data/images/bf11006c404ebdd0.webp"
-    },
-    {
-      "id": "614ee79e5e0abc3c",
-      "title": "‘The Material In ‘KYR-U’ Is Constitutional, Civic, And Genuinely Nonpartisan’: Inside The ACLU’s New Stop-Motion Series",
-      "url": "https://www.cartoonbrew.com/series/know-your-rights-university-aclu-brandon-lake-260638.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-07T14:59:28.000Z",
-      "excerpt": "Creator Brandon Lake discusses bringing 'Know Your Rights University' to YouTube with veteran stop-motion artists and a 'Schoolhouse Rock!' spirit.",
-      "image": "data/images/614ee79e5e0abc3c.webp"
     },
     {
       "id": "f5056a1170b4c48f",
@@ -2921,6 +2941,16 @@
       "image": "data/images/883b6e0fee365062.webp"
     },
     {
+      "id": "ca3e399e7625c736",
+      "title": "How Hellmann's and Arielle Vandenberg took banned garlic to the Met Gala",
+      "url": "https://www.campaignlive.com/article/hellmanns-arielle-vandenberg-took-banned-garlic-met-gala/1957378",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T14:24:29.000Z",
+      "excerpt": "Met Gala co-chair Anna Wintour had forbidden garlic at the event.",
+      "image": "data/images/ca3e399e7625c736.webp"
+    },
+    {
       "id": "520b507748402023",
       "title": "No One Knows What to Do About Britain’s Exploding Anti-Semitism",
       "url": "https://www.theatlantic.com/international/2026/05/britain-anti-semitism-problem/687086/?utm_source=feed",
@@ -2939,16 +2969,6 @@
       "publishedAt": "2026-05-07T14:07:16.000Z",
       "excerpt": "The company has allegedly caused bowling prices to triple in some cases.",
       "image": "data/images/2521d33836742875.webp"
-    },
-    {
-      "id": "c4534fcd5fa93429",
-      "title": "Studio Ghibli Wins Spain’s Prestigious Princess of Asturias Award, An Anime First",
-      "url": "https://www.cartoonbrew.com/awards/studio-ghibli-spain-princess-of-asturias-award-260664.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-07T14:04:21.000Z",
-      "excerpt": "The iconic company follows past laureates including 'Persepolis' writer Marjane Satrapi and 'Mafalda' creator Quino, but is the first anime studio honored.",
-      "image": "data/images/c4534fcd5fa93429.webp"
     },
     {
       "id": "e3b2b1d49dfa5fab",
@@ -2988,7 +3008,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T14:00:00.000Z",
       "excerpt": "Powered by Gemini and designed around simplicity, the new Fitbit Air could finally give the screenless fitness tracker market a compelling alternative to Whoop.",
-      "image": null
+      "image": "data/images/7403c3789057fa4e.webp"
     },
     {
       "id": "dbd17020752d403c",
@@ -2998,7 +3018,17 @@
       "category": "culture",
       "publishedAt": "2026-05-07T14:00:00.000Z",
       "excerpt": "Google is sunsetting Google Fit by year’s end. While Fitbit remains very much alive, the rebranded Google Health app is your one-stop shop for all things health and fitness.",
-      "image": null
+      "image": "data/images/dbd17020752d403c.webp"
+    },
+    {
+      "id": "17c4b29f8f151fb7",
+      "title": "Jameson taps J Balvin and KidSuper for season-long MLS campaign",
+      "url": "https://www.campaignlive.com/article/jameson-taps-j-balvin-kidsuper-season-long-mls-campaign/1957371",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T13:57:43.000Z",
+      "excerpt": "The official MLS whiskey merges music and fashion with a new collection and events ahead of the 2026 World Cup.",
+      "image": "data/images/17c4b29f8f151fb7.webp"
     },
     {
       "id": "50cde0a66228f7b9",
@@ -3009,6 +3039,16 @@
       "publishedAt": "2026-05-07T13:52:00.000Z",
       "excerpt": "Jenna Bromberg digs into recent moves around marketing co-ops and agency partners and how the chain is working with Google Cloud on AI.",
       "image": "data/images/50cde0a66228f7b9.webp"
+    },
+    {
+      "id": "cc5d1713987815f3",
+      "title": "Sky retains F1 rights in UK£1bn broadcast deal",
+      "url": "https://www.sportspro.com/news/broadcast-ott/f1-tv-rights-sky-uk-ireland-italy-contract-extension-may-2026/",
+      "source": "SportsPro",
+      "category": "sport",
+      "publishedAt": "2026-05-07T13:51:30.000Z",
+      "excerpt": "Pay-TV broadcaster adds five years to deal in early extension of contract covering UK, Ireland and Italy. The post Sky retains F1 rights in UK£1bn broadcast deal appeared first on SportsPro.",
+      "image": "data/images/cc5d1713987815f3.webp"
     },
     {
       "id": "ce05820886ed20e3",
@@ -3031,6 +3071,16 @@
       "image": "data/images/4cc17bc823be5e93.webp"
     },
     {
+      "id": "63169b80cc1a6e02",
+      "title": "‘Big tech’ Q1 results: Meta leads on growth as layoffs loom and AI begins to pay off for Google",
+      "url": "https://www.campaignlive.com/article/big-tech-q1-results-meta-leads-growth-layoffs-loom-ai-begins-pay-off-google/1957369",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T13:29:06.000Z",
+      "excerpt": "Meta continues to lean on advertising and automation to enhance growth, while Amazon’s revenue figures reach new heights.",
+      "image": "data/images/63169b80cc1a6e02.webp"
+    },
+    {
       "id": "54f7be7cb28c3023",
       "title": "Trump wants to coat this historic D.C. landmark in white paint, alarming preservationists",
       "url": "https://www.fastcompany.com/91538393/trump-wants-coat-historic-d-c-landmark-white-paint-alarming-preservationists?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
@@ -3051,6 +3101,16 @@
       "image": "data/images/45b79383c2b4b624.webp"
     },
     {
+      "id": "fcdfa672ecb55b05",
+      "title": "Sister Mary Modernizes Genesee While Celebrating The Brand’s Rochester Roots",
+      "url": "https://thedieline.com/sister-mary-modernizes-genesee-while-celebrating-the-brands-rochester-roots/",
+      "source": "The Dieline",
+      "category": "design",
+      "publishedAt": "2026-05-07T13:11:05.000Z",
+      "excerpt": "The all-seeing Red Eye knows all? Design agency Sister Mary unveils a modernized visual identity and packaging for Genesee, the oldest brewery in New York State. This brand refresh celebrates Genesee’",
+      "image": "data/images/fcdfa672ecb55b05.webp"
+    },
+    {
       "id": "d9d4dfa1328cdd58",
       "title": "Michael Carrick says 'clarity' over Manchester United head coach role important",
       "url": "https://www.nytimes.com/athletic/7260827/2026/05/07/michael-carrick-manchester-united-future-clarity/",
@@ -3061,26 +3121,6 @@
       "image": "data/images/d9d4dfa1328cdd58.webp"
     },
     {
-      "id": "f5dd1a83ebb981c0",
-      "title": "Netflix Animation Sets Supersized Sneak Peek Schedule for Annecy Festival",
-      "url": "https://www.animationmagazine.net/2026/05/netflix-animation-sets-supersized-sneak-peek-schedule-for-annecy-festival/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T13:00:55.000Z",
-      "excerpt": "Netflix returns to the Annecy International Animation Film Festival with a genre-spanning line-up of animated films and series featuring visionary filmmakers, as well as up-and-coming talent. This fol",
-      "image": null
-    },
-    {
-      "id": "5fb0a20b3b48ee7f",
-      "title": "Netflix Sets Annecy 2026 Slate: ‘Ray Gunn,’ ‘Blue Eye Samuri’ S2, ‘Charlie vs. The Chocolate Factory’ First Looks",
-      "url": "https://www.cartoonbrew.com/animators/netflix-annecy-ray-gunn-ghostbusters-steps-alley-cats-260649.html",
-      "source": "Cartoon Brew",
-      "category": "motion",
-      "publishedAt": "2026-05-07T13:00:52.000Z",
-      "excerpt": "The streamer will also tease Ricky Gervais's 'Alley Cats,' the new 'The One Piece' series, upcoming feature 'Steps,' and more.",
-      "image": "data/images/5fb0a20b3b48ee7f.webp"
-    },
-    {
       "id": "d5977ee64cd66f56",
       "title": "Rise A armchair by Parla",
       "url": "https://www.dezeen.com/2026/05/07/rise-armchair-parla-dezeen-showroom/",
@@ -3089,6 +3129,16 @@
       "publishedAt": "2026-05-07T13:00:49.000Z",
       "excerpt": "Dezeen Showroom: rounded forms and slender outlines make up Turkish furniture brand Parla's Rise A armchair, the product of synergy between designer and maker. The Rise A armchair is designed for comf",
       "image": "data/images/d5977ee64cd66f56.webp"
+    },
+    {
+      "id": "271a3110c0d31266",
+      "title": "Project 2 | Dialogue: The 2Craigs",
+      "url": "https://www.printmag.com/creative-prompts/project-2-dialogue-the-2craigs-7/",
+      "source": "PrintMag",
+      "category": "design",
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "excerpt": "Project 2 by The 2Craigs is a year-long visual exchange where photographer Craig Cutler and illustrator Craig Frazier intuitively respond to each other’s work. The post Project 2 | Dialogue: The 2Crai",
+      "image": "data/images/271a3110c0d31266.webp"
     },
     {
       "id": "9478d41b4155dc81",
@@ -3111,6 +3161,16 @@
       "image": "data/images/dbc13116d9597d0b.webp"
     },
     {
+      "id": "d2f10f3cf6ed4c9c",
+      "title": "Amazon Ads and LinkedIn partner to expand B2B reach for 2026 upfront",
+      "url": "https://www.campaignlive.com/article/amazon-ads-linkedin-partner-expand-b2b-reach-2026-upfront/1957254",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-07T13:00:00.000Z",
+      "excerpt": "VP of global ad sales Alan Moss details how the marriage of live sports and new ad tech tools helps brands navigate media fragmentation.",
+      "image": "data/images/d2f10f3cf6ed4c9c.webp"
+    },
+    {
       "id": "26bb4814eb4654d4",
       "title": "Does Sexual Attraction Cloud Our Rejection Detection?",
       "url": "https://nautil.us/does-sexual-attraction-cloud-our-rejection-detection-1280554/",
@@ -3129,6 +3189,16 @@
       "publishedAt": "2026-05-07T13:00:00.000Z",
       "excerpt": "What is hope, and where does it come from? Lisa Miller, PhD, Sam Newlands, PhD, and William Magee, PhD bring together neuroscience, philosophy, and psychology to explore how hope operates between cert",
       "image": "data/images/07bf7e56a894d10b.webp"
+    },
+    {
+      "id": "c49266d47b019abb",
+      "title": "Inside Newcastle’s business plan to challenge for the Premier League by 2030",
+      "url": "https://www.sportspro.com/features/finance-investment/newcastle-united-finances-revenue-psr-sponsorship-stadium-david-hopkinson/",
+      "source": "SportsPro",
+      "category": "sport",
+      "publishedAt": "2026-05-07T12:32:20.000Z",
+      "excerpt": "Newcastle United CEO David Hopkinson outlines how the club plans to increase revenues by nine figures, take advantage of PSR changes, and challenge for titles by the end of the decade. The post Inside",
+      "image": "data/images/c49266d47b019abb.webp"
     },
     {
       "id": "6e0a85ce9f142314",
@@ -3188,7 +3258,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T12:07:00.000Z",
       "excerpt": "Sleep Number’s new model leans plush, but its smart support might convert even die-hard firmness fans.",
-      "image": null
+      "image": "data/images/0f0c212b9be1af26.webp"
     },
     {
       "id": "8cf38c2e9712415c",
@@ -3308,7 +3378,17 @@
       "category": "culture",
       "publishedAt": "2026-05-07T11:33:00.000Z",
       "excerpt": "Need to print labels, stickers, stacks of pages, color photos, or even a textured mug? I tested the best home printers, including ink-tank, cartridge, and laser options.",
-      "image": null
+      "image": "data/images/493b561511d05c5c.webp"
+    },
+    {
+      "id": "3e8391489e7b9510",
+      "title": "DIELINE Awards Best in Show: Olssøn Barbieri Turns Ancient History into Modern Ceramic Craft",
+      "url": "https://thedieline.com/dieline-awards-best-in-show-olsson-barbieri-turns-ancient-history-into-modern-ceramic-craft/",
+      "source": "The Dieline",
+      "category": "design",
+      "publishedAt": "2026-05-07T11:30:38.000Z",
+      "excerpt": "Olssøn Barbieri takes the top prize at this year’s Dieline Awards for the spirits brand Varus 775 and its refillable ceramic vessels. Inspired by the Battle of the Teutoburg Forest and the \"Pax Romana",
+      "image": "data/images/3e8391489e7b9510.webp"
     },
     {
       "id": "bcc4f19ff2b1cdab",
@@ -3328,7 +3408,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T11:30:00.000Z",
       "excerpt": "Our writer tried some of the most popular insect repellents during runs, hikes, and evening walks. These are the ones we recommend.",
-      "image": null
+      "image": "data/images/691302351a90dd8f.webp"
     },
     {
       "id": "40ad6533b25d2f87",
@@ -3349,6 +3429,16 @@
       "publishedAt": "2026-05-07T11:04:21.000Z",
       "excerpt": "Dr. Johnson’s violent rebuttal of Berkeley’s arguments for idealism, which is based on the non-existence of matter, has gone down in philosophical history. Kicking a large stone so hard he literally b",
       "image": "data/images/861cb2812b0317fc.webp"
+    },
+    {
+      "id": "6ab9c3832e21e0c2",
+      "title": "The Daily Heller: How Illustration is Essential to World Cultures",
+      "url": "https://www.printmag.com/daily-heller/the-daily-heller-understanding-illustration-as-essential-to-modern-life/",
+      "source": "PrintMag",
+      "category": "design",
+      "publishedAt": "2026-05-07T11:00:00.000Z",
+      "excerpt": "D.B. Dowd studies the history of illustration, the practice of drawing and the \"hybridity of reading and seeing.\" The post The Daily Heller: How Illustration is Essential to World Cultures appeared fi",
+      "image": "data/images/6ab9c3832e21e0c2.webp"
     },
     {
       "id": "0cc76e1e6818f6e7",
@@ -3378,7 +3468,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T11:00:00.000Z",
       "excerpt": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
-      "image": null
+      "image": "data/images/89056fd254923a7f.webp"
     },
     {
       "id": "6964ca668411b0b8",
@@ -3388,7 +3478,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T11:00:00.000Z",
       "excerpt": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-      "image": null
+      "image": "data/images/6964ca668411b0b8.webp"
     },
     {
       "id": "6a2979e0389dcd9b",
@@ -3431,6 +3521,16 @@
       "image": "data/images/8ee2fe776887e884.webp"
     },
     {
+      "id": "cc942ea8899887a0",
+      "title": "4Creative cuts out visuals from the UK’s most iconic TV shows to make its new identity",
+      "url": "https://www.itsnicethat.com/articles/4creative-rebrand-graphic-design-project-070526",
+      "source": "It's Nice That",
+      "category": "design",
+      "publishedAt": "2026-05-07T10:30:00.000Z",
+      "excerpt": "From The Great British Bakeoff to Peep Show and Educating Yorkshire, 4Creative nods to the creativity behind the nation’s 24-karat TV gold in this fresh new look – with 130 logos to boot.",
+      "image": "data/images/cc942ea8899887a0.webp"
+    },
+    {
       "id": "906034fae4b4dc5e",
       "title": "Trump’s latest logos leave out Vice President Vance",
       "url": "https://www.fastcompany.com/91537689/trump-latest-logos-leave-out-vice-president-vance?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
@@ -3458,7 +3558,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T10:30:00.000Z",
       "excerpt": "We put 36 sunscreens to the test during summer hikes, spring ski days, and beachside hangs. Out of all the mineral, chemical, and spray varieties we tried, these are our top picks.",
-      "image": null
+      "image": "data/images/f8034fb9011f4a33.webp"
     },
     {
       "id": "7e004b44b627cf37",
@@ -3468,7 +3568,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T10:30:00.000Z",
       "excerpt": "Brian Michael Hinds found accidental internet fame through a resemblance to the controversial manosphere figure. He’s still wrestling with what to do with it.",
-      "image": null
+      "image": "data/images/7e004b44b627cf37.webp"
     },
     {
       "id": "3091fe3ad90a0453",
@@ -3501,16 +3601,6 @@
       "image": "data/images/5f4f6ad64c44b862.webp"
     },
     {
-      "id": "f98655d3ab1a00bf",
-      "title": "Why Kentucky Derby winners like Golden Tempo frequently skip the Preakness Stakes",
-      "url": "https://www.nytimes.com/athletic/7259752/2026/05/07/kentucky-derby-golden-tempo-skipping-preakness-stakes/",
-      "source": "The Athletic",
-      "category": "sport",
-      "publishedAt": "2026-05-07T10:00:02.000Z",
-      "excerpt": "Trainer Cherie DeVaux is not running Golden Tempo in the Preakness, as another Churchill Downs winner bypasses horse racing's Triple Crown.",
-      "image": "data/images/f98655d3ab1a00bf.webp"
-    },
-    {
       "id": "4eee12a7623ced4e",
       "title": "Shop ’til you bot: Google, OpenAI, and the race to build agentic commerce",
       "url": "https://www.fastcompany.com/91533534/shop-til-you-bot-google-openai-and-the-race-to-build-agentic-commerce?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
@@ -3539,16 +3629,6 @@
       "publishedAt": "2026-05-07T10:00:00.000Z",
       "excerpt": "Genetic studies support what historians have argued for decades: ancient India was a place of migration and mixture - by Kiran Kumbhar Read on Aeon",
       "image": "data/images/51299e19053b8cce.webp"
-    },
-    {
-      "id": "e464f49784e1dd23",
-      "title": "What does the post-Voting Rights Act world look like?",
-      "url": "https://www.vox.com/politics/487956/callais-gerrymander-redistricting-congress-illinois-california-new-york-alabama-louisana-black-latino",
-      "source": "Vox",
-      "category": "culture",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "excerpt": "Attendees hold signs advocating for voting rights and against the SAVE America Act at a rally to outside the US Capitol on March 18, 2026, in Washington, DC. | Heather Diehl/Getty Images Just as the r",
-      "image": "data/images/e464f49784e1dd23.webp"
     },
     {
       "id": "c7e45b7369b7f6d7",
@@ -3581,16 +3661,6 @@
       "image": "data/images/6b283d696898ae2f.webp"
     },
     {
-      "id": "5a3356515c52ab09",
-      "title": "The Met Gala, “The Devil Wears Prada 2,” and the State of Style",
-      "url": "https://www.newyorker.com/podcast/critics-at-large/the-met-gala-the-devil-wears-prada-2-and-the-state-of-style",
-      "source": "The New Yorker",
-      "category": "culture",
-      "publishedAt": "2026-05-07T10:00:00.000Z",
-      "excerpt": "The opulent fund-raiser and the box-office hit both highlight dramatic shifts in fashion and media in recent decades. These days, who’s calling the shots?",
-      "image": "data/images/5a3356515c52ab09.webp"
-    },
-    {
       "id": "5cfc220331c02829",
       "title": "This Midterm Season, Don’t Forget Your Wine Mom",
       "url": "https://www.newyorker.com/culture/progress-report/dont-forget-your-wine-mom-this-midterm-season",
@@ -3611,6 +3681,16 @@
       "image": "data/images/a897ca0a81b8f1b7.webp"
     },
     {
+      "id": "5a3356515c52ab09",
+      "title": "The Met Gala, “The Devil Wears Prada 2,” and the State of Style",
+      "url": "https://www.newyorker.com/podcast/critics-at-large/the-met-gala-the-devil-wears-prada-2-and-the-state-of-style",
+      "source": "The New Yorker",
+      "category": "culture",
+      "publishedAt": "2026-05-07T10:00:00.000Z",
+      "excerpt": "The opulent fund-raiser and the box-office hit both highlight dramatic shifts in fashion and media in recent decades. These days, who’s calling the shots?",
+      "image": "data/images/5a3356515c52ab09.webp"
+    },
+    {
       "id": "dcb1dcf1f5ba8be8",
       "title": "There Is No Evidence the Trump Assassination Attempts Were Staged. People Still Believe They Were",
       "url": "https://www.wired.com/story/there-is-no-evidence-the-trump-assassination-attempts-were-staged-people-still-believe-they-were/",
@@ -3618,27 +3698,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T10:00:00.000Z",
       "excerpt": "Elements of the right and the left are united in the baseless belief that two attempts on Donald Trump's life were staged.",
-      "image": null
-    },
-    {
-      "id": "82ce0f114440a787",
-      "title": "Vivianne Miedema thanks fans for support after Manchester City absence due to family matter",
-      "url": "https://www.nytimes.com/athletic/7260488/2026/05/07/vivianne-miedema-manchester-city-absence/",
-      "source": "The Athletic",
-      "category": "sport",
-      "publishedAt": "2026-05-07T09:58:18.000Z",
-      "excerpt": "Miedema, 29, explained her absence was due to her mum experiencing serious complications after undergoing chemotherapy to treat cancer.",
-      "image": "data/images/82ce0f114440a787.webp"
-    },
-    {
-      "id": "e61dc9340531cba6",
-      "title": "Sporticast: Duke, Amazon Test the Edges of College Media Rights",
-      "url": "https://www.sportico.com/podcasts/sporticast/2026/duke-amazon-college-basketball-rights-sporticast-podcast-1234892017/",
-      "source": "Sportico",
-      "category": "sport",
-      "publishedAt": "2026-05-07T09:55:00.000Z",
-      "excerpt": "On the 550th Sporticast episode, hosts Eben Novy-Williams and Jacob Feldman are joined by colleague Lev Akabas to discuss a number of current sports business topics, including the backlash to Duke’s n",
-      "image": "data/images/e61dc9340531cba6.webp"
+      "image": "data/images/dcb1dcf1f5ba8be8.webp"
     },
     {
       "id": "ab88fd754ad8c487",
@@ -3651,6 +3711,16 @@
       "image": "data/images/ab88fd754ad8c487.webp"
     },
     {
+      "id": "cb70baa9d629071b",
+      "title": "Exclusive: Olympic champion Keely Hodgkinson signs with WME Sports",
+      "url": "https://www.sportspro.com/news/agencies/keely-hodgkinson-wme-sports-representation-may-2026/",
+      "source": "SportsPro",
+      "category": "sport",
+      "publishedAt": "2026-05-07T09:34:26.000Z",
+      "excerpt": "Agency will represent British 800m star for commercial partnerships and brand collaborations. The post Exclusive: Olympic champion Keely Hodgkinson signs with WME Sports appeared first on SportsPro.",
+      "image": "data/images/cb70baa9d629071b.webp"
+    },
+    {
       "id": "da1d2c2e7b7abc57",
       "title": "Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)",
       "url": "https://www.wired.com/story/cheap-wired-headphones-rave/",
@@ -3658,7 +3728,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T09:31:00.000Z",
       "excerpt": "Admit it: It’s inevitable you will forget to charge your Bluetooth pair.",
-      "image": null
+      "image": "data/images/da1d2c2e7b7abc57.webp"
     },
     {
       "id": "5a0fe974906b8db8",
@@ -3689,6 +3759,16 @@
       "publishedAt": "2026-05-07T09:00:32.000Z",
       "excerpt": "Following the release of Home for Now: Living Well Without Staying Long, a book spotlighting interior design for rental homes, authors Paul Firmin and Niko Dafkos talk Dezeen through eight of the most",
       "image": "data/images/e6319326e5b2c118.webp"
+    },
+    {
+      "id": "e80310e1dfd40d7a",
+      "title": "Gary Grimes decodes the angsty cultural references within Romain Gavras’ Yung Lean-starring epic, Storm",
+      "url": "https://www.itsnicethat.com/articles/romain-gavras-yung-lean-storm-film-gary-grimes-culture-column-070526",
+      "source": "It's Nice That",
+      "category": "design",
+      "publishedAt": "2026-05-07T09:00:00.000Z",
+      "excerpt": "More Bully, less Busted: It’s Nice That’s culture columnist breaks down the film on everyone’s feeds, and how it’s already earned a place in the teenage rebellion history books.",
+      "image": null
     },
     {
       "id": "9b06818283a9c3fa",
@@ -3851,6 +3931,26 @@
       "image": "data/images/5305becc0ffea0ec.webp"
     },
     {
+      "id": "2910a2cc73a770ce",
+      "title": "Jake Machen’s charming bubblegum comics transport us back to the anime magazines of yore",
+      "url": "https://www.itsnicethat.com/articles/jake-machen-verdant-dream-illustration-publication-project-070526",
+      "source": "It's Nice That",
+      "category": "design",
+      "publishedAt": "2026-05-07T08:00:00.000Z",
+      "excerpt": "These comics feel fresh and authentically retro, nodding to video games and 90s Sonic The Hedgehog picture books.",
+      "image": "data/images/2910a2cc73a770ce.webp"
+    },
+    {
+      "id": "89e1ea838a2f4f3f",
+      "title": "Uncommon’s mouldy identity for Offf Barcelona is grown from biological traces of creatives",
+      "url": "https://www.itsnicethat.com/articles/uncommon-offf-barcelona-graphic-design-project-070526",
+      "source": "It's Nice That",
+      "category": "design",
+      "publishedAt": "2026-05-07T08:00:00.000Z",
+      "excerpt": "Working with a wildly unpredictable process under time restraints, creative studio Uncommon has taken inspiration from ‘culture’ itself.",
+      "image": "data/images/89e1ea838a2f4f3f.webp"
+    },
+    {
       "id": "b5965a1f8032fd4c",
       "title": "The 7 Most Influential US Generals Ranked by Historical Legacy",
       "url": "https://www.thecollector.com/influential-us-generals-ranked-historical-legacy/",
@@ -3898,7 +3998,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-      "image": null
+      "image": "data/images/1cf6aaa45ab55362.webp"
     },
     {
       "id": "a481c2ae74f49e1a",
@@ -3908,27 +4008,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "image": null
-    },
-    {
-      "id": "17600d65bfc020dc",
-      "title": "Womanizer Coupons: Save 15% in May",
-      "url": "https://www.wired.com/story/womanizer-coupon/",
-      "source": "WIRED",
-      "category": "culture",
-      "publishedAt": "2026-05-07T05:00:00.000Z",
-      "excerpt": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
-      "image": null
-    },
-    {
-      "id": "35040a8130e85407",
-      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "source": "WIRED",
-      "category": "culture",
-      "publishedAt": "2026-05-07T05:00:00.000Z",
-      "excerpt": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "image": null
+      "image": "data/images/a481c2ae74f49e1a.webp"
     },
     {
       "id": "e1ca5cf9ef96f844",
@@ -3938,7 +4018,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-      "image": null
+      "image": "data/images/e1ca5cf9ef96f844.webp"
     },
     {
       "id": "ba04824536d3de14",
@@ -3948,7 +4028,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "image": null
+      "image": "data/images/ba04824536d3de14.webp"
     },
     {
       "id": "001fd0b42593850a",
@@ -3958,7 +4038,7 @@
       "category": "culture",
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
-      "image": null
+      "image": "data/images/001fd0b42593850a.webp"
     },
     {
       "id": "ff2e7a367608cabb",
@@ -3968,7 +4048,27 @@
       "category": "culture",
       "publishedAt": "2026-05-07T05:00:00.000Z",
       "excerpt": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-      "image": null
+      "image": "data/images/ff2e7a367608cabb.webp"
+    },
+    {
+      "id": "17600d65bfc020dc",
+      "title": "Womanizer Coupons: Save 15% in May",
+      "url": "https://www.wired.com/story/womanizer-coupon/",
+      "source": "WIRED",
+      "category": "culture",
+      "publishedAt": "2026-05-07T05:00:00.000Z",
+      "excerpt": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
+      "image": "data/images/17600d65bfc020dc.webp"
+    },
+    {
+      "id": "35040a8130e85407",
+      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "source": "WIRED",
+      "category": "culture",
+      "publishedAt": "2026-05-07T05:00:00.000Z",
+      "excerpt": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "image": "data/images/35040a8130e85407.webp"
     },
     {
       "id": "e5286adbc08438a0",
@@ -3978,7 +4078,7 @@
       "category": "motion",
       "publishedAt": "2026-05-07T04:58:34.000Z",
       "excerpt": "Go behind the scenes. The post Folks breaks down its VFX for ‘Marty Supreme’ appeared first on befores & afters.",
-      "image": null
+      "image": "data/images/e5286adbc08438a0.webp"
     },
     {
       "id": "e1fc45e8114a60e2",
@@ -4019,16 +4119,6 @@
       "publishedAt": "2026-05-07T03:25:06.000Z",
       "excerpt": "The Knicks take a 2-0 series lead with a 108-102 win against a 76ers team without injured star Joel Embiid",
       "image": "data/images/66bb823a1134bd6c.webp"
-    },
-    {
-      "id": "db2b7e29a1879997",
-      "title": "Annecy Updates: ‘Classics’ Film Lineup & MIFA Pitches Unveiled",
-      "url": "https://www.animationmagazine.net/2026/05/annecy-updates-classics-film-lineup-mifa-pitches-unveiled/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-07T02:20:53.000Z",
-      "excerpt": "Organizers of the Annecy International Animation Film Festival (June 21-27) have announced the lineup of this year’s Annecy Classics program, offering a broad range of retrospectives, tributes and (re",
-      "image": null
     },
     {
       "id": "502f263a8edb2b7b",
@@ -4078,7 +4168,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T23:23:45.000Z",
       "excerpt": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
-      "image": null
+      "image": "data/images/62413ca56b74355c.webp"
     },
     {
       "id": "9681dffb6236d2ef",
@@ -4128,17 +4218,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T21:24:18.000Z",
       "excerpt": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “visual cues,” such as height and bone structure.",
-      "image": null
-    },
-    {
-      "id": "2d31bc40b7f30303",
-      "title": "Wyncor & OuiDo! Partner for Original Animated Series, Distribution Division",
-      "url": "https://www.animationmagazine.net/2026/05/wyncor-ouido-partner-for-original-animated-series-distribution-division/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T21:05:40.000Z",
-      "excerpt": "Wyncor and OuiDo! Productions today announced a strategic partnership to co-develop and produce two original animated series — The Kwaaks! and BABS! — for which they are simultaneously launching a new",
-      "image": null
+      "image": "data/images/130c2421ce34488e.webp"
     },
     {
       "id": "e608f006bff97194",
@@ -4248,7 +4328,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T19:32:03.000Z",
       "excerpt": "As chaotic negotiations over the end of the Iran war continue, US negotiators think they have the framework for a deal in place. Now they just have to sell the president on it.",
-      "image": null
+      "image": "data/images/f2f4dd0ff1177490.webp"
     },
     {
       "id": "f70f83eade86a838",
@@ -4261,16 +4341,6 @@
       "image": "data/images/f70f83eade86a838.webp"
     },
     {
-      "id": "62e5d6170cbe97d5",
-      "title": "GKIDS Snags NorAm Rights to ‘Tekkonkinkreet’; Remastered 20th Anniversary Event Tickets on Sale",
-      "url": "https://www.animationmagazine.net/2026/05/gkids-snags-noram-rights-to-tekkonkinkreet-remastered-20th-anniversary-event-tickets-on-sale/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T19:24:59.000Z",
-      "excerpt": "Academy Award-winning producer and distributor GKIDS announced today it has acquired all rights for North America to Tekkonkinkreet, the award-winning 2006 feature animated by Studio4°C (All You Need ",
-      "image": null
-    },
-    {
       "id": "22f0770259e74994",
       "title": "The Debrief | Why People Hate AI",
       "url": "https://www.businessoffashion.com/podcasts/technology/the-debrief-why-people-hate-ai/",
@@ -4279,16 +4349,6 @@
       "publishedAt": "2026-05-06T19:13:54.000Z",
       "excerpt": "The Debrief host Sheena Butler-Young is joined by BoF’s Marc Bain and Haley Crawford to unpack why the industry’s push for AI-led efficiency is starting to rub shoppers the wrong way.",
       "image": "data/images/22f0770259e74994.webp"
-    },
-    {
-      "id": "5710f0114c9bd327",
-      "title": "Disney XD’s ‘Dragon Striker’ Kicks Off with Official Trailer Ahead of June Debut",
-      "url": "https://www.animationmagazine.net/2026/05/disney-xds-dragon-striker-kicks-off-with-official-trailer-ahead-of-june-debut/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T19:00:53.000Z",
-      "excerpt": "The official trailer for the epic animated sports fantasy series Dragon Striker was revealed today. Blending European fantasy with Japanese animation influences, the series follows an underdog hero’s ",
-      "image": null
     },
     {
       "id": "94652c2d7dd257ea",
@@ -4318,7 +4378,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T18:28:52.000Z",
       "excerpt": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
-      "image": null
+      "image": "data/images/9e232da26dd9a1d6.webp"
     },
     {
       "id": "0f4d930efaf18312",
@@ -4371,16 +4431,6 @@
       "image": "data/images/186473228d3590b7.webp"
     },
     {
-      "id": "a1e54848cbfb83ad",
-      "title": "King Banana Producing ‘Yakka Do!’ for CBeebies",
-      "url": "https://www.animationmagazine.net/2026/05/king-banana-producing-yakka-do-for-cbeebies/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T18:18:00.000Z",
-      "excerpt": "Lovable chatterbox Dee from the hit TV series and YouTube brand Yakka Dee! is returning to screens with a new superhero look and two new superhero friends in the upcoming CBeebies series Yakka Do! The",
-      "image": null
-    },
-    {
       "id": "9b06d371268d2a8a",
       "title": "The Story Behind the First Soviet Atomic Bomb",
       "url": "https://www.thecollector.com/red-dawn-soviet-atomic-bomb/",
@@ -4408,7 +4458,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T18:00:00.000Z",
       "excerpt": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
-      "image": null
+      "image": "data/images/ce8008a23ecb6a64.webp"
     },
     {
       "id": "ac2e8eeeed2f2d1e",
@@ -4431,16 +4481,6 @@
       "image": "data/images/a04a144b5ed16412.webp"
     },
     {
-      "id": "a3dd46b701fa7adc",
-      "title": "‘Super Why’s Comic Book Adventures’ Powers Up for October Premiere on PBS KIDS",
-      "url": "https://www.animationmagazine.net/2026/05/super-whys-comic-book-adventures-powers-up-for-october-premiere-on-pbs-kids/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T17:44:05.000Z",
-      "excerpt": "Today, PBS KIDS announced the premiere date for Super Why’s Comic Book Adventures, the animated series that builds on the legacy and success of the Emmy-nominated Super Why! series and Super Why’s Com",
-      "image": null
-    },
-    {
       "id": "6dca46fb91776875",
       "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Revealed How Fast",
       "url": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
@@ -4448,17 +4488,17 @@
       "category": "culture",
       "publishedAt": "2026-05-06T17:35:06.000Z",
       "excerpt": "A new NASA map shows how the sinking of Mexico City is uneven, with areas registering up to 2 centimeters per month.",
-      "image": null
+      "image": "data/images/6dca46fb91776875.webp"
     },
     {
-      "id": "a44795c182d3f992",
-      "title": "Cantilever Media & Architect Unwrap ‘Christmas Inc.’ Worldwide Sales at Cannes",
-      "url": "https://www.animationmagazine.net/2026/05/cantilever-media-architect-unwrap-christmas-inc-worldwide-sales-at-cannes/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T17:05:06.000Z",
-      "excerpt": "Independent U.K. production company Cantilever Media, producer of animated franchise The Amazing Maurice, and global sales and financing outfit Architect are launching Christmas Inc. to buyers worldwi",
-      "image": null
+      "id": "54aa85fbae815917",
+      "title": "Gwyneth Paltrow discusses how ‘not giving a f*ck’ led Goop’s marketing strategy",
+      "url": "https://www.campaignlive.com/article/gwyneth-paltrow-discusses-not-giving-fck-led-goops-marketing-strategy/1957239",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T17:02:32.000Z",
+      "excerpt": "The Oscar-winning actress and Goop CEO took the stage as Meltwater Summit’s keynote speaker.",
+      "image": "data/images/54aa85fbae815917.webp"
     },
     {
       "id": "300c99986440b070",
@@ -4471,16 +4511,6 @@
       "image": "data/images/300c99986440b070.webp"
     },
     {
-      "id": "801c8245319ca9de",
-      "title": "‘Clifford the Big Red Dog’ Returns in Reimagined Animated Series on PBS KIDS",
-      "url": "https://www.animationmagazine.net/2026/05/clifford-the-big-red-dog-returns-in-reimagined-animated-series-on-pbs-kids/",
-      "source": "Animation Magazine",
-      "category": "motion",
-      "publishedAt": "2026-05-06T16:54:21.000Z",
-      "excerpt": "Today, PBS KIDS announced the production of the newest animated series for kids ages 3-5 based on the beloved Scholastic book series by Norman Bridwell, Clifford the Big Red Dog. Produced by 9 Story M",
-      "image": null
-    },
-    {
       "id": "591d2508df9956c4",
       "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
       "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
@@ -4488,7 +4518,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T16:51:12.000Z",
       "excerpt": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
-      "image": null
+      "image": "data/images/591d2508df9956c4.webp"
     },
     {
       "id": "6b368318d8782354",
@@ -4581,6 +4611,16 @@
       "image": "data/images/bb401c81762336d4.webp"
     },
     {
+      "id": "fd00abed19c6c47a",
+      "title": "Disney courts emerging brands: Ad sales momentum grows ahead of 2026 upfronts",
+      "url": "https://www.campaignlive.com/article/disney-courts-emerging-brands-ad-sales-momentum-grows-ahead-2026-upfronts/1957227",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T15:49:15.000Z",
+      "excerpt": "The entertainment giant is leveraging its self-service platform and biddable sports media to attract independent agencies and brands.",
+      "image": "data/images/fd00abed19c6c47a.webp"
+    },
+    {
       "id": "883e289551379d92",
       "title": "Hackers Hate AI Slop Even More Than You Do",
       "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
@@ -4588,7 +4628,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T15:49:12.000Z",
       "excerpt": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-      "image": null
+      "image": "data/images/883e289551379d92.webp"
     },
     {
       "id": "72e74dae6486a91c",
@@ -4641,6 +4681,16 @@
       "image": "data/images/153ccb931c25e9a2.webp"
     },
     {
+      "id": "83bbf55046643b1a",
+      "title": "Broadhead names Gil Muiños its first CCO",
+      "url": "https://www.campaignlive.com/article/broadhead-names-gil-muinos-its-first-cco/1957221",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T15:00:00.000Z",
+      "excerpt": "EXCLUSIVE: The independent agency also secured three new clients: Cosmo Technologies, LifeSource and Thermo Bond.",
+      "image": "data/images/83bbf55046643b1a.webp"
+    },
+    {
       "id": "b59826fd75f30dee",
       "title": "The Best Books of 2026 So Far",
       "url": "https://www.newyorker.com/best-books-2026",
@@ -4668,7 +4718,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T14:40:06.000Z",
       "excerpt": "A drawing that riffs on the latest news and happenings.",
-      "image": null
+      "image": "data/images/d003238a579d55f0.webp"
     },
     {
       "id": "5d06e9091df7fce2",
@@ -4678,7 +4728,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T14:13:19.000Z",
       "excerpt": "I feel about luggage carousels the same way I feel about head lice: avoid at all costs. These are the best carry-on suitcases for those who never want to check a bag again.",
-      "image": null
+      "image": "data/images/5d06e9091df7fce2.webp"
     },
     {
       "id": "f4f51a24759944f8",
@@ -4689,6 +4739,36 @@
       "publishedAt": "2026-05-06T14:04:11.000Z",
       "excerpt": "Generals who win wars and battles do not necessarily win the peace. After the parades and awards ceremonies, it is up to diplomats to negotiate a lasting and advantageous peace. Diplomacy is the art o",
       "image": "data/images/f4f51a24759944f8.webp"
+    },
+    {
+      "id": "fcf5bb839fde2102",
+      "title": "Shipt and Sterling K. Brown deliver an IRL experience far from ‘ordinary’",
+      "url": "https://www.campaignlive.com/article/shipt-sterling-k-brown-deliver-irl-experience-far-ordinary/1957204",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T13:59:13.000Z",
+      "excerpt": "CMO Alia Kemet discusses the Target-owned delivery service’s brand relaunch and its strategy to stand out in a crowded market.",
+      "image": "data/images/fcf5bb839fde2102.webp"
+    },
+    {
+      "id": "b709bb65f10d1bbc",
+      "title": "AB InBev wins Cannes Lions creative marketer of the year award for third time",
+      "url": "https://www.campaignlive.com/article/ab-inbev-wins-cannes-lions-creative-marketer-year-award-third-time/1957200",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T13:53:30.000Z",
+      "excerpt": "Award aims to honour brand that has developed a reputation for creative marketing.",
+      "image": "data/images/b709bb65f10d1bbc.webp"
+    },
+    {
+      "id": "bc67ce4cade9ae72",
+      "title": "TikTok’s global executive creative director Tom Skinner departs",
+      "url": "https://www.campaignlive.com/article/tiktoks-global-executive-creative-director-tom-skinner-departs/1957198",
+      "source": "Campaign",
+      "category": "marketing",
+      "publishedAt": "2026-05-06T13:50:08.000Z",
+      "excerpt": "Tom Skinner was at BBH before spending six years at the social platform.",
+      "image": "data/images/bc67ce4cade9ae72.webp"
     },
     {
       "id": "67f7cd5b0701b48e",
@@ -4718,7 +4798,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T13:30:00.000Z",
       "excerpt": "The Institute for Primary Facts has compiled more than 3.5 million pages of the Epstein files for public display at the newly opened Donald J. Trump and Jeffrey Epstein Memorial Reading Room.",
-      "image": null
+      "image": "data/images/cdfaf5f99e5ebd1d.webp"
     },
     {
       "id": "2640236b12750e97",
@@ -4751,6 +4831,16 @@
       "image": "data/images/9b675d99323d16f5.webp"
     },
     {
+      "id": "6c5718a4a0450019",
+      "title": "“I don’t want to just observe, I want to participate”: Ollie Babajide Tikare on immersing himself in the cultures he photographs",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-april-ollie-tikare-060526",
+      "source": "It's Nice That",
+      "category": "design",
+      "publishedAt": "2026-05-06T13:00:00.000Z",
+      "excerpt": "Ollie Babajide Tikare is a multi-hypenate in the very definition of the word: he’s a photographer, writer, music curator and DJ who touches topics from socio-political essays to fashion, but Ollie mai",
+      "image": null
+    },
+    {
       "id": "1eb71aeb032d9dfc",
       "title": "Old Navy Appoints Retail Veteran Michael Francis as Chief Customer Officer",
       "url": "https://www.businessoffashion.com/news/retail/old-navy-appoints-retail-veteran-michael-francis-as-chief-customer-officer/",
@@ -4761,6 +4851,16 @@
       "image": "data/images/1eb71aeb032d9dfc.webp"
     },
     {
+      "id": "174d9a10980b162a",
+      "title": "Todd Radom Turns his Life-Long Passion for Baseball into New Book, ‘The Ballpark and Beyond’",
+      "url": "https://www.printmag.com/publication-design/todd-radom-the-ballpark-and-beyond/",
+      "source": "PrintMag",
+      "category": "design",
+      "publishedAt": "2026-05-06T13:00:00.000Z",
+      "excerpt": "The graphic designer, sports branding expert, podcaster, writer, and baseball historian tells us about his new illustrated love letter to baseball. The post Todd Radom Turns his Life-Long Passion for ",
+      "image": "data/images/174d9a10980b162a.webp"
+    },
+    {
       "id": "c692ba7183c913f2",
       "title": "Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’",
       "url": "https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/",
@@ -4768,7 +4868,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T13:00:00.000Z",
       "excerpt": "This new app tracks every time you swipe your card at a cool restaurant—and tells all your friends.",
-      "image": null
+      "image": "data/images/c692ba7183c913f2.webp"
     },
     {
       "id": "6f1509997fc90ff7",
@@ -4778,37 +4878,7 @@
       "category": "culture",
       "publishedAt": "2026-05-06T12:35:00.000Z",
       "excerpt": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "image": null
-    },
-    {
-      "id": "de60b0ca5544c786",
-      "title": "Why Beatrix Potter’s Stories Still Delight Generations",
-      "url": "https://www.thecollector.com/beatrix-potter-stories/",
-      "source": "TheCollector",
-      "category": "culture",
-      "publishedAt": "2026-05-06T12:04:38.000Z",
-      "excerpt": "The author of twenty-three short children’s tales, Beatrix Potter became one of the most beloved authors of the 20th century. Supported in her interest in art by John Everett Millais, a renowned artis",
-      "image": "data/images/de60b0ca5544c786.webp"
-    },
-    {
-      "id": "a816f6101850c1a1",
-      "title": "ReMarkable Paper Pure Tablet Review: Back to Basics",
-      "url": "https://www.wired.com/review/remarkable-paper-pure/",
-      "source": "WIRED",
-      "category": "culture",
-      "publishedAt": "2026-05-06T12:02:00.000Z",
-      "excerpt": "After six years, the ReMarkable 2 gets a replacement in the form of the ReMarkable Paper Pure.",
-      "image": null
-    },
-    {
-      "id": "91677b0605b5c568",
-      "title": "The Influencers That Make Men Shop for Beauty",
-      "url": "https://www.businessoffashion.com/articles/beauty/mens-beauty-grooming-influencers/",
-      "source": "Business of Fashion",
-      "category": "design",
-      "publishedAt": "2026-05-06T12:00:00.000Z",
-      "excerpt": "They’re more likely to be athletes, stylists or dermatologists than traditional content creators.",
-      "image": "data/images/91677b0605b5c568.webp"
+      "image": "data/images/6f1509997fc90ff7.webp"
     }
   ]
 }
