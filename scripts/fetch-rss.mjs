@@ -14,7 +14,6 @@ const SOURCES = [
   { name: 'Creative Review', url: 'https://www.creativereview.co.uk/feed/', category: 'design' },
   { name: 'Business of Fashion', url: 'https://www.businessoffashion.com/feeds/news.xml', category: 'design' },
   { name: 'PrintMag', url: 'https://www.printmag.com/feed/', category: 'design' },
-  { name: 'Design Week', url: 'https://www.designweek.co.uk/feed/', category: 'design' },
 
   // Motion
   { name: 'Motionographer', url: 'https://motionographer.com/feed/', category: 'motion' },
@@ -50,9 +49,9 @@ const SOURCES = [
   { name: 'Adweek', url: 'https://www.adweek.com/feed/', category: 'marketing' },
   { name: 'Marketing Dive', url: 'https://www.marketingdive.com/feeds/news/', category: 'marketing' },
   { name: 'We Are Social', url: 'https://wearesocial.com/us/feed/', category: 'marketing' },
-  { name: 'Marketing Week', url: 'https://www.marketingweek.com/feed/', category: 'marketing' },
   { name: 'Campaign', url: 'https://www.campaignlive.com/rss/news', category: 'marketing' },
   { name: 'Adland', url: 'https://adland.tv/rss.xml', category: 'marketing' },
+  { name: 'Mumbrella', url: 'https://mumbrella.com.au/feed', category: 'marketing' },
 
   // Culture
   { name: 'The Atlantic', url: 'https://www.theatlantic.com/feed/all/', category: 'culture' },
