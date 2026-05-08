@@ -6,22 +6,20 @@ import crypto from 'node:crypto';
 
 const SOURCES = [
   // Design
-  { name: "It's Nice That", url: 'https://www.itsnicethat.com/feed', category: 'design' },
-  { name: 'Creative Boom', url: 'https://www.creativeboom.com/feed/', category: 'design' },
-  { name: 'Brand New', url: 'https://feeds.feedburner.com/UnderConsideration-BrandNew', category: 'design' },
-  { name: 'The Brand Identity', url: 'https://the-brandidentity.com/feed', category: 'design' },
+  { name: "It's Nice That", url: 'http://feeds2.feedburner.com/itsnicethat/SlXC', category: 'design' },
+  { name: 'Brand New', url: 'https://www.underconsideration.com/brandnew/atom.xml', category: 'design' },
   { name: 'Fast Company Co.Design', url: 'https://www.fastcompany.com/co-design/rss', category: 'design' },
   { name: 'Dezeen', url: 'https://www.dezeen.com/feed/', category: 'design' },
-  { name: 'AIGA Eye on Design', url: 'https://eyeondesign.aiga.org/feed/', category: 'design' },
-  { name: 'The Dieline', url: 'https://thedieline.com/blog?format=rss', category: 'design' },
+  { name: 'The Dieline', url: 'https://thedieline.com/feed/', category: 'design' },
   { name: 'Creative Review', url: 'https://www.creativereview.co.uk/feed/', category: 'design' },
   { name: 'Business of Fashion', url: 'https://www.businessoffashion.com/feeds/news.xml', category: 'design' },
+  { name: 'PrintMag', url: 'https://www.printmag.com/feed/', category: 'design' },
+  { name: 'Design Week', url: 'https://www.designweek.co.uk/feed/', category: 'design' },
 
   // Motion
   { name: 'Motionographer', url: 'https://motionographer.com/feed/', category: 'motion' },
   { name: 'Cartoon Brew', url: 'https://www.cartoonbrew.com/feed', category: 'motion' },
   { name: 'Stash Media', url: 'https://stashmedia.tv/feed/', category: 'motion' },
-  { name: 'School of Motion', url: 'https://www.schoolofmotion.com/blog/rss.xml', category: 'motion' },
   { name: 'Animation Magazine', url: 'https://www.animationmagazine.net/feed/', category: 'motion' },
   { name: 'Art of the Title', url: 'https://www.artofthetitle.com/feed/', category: 'motion' },
   { name: 'Befores & Afters', url: 'https://beforesandafters.com/feed/', category: 'motion' },
@@ -32,15 +30,12 @@ const SOURCES = [
   // Sport
   { name: 'Front Office Sports', url: 'https://frontofficesports.com/feed/', category: 'sport' },
   { name: 'Sportico', url: 'https://www.sportico.com/feed/', category: 'sport' },
-  { name: 'SportsPro Media', url: 'https://www.sportspromedia.com/rss/news/', category: 'sport' },
-  { name: 'Sports Business Journal', url: 'https://www.sportsbusinessjournal.com/RSS/Latest-News.aspx', category: 'sport' },
+  { name: 'SportsPro', url: 'https://www.sportspro.com/feed/', category: 'sport' },
   { name: 'SportBusiness', url: 'https://www.sportbusiness.com/feed/', category: 'sport' },
   { name: 'Boardroom', url: 'https://boardroom.tv/feed/', category: 'sport' },
   { name: 'Daily Faceoff', url: 'https://www.dailyfaceoff.com/feed', category: 'sport' },
   { name: 'The Athletic', url: 'https://theathletic.com/rss-feed/', category: 'sport' },
   { name: "The Players' Tribune", url: 'https://www.theplayerstribune.com/feed', category: 'sport' },
-  { name: 'Huddle Up', url: 'https://huddleup.substack.com/feed', category: 'sport' },
-  { name: 'The Sports Marketeer', url: 'https://thesportsmarketeer.substack.com/feed', category: 'sport' },
   { name: 'Octagon', url: 'https://www.octagon.com/feed/', category: 'sport' },
 
   // UX
@@ -50,16 +45,14 @@ const SOURCES = [
   { name: 'A List Apart', url: 'https://alistapart.com/main/feed/', category: 'ux' },
   { name: 'Codrops', url: 'https://tympanus.net/codrops/feed/', category: 'ux' },
   { name: 'Figma Blog', url: 'https://www.figma.com/blog/feed/atom.xml', category: 'ux' },
-  { name: 'Awwwards Blog', url: 'https://www.awwwards.com/blog/feed.xml', category: 'ux' },
 
   // Marketing
   { name: 'Adweek', url: 'https://www.adweek.com/feed/', category: 'marketing' },
-  { name: 'Marketing Brew', url: 'https://www.marketingbrew.com/feed', category: 'marketing' },
-  { name: 'Ad Age', url: 'https://adage.com/rss.xml', category: 'marketing' },
-  { name: 'The Drum', url: 'https://www.thedrum.com/rss.xml', category: 'marketing' },
   { name: 'Marketing Dive', url: 'https://www.marketingdive.com/feeds/news/', category: 'marketing' },
-  { name: 'Contagious', url: 'https://www.contagious.com/news-and-views/rss', category: 'marketing' },
   { name: 'We Are Social', url: 'https://wearesocial.com/us/feed/', category: 'marketing' },
+  { name: 'Marketing Week', url: 'https://www.marketingweek.com/feed/', category: 'marketing' },
+  { name: 'Campaign', url: 'https://www.campaignlive.com/rss/news', category: 'marketing' },
+  { name: 'Adland', url: 'https://adland.tv/rss.xml', category: 'marketing' },
 
   // Culture
   { name: 'The Atlantic', url: 'https://www.theatlantic.com/feed/all/', category: 'culture' },
